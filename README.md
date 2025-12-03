@@ -42,11 +42,11 @@ We then:
 
 We generate templated prompts over simple objects (cat, dog, banana, etc.) with controlled relations, such as:
 
-- Commutative–Horizontal:  
+- **Commutative–Horizontal:  **
   - A: `a red cube to the left of a blue sphere on a wooden table`  
   - B: `a blue sphere to the right of a red cube on a wooden table`  
 
-- DeMorgan–Conjunctive:  
+- **DeMorgan–Conjunctive:  **
   - A: `a scene where it is not the case that both a red cube and a blue sphere are present`  
   - B: `a scene with either no red cube or no blue sphere present`  
 
@@ -75,7 +75,10 @@ Images/<logical_law>/<category_id>/<semantic_dimension>/<pair_id>_A.png
 Images/<logical_law>/<category_id>/<semantic_dimension>/<pair_id>_B.png
 ``
 
-### 3. VQA Evaluation
+### 3. CLIPScore + VQA Evaluation
+
+The metrics we use to evaluate for robustness are **CLIPScore** and a **TIFA-lite VQA evaluation**. The `MetaLogic-Image-Eval.ipynb` notebook implements these metrics, generating CLIPScores for each image prompt pair, and a VQA pipeline.
+
 We implement a simplified TIFA-style pipeline:
 
 1. Use an LLM (e.g., GPT-4.1 mini) to generate a small set of question–answer pairs per prompt.
@@ -86,9 +89,9 @@ We treat this accuracy as a faithfulness score in [0,1].
 
 ### 4. Results
 
-The `MetaLogic-Faithfulness-Eval.ipynb` notebook takes the raw VQA outputs and computes category-level metrics, focusing on analyzing the raw results over the 20 individual perturbation categories, the 5 logical laws, and the 4 semantic dimensions.
+The `MetaLogic-Faithfulness-Eval.ipynb` notebook takes the raw VQA outputs and computes **category-level metrics**, focusing on analyzing the raw results over the 20 individual perturbation categories, the 5 logical laws, and the 4 semantic dimensions.
 
-For each image, it computes VQA accuracy as:
+For each image, it computes **VQA accuracy** as:
 * faithfulness = fraction of questions answered correctly
 
 For each prompt pair (A, B), it computes:
@@ -104,4 +107,4 @@ The notebook also produces:
 * Bar plots by semantic dimension (4 bars)
 * Heatmaps (logical law × semantic dimension) of mean stability and mean faithfulness 
 
-Qualitative examples of the worst-performing categories (A/B images + prompts)
+**Qualitative examples of the worst-performing categories** (A/B images + prompts)
