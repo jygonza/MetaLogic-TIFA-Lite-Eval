@@ -101,10 +101,24 @@ For each prompt pair (A, B), it computes:
 * faith_diff = |faith_A − faith_B|
 * faith_stability = 1 − faith_diff (1 = perfectly invariant, 0 = maximally unstable)
 
+[category_metrics.csv](Plotted_Results/category_metrics.csv)
+
 The notebook also produces:
 * Bar plots of stability by category (20 bars)
 * Bar plots by logical law (5 bars)
 * Bar plots by semantic dimension (4 bars)
-* Heatmaps (logical law × semantic dimension) of mean stability and mean faithfulness 
+* Heatmaps (logical law × semantic dimension) of mean stability and mean faithfulness
+
+[category_faithfulness_bar.png](Plotted_Results/category_faithfulness_bar.png)
+
+[category_stability_bar.png](Plotted_Results/category_stability_bar.png)
+
+[logical_law_stability_bar.png](Plotted_Results/logical_law_stability_bar.png)
+
+[semantic_dim_faithfulness_bar.png](Plotted_Results/semantic_dim_faithfulness_bar.png)
+
+[heatmap_stability.png](Plotted_Results/heatmap_stability.png)
+
+[heatmap_faithfulness.png](Plotted_Results/heatmap_faithfulness.png)
 
 **Qualitative examples of the worst-performing categories** (A/B images + prompts)
