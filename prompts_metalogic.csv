@@ -1,0 +1,101 @@
+pair_id,category_id,logical_law,semantic_dimension,prompt_A,prompt_B
+comm_conj_001,1,Commutative,Conjunctive,a red cat and a yellow apple on a wooden table,a yellow apple and a red cat on a wooden table
+comm_conj_002,1,Commutative,Conjunctive,a blue dog and a yellow cat on a dark metal floor,a yellow cat and a blue dog on a dark metal floor
+comm_conj_003,1,Commutative,Conjunctive,a red banana and a blue cat on a wooden table,a blue cat and a red banana on a wooden table
+comm_conj_004,1,Commutative,Conjunctive,a blue dog and a yellow banana on a wooden table,a yellow banana and a blue dog on a wooden table
+comm_conj_005,1,Commutative,Conjunctive,a blue banana and a red dog on a dark metal floor,a red dog and a blue banana on a dark metal floor
+comm_horiz_001,2,Commutative,Horizontal,a green cat to the left of a red banana on a plain white surface,a red banana to the right of a green cat on a plain white surface
+comm_horiz_002,2,Commutative,Horizontal,a green apple to the left of a red cat on a plain white surface,a red cat to the right of a green apple on a plain white surface
+comm_horiz_003,2,Commutative,Horizontal,a red cat to the left of a green dog on a plain white surface,a green dog to the right of a red cat on a plain white surface
+comm_horiz_004,2,Commutative,Horizontal,a green apple to the left of a red banana on a plain white surface,a red banana to the right of a green apple on a plain white surface
+comm_horiz_005,2,Commutative,Horizontal,a red banana to the left of a blue apple on a plain white surface,a blue apple to the right of a red banana on a plain white surface
+comm_vert_001,3,Commutative,Vertical,a green dog above a yellow cat on a wooden table,a yellow cat below a green dog on a wooden table
+comm_vert_002,3,Commutative,Vertical,a blue apple above a red cat on a wooden table,a red cat below a blue apple on a wooden table
+comm_vert_003,3,Commutative,Vertical,a yellow apple above a blue banana on a plain white surface,a blue banana below a yellow apple on a plain white surface
+comm_vert_004,3,Commutative,Vertical,a blue apple above a green cat on a dark metal floor,a green cat below a blue apple on a dark metal floor
+comm_vert_005,3,Commutative,Vertical,a green cat above a yellow banana on a wooden table,a yellow banana below a green cat on a wooden table
+comm_attr_001,4,Commutative,Attributes,a small blue banana on a plain white surface,a blue small banana on a plain white surface
+comm_attr_002,4,Commutative,Attributes,a small green apple on a wooden table,a green small apple on a wooden table
+comm_attr_003,4,Commutative,Attributes,a small blue apple on a plain white surface,a blue small apple on a plain white surface
+comm_attr_004,4,Commutative,Attributes,a small green dog on a dark metal floor,a green small dog on a dark metal floor
+comm_attr_005,4,Commutative,Attributes,a small green banana on a plain white surface,a green small banana on a plain white surface
+assoc_conj_001,5,Associative,Conjunctive,"a yellow dog and a blue cat, with a red banana next to them on a dark metal floor","a yellow dog, with a blue cat and a red banana next to it on a dark metal floor"
+assoc_conj_002,5,Associative,Conjunctive,"a green banana and a yellow dog, with a blue cat next to them on a wooden table","a green banana, with a yellow dog and a blue cat next to it on a wooden table"
+assoc_conj_003,5,Associative,Conjunctive,"a yellow cat and a red dog, with a blue banana next to them on a wooden table","a yellow cat, with a red dog and a blue banana next to it on a wooden table"
+assoc_conj_004,5,Associative,Conjunctive,"a yellow cat and a blue apple, with a yellow dog next to them on a dark metal floor","a yellow cat, with a blue apple and a yellow dog next to it on a dark metal floor"
+assoc_conj_005,5,Associative,Conjunctive,"a green cat and a yellow banana, with a red apple next to them on a dark metal floor","a green cat, with a yellow banana and a red apple next to it on a dark metal floor"
+assoc_horiz_001,6,Associative,Horizontal,"a green apple to the left of a red dog, which is to the left of a green cat on a plain white surface",a green apple to the left of a red dog and a green cat lined up on a plain white surface
+assoc_horiz_002,6,Associative,Horizontal,"a red apple to the left of a yellow cat, which is to the left of a green dog on a dark metal floor",a red apple to the left of a yellow cat and a green dog lined up on a dark metal floor
+assoc_horiz_003,6,Associative,Horizontal,"a green dog to the left of a red apple, which is to the left of a blue banana on a dark metal floor",a green dog to the left of a red apple and a blue banana lined up on a dark metal floor
+assoc_horiz_004,6,Associative,Horizontal,"a red apple to the left of a green cat, which is to the left of a red apple on a plain white surface",a red apple to the left of a green cat and a red apple lined up on a plain white surface
+assoc_horiz_005,6,Associative,Horizontal,"a blue cat to the left of a red banana, which is to the left of a blue cat on a dark metal floor",a blue cat to the left of a red banana and a blue cat lined up on a dark metal floor
+assoc_vert_001,7,Associative,Vertical,"a yellow cat above a green dog, which is above a red banana on a plain white surface","a vertical stack with a yellow cat on top, then a green dog, and a red banana on a plain white surface"
+assoc_vert_002,7,Associative,Vertical,"a blue apple above a yellow banana, which is above a blue cat on a dark metal floor","a vertical stack with a blue apple on top, then a yellow banana, and a blue cat on a dark metal floor"
+assoc_vert_003,7,Associative,Vertical,"a blue apple above a green banana, which is above a yellow dog on a plain white surface","a vertical stack with a blue apple on top, then a green banana, and a yellow dog on a plain white surface"
+assoc_vert_004,7,Associative,Vertical,"a yellow cat above a red dog, which is above a blue apple on a wooden table","a vertical stack with a yellow cat on top, then a red dog, and a blue apple on a wooden table"
+assoc_vert_005,7,Associative,Vertical,"a blue dog above a red cat, which is above a yellow banana on a wooden table","a vertical stack with a blue dog on top, then a red cat, and a yellow banana on a wooden table"
+assoc_attr_001,8,Associative,Attributes,"a small, red, shiny cat on a plain white surface","a shiny small, red cat on a plain white surface"
+assoc_attr_002,8,Associative,Attributes,"a small, blue, shiny apple on a dark metal floor","a shiny small, blue apple on a dark metal floor"
+assoc_attr_003,8,Associative,Attributes,"a large, blue, shiny dog on a dark metal floor","a shiny large, blue dog on a dark metal floor"
+assoc_attr_004,8,Associative,Attributes,"a large, blue, shiny banana on a plain white surface","a shiny large, blue banana on a plain white surface"
+assoc_attr_005,8,Associative,Attributes,"a small, red, shiny cat on a dark metal floor","a shiny small, red cat on a dark metal floor"
+dist_conj_001,9,Distributive,Conjunctive,a yellow apple and either a blue dog or a green banana on a wooden table,either a yellow apple with a blue dog or a yellow apple with a green banana on a wooden table
+dist_conj_002,9,Distributive,Conjunctive,a red cat and either a green banana or a blue cat on a wooden table,either a red cat with a green banana or a red cat with a blue cat on a wooden table
+dist_conj_003,9,Distributive,Conjunctive,a blue dog and either a yellow apple or a red dog on a wooden table,either a blue dog with a yellow apple or a blue dog with a red dog on a wooden table
+dist_conj_004,9,Distributive,Conjunctive,a green banana and either a red cat or a green banana on a wooden table,either a green banana with a red cat or a green banana with a green banana on a wooden table
+dist_conj_005,9,Distributive,Conjunctive,a red cat and either a blue dog or a red apple on a plain white surface,either a red cat with a blue dog or a red cat with a red apple on a plain white surface
+dist_horiz_001,10,Distributive,Horizontal,a yellow dog to the left of either a blue cat or a red apple on a wooden table,either a yellow dog to the left of a blue cat or a yellow dog to the left of a red apple on a wooden table
+dist_horiz_002,10,Distributive,Horizontal,a yellow apple to the left of either a blue dog or a green banana on a dark metal floor,either a yellow apple to the left of a blue dog or a yellow apple to the left of a green banana on a dark metal floor
+dist_horiz_003,10,Distributive,Horizontal,a yellow dog to the left of either a red apple or a blue cat on a dark metal floor,either a yellow dog to the left of a red apple or a yellow dog to the left of a blue cat on a dark metal floor
+dist_horiz_004,10,Distributive,Horizontal,a red apple to the left of either a blue cat or a yellow apple on a dark metal floor,either a red apple to the left of a blue cat or a red apple to the left of a yellow apple on a dark metal floor
+dist_horiz_005,10,Distributive,Horizontal,a blue cat to the left of either a yellow dog or a red cat on a dark metal floor,either a blue cat to the left of a yellow dog or a blue cat to the left of a red cat on a dark metal floor
+dist_vert_001,11,Distributive,Vertical,a red dog above either a green cat or a yellow dog on a dark metal floor,either a red dog above a green cat or a red dog above a yellow dog on a dark metal floor
+dist_vert_002,11,Distributive,Vertical,a red cat above either a green banana or a yellow apple on a dark metal floor,either a red cat above a green banana or a red cat above a yellow apple on a dark metal floor
+dist_vert_003,11,Distributive,Vertical,a green apple above either a red banana or a yellow dog on a wooden table,either a green apple above a red banana or a green apple above a yellow dog on a wooden table
+dist_vert_004,11,Distributive,Vertical,a green banana above either a red apple or a yellow dog on a plain white surface,either a green banana above a red apple or a green banana above a yellow dog on a plain white surface
+dist_vert_005,11,Distributive,Vertical,a green cat above either a red apple or a yellow banana on a wooden table,either a green cat above a red apple or a green cat above a yellow banana on a wooden table
+dist_attr_001,12,Distributive,Attributes,a red dog that is either small or large on a plain white surface,"either a small, red dog or a large, red dog on a plain white surface"
+dist_attr_002,12,Distributive,Attributes,a red apple that is either small or large on a wooden table,"either a small, red apple or a large, red apple on a wooden table"
+dist_attr_003,12,Distributive,Attributes,a yellow apple that is either large or small on a dark metal floor,"either a large, yellow apple or a small, yellow apple on a dark metal floor"
+dist_attr_004,12,Distributive,Attributes,a red cat that is either small or large on a wooden table,"either a small, red cat or a large, red cat on a wooden table"
+dist_attr_005,12,Distributive,Attributes,a blue dog that is either large or small on a dark metal floor,"either a large, blue dog or a small, blue dog on a dark metal floor"
+compl_conj_001,13,Complement,Conjunctive,a green dog on a dark metal floor,a dark metal floor with no green dog visible
+compl_conj_002,13,Complement,Conjunctive,a green banana on a plain white surface,a plain white surface with no green banana visible
+compl_conj_003,13,Complement,Conjunctive,a red cat on a dark metal floor,a dark metal floor with no red cat visible
+compl_conj_004,13,Complement,Conjunctive,a yellow apple on a wooden table,a wooden table with no yellow apple visible
+compl_conj_005,13,Complement,Conjunctive,a red apple on a wooden table,a wooden table with no red apple visible
+compl_horiz_001,14,Complement,Horizontal,a green dog to the left of a yellow apple on a dark metal floor,"a dark metal floor with a yellow apple, but no green dog to its left"
+compl_horiz_002,14,Complement,Horizontal,a yellow cat to the left of a red dog on a dark metal floor,"a dark metal floor with a red dog, but no yellow cat to its left"
+compl_horiz_003,14,Complement,Horizontal,a blue cat to the left of a green banana on a dark metal floor,"a dark metal floor with a green banana, but no blue cat to its left"
+compl_horiz_004,14,Complement,Horizontal,a blue banana to the left of a red cat on a plain white surface,"a plain white surface with a red cat, but no blue banana to its left"
+compl_horiz_005,14,Complement,Horizontal,a green cat to the left of a blue dog on a dark metal floor,"a dark metal floor with a blue dog, but no green cat to its left"
+compl_vert_001,15,Complement,Vertical,a blue cat above a green banana on a plain white surface,"a plain white surface with a green banana, but no blue cat above it"
+compl_vert_002,15,Complement,Vertical,a blue dog above a red cat on a plain white surface,"a plain white surface with a red cat, but no blue dog above it"
+compl_vert_003,15,Complement,Vertical,a red dog above a yellow apple on a plain white surface,"a plain white surface with a yellow apple, but no red dog above it"
+compl_vert_004,15,Complement,Vertical,a blue apple above a red banana on a wooden table,"a wooden table with a red banana, but no blue apple above it"
+compl_vert_005,15,Complement,Vertical,a yellow cat above a blue dog on a wooden table,"a wooden table with a blue dog, but no yellow cat above it"
+compl_attr_001,16,Complement,Attributes,a yellow apple on a wooden table,"a wooden table with a apple that is not yellow, such as a blue apple"
+compl_attr_002,16,Complement,Attributes,a blue dog on a plain white surface,"a plain white surface with a dog that is not blue, such as a red dog"
+compl_attr_003,16,Complement,Attributes,a green cat on a plain white surface,"a plain white surface with a cat that is not green, such as a blue cat"
+compl_attr_004,16,Complement,Attributes,a green banana on a dark metal floor,"a dark metal floor with a banana that is not green, such as a yellow banana"
+compl_attr_005,16,Complement,Attributes,a green cat on a plain white surface,"a plain white surface with a cat that is not green, such as a red cat"
+demorgan_conj_001,17,DeMorgan,Conjunctive,a dark metal floor where it is not the case that both a blue apple and a red cat are present,a dark metal floor with either no blue apple or no red cat present
+demorgan_conj_002,17,DeMorgan,Conjunctive,a plain white surface where it is not the case that both a yellow apple and a green dog are present,a plain white surface with either no yellow apple or no green dog present
+demorgan_conj_003,17,DeMorgan,Conjunctive,a plain white surface where it is not the case that both a red banana and a yellow cat are present,a plain white surface with either no red banana or no yellow cat present
+demorgan_conj_004,17,DeMorgan,Conjunctive,a dark metal floor where it is not the case that both a red banana and a blue apple are present,a dark metal floor with either no red banana or no blue apple present
+demorgan_conj_005,17,DeMorgan,Conjunctive,a dark metal floor where it is not the case that both a blue apple and a green cat are present,a dark metal floor with either no blue apple or no green cat present
+demorgan_horiz_001,18,DeMorgan,Horizontal,a dark metal floor where it is not the case that a green apple is to the left of a yellow cat,a dark metal floor with either no green apple or no yellow cat in a left-right arrangement
+demorgan_horiz_002,18,DeMorgan,Horizontal,a plain white surface where it is not the case that a green apple is to the left of a yellow dog,a plain white surface with either no green apple or no yellow dog in a left-right arrangement
+demorgan_horiz_003,18,DeMorgan,Horizontal,a wooden table where it is not the case that a yellow apple is to the left of a green cat,a wooden table with either no yellow apple or no green cat in a left-right arrangement
+demorgan_horiz_004,18,DeMorgan,Horizontal,a wooden table where it is not the case that a yellow banana is to the left of a green apple,a wooden table with either no yellow banana or no green apple in a left-right arrangement
+demorgan_horiz_005,18,DeMorgan,Horizontal,a plain white surface where it is not the case that a green banana is to the left of a yellow cat,a plain white surface with either no green banana or no yellow cat in a left-right arrangement
+demorgan_vert_001,19,DeMorgan,Vertical,a dark metal floor where it is not the case that a green dog is above a blue banana,a dark metal floor with either no green dog or no blue banana in an above-below arrangement
+demorgan_vert_002,19,DeMorgan,Vertical,a dark metal floor where it is not the case that a green banana is above a blue dog,a dark metal floor with either no green banana or no blue dog in an above-below arrangement
+demorgan_vert_003,19,DeMorgan,Vertical,a dark metal floor where it is not the case that a blue banana is above a yellow cat,a dark metal floor with either no blue banana or no yellow cat in an above-below arrangement
+demorgan_vert_004,19,DeMorgan,Vertical,a dark metal floor where it is not the case that a red apple is above a yellow banana,a dark metal floor with either no red apple or no yellow banana in an above-below arrangement
+demorgan_vert_005,19,DeMorgan,Vertical,a plain white surface where it is not the case that a green cat is above a red banana,a plain white surface with either no green cat or no red banana in an above-below arrangement
+demorgan_attr_001,20,DeMorgan,Attributes,"a wooden table where it is not the case that there is a small, blue cat","a wooden table with a cat that is either not blue or not small, such as a large, red cat"
+demorgan_attr_002,20,DeMorgan,Attributes,"a dark metal floor where it is not the case that there is a small, yellow banana","a dark metal floor with a banana that is either not yellow or not small, such as a large, green banana"
+demorgan_attr_003,20,DeMorgan,Attributes,"a wooden table where it is not the case that there is a large, blue banana","a wooden table with a banana that is either not blue or not large, such as a small, yellow banana"
+demorgan_attr_004,20,DeMorgan,Attributes,"a wooden table where it is not the case that there is a small, blue banana","a wooden table with a banana that is either not blue or not small, such as a large, yellow banana"
+demorgan_attr_005,20,DeMorgan,Attributes,"a wooden table where it is not the case that there is a large, blue dog","a wooden table with a dog that is either not blue or not large, such as a small, yellow dog"

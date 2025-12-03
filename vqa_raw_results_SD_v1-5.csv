@@ -1,0 +1,1001 @@
+pair_id,logical_law,category_id,semantic_dimension,image_variant,image_path,question,expected_answer,predicted_answer_raw,predicted_answer_norm,is_correct
+comm_conj_001,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_001_A.png,Is there a red cat in the image?,yes,yes,yes,1
+comm_conj_001,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_001_A.png,Is there a yellow apple in the image?,yes,yes,yes,1
+comm_conj_001,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_001_A.png,Are the objects placed on a wooden table?,yes,yes,yes,1
+comm_conj_001,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_001_A.png,Is the apple yellow in color?,yes,yes,yes,1
+comm_conj_001,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_001_A.png,Is the cat red in color?,yes,yes,yes,1
+comm_conj_001,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_001_B.png,Is there a red cat in the image?,yes,no,no,0
+comm_conj_001,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_001_B.png,Is there a yellow apple in the image?,yes,yes,yes,1
+comm_conj_001,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_001_B.png,Are the objects placed on a wooden table?,yes,yes,yes,1
+comm_conj_001,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_001_B.png,Is the apple yellow in color?,yes,yes,yes,1
+comm_conj_001,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_001_B.png,Is the cat red in color?,yes,no,no,0
+comm_conj_002,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_002_A.png,Is there a blue dog in the scene?,yes,no,no,0
+comm_conj_002,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_002_A.png,Is there a yellow cat in the scene?,yes,no,no,0
+comm_conj_002,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_002_A.png,Are the dog and cat on a metal floor?,yes,no,no,0
+comm_conj_002,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_002_A.png,Is the floor dark in color?,yes,no,no,0
+comm_conj_002,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_002_A.png,Are both animals present together?,yes,no,no,0
+comm_conj_002,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_002_B.png,Is there a blue dog in the scene?,yes,no,no,0
+comm_conj_002,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_002_B.png,Is there a yellow cat in the scene?,yes,yes,yes,1
+comm_conj_002,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_002_B.png,Are the dog and cat on a metal floor?,yes,no,no,0
+comm_conj_002,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_002_B.png,Is the floor dark in color?,yes,yes,yes,1
+comm_conj_002,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_002_B.png,Are both animals present together?,yes,yes,yes,1
+comm_conj_003,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_003_A.png,Is there a red banana in the image?,yes,no,no,0
+comm_conj_003,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_003_A.png,Is there a blue cat in the image?,yes,no,no,0
+comm_conj_003,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_003_A.png,Are the objects placed on a wooden table?,yes,no,no,0
+comm_conj_003,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_003_A.png,Is the cat blue in color?,yes,no,no,0
+comm_conj_003,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_003_A.png,Is the banana red in color?,yes,no,no,0
+comm_conj_003,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_003_B.png,Is there a red banana in the image?,yes,no,no,0
+comm_conj_003,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_003_B.png,Is there a blue cat in the image?,yes,yes,yes,1
+comm_conj_003,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_003_B.png,Are the objects placed on a wooden table?,yes,yes,yes,1
+comm_conj_003,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_003_B.png,Is the cat blue in color?,yes,yes,yes,1
+comm_conj_003,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_003_B.png,Is the banana red in color?,yes,yes,yes,1
+comm_conj_004,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_004_A.png,Is there a blue dog in the image?,yes,no,no,0
+comm_conj_004,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_004_A.png,Is there a yellow banana in the image?,yes,yes,yes,1
+comm_conj_004,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_004_A.png,Are the objects placed on a wooden table?,yes,yes,yes,1
+comm_conj_004,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_004_A.png,Is the dog blue in color?,yes,no,no,0
+comm_conj_004,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_004_A.png,Is the banana yellow?,yes,yes,yes,1
+comm_conj_004,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_004_B.png,Is there a blue dog in the image?,yes,no,no,0
+comm_conj_004,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_004_B.png,Is there a yellow banana in the image?,yes,yes,yes,1
+comm_conj_004,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_004_B.png,Are the objects placed on a wooden table?,yes,yes,yes,1
+comm_conj_004,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_004_B.png,Is the dog blue in color?,yes,no,no,0
+comm_conj_004,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_004_B.png,Is the banana yellow?,yes,yes,yes,1
+comm_conj_005,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_005_A.png,Is there a blue banana in the image?,yes,no,no,0
+comm_conj_005,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_005_A.png,Is there a red dog in the image?,yes,no,no,0
+comm_conj_005,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_005_A.png,Is the floor dark and metallic?,yes,no,no,0
+comm_conj_005,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_005_A.png,Are there exactly two main objects in the scene?,yes,yes,yes,1
+comm_conj_005,Commutative,1,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_005_A.png,Is the scene indoors with a metal floor?,yes,no,no,0
+comm_conj_005,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_005_B.png,Is there a blue banana in the image?,yes,no,no,0
+comm_conj_005,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_005_B.png,Is there a red dog in the image?,yes,yes,yes,1
+comm_conj_005,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_005_B.png,Is the floor dark and metallic?,yes,yes,yes,1
+comm_conj_005,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_005_B.png,Are there exactly two main objects in the scene?,yes,yes,yes,1
+comm_conj_005,Commutative,1,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/1/Conjunctive/comm_conj_005_B.png,Is the scene indoors with a metal floor?,yes,no,no,0
+comm_horiz_001,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_001_A.png,Is there a green cat in the image?,yes,yes,yes,1
+comm_horiz_001,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_001_A.png,Is there a red banana in the image?,yes,no,no,0
+comm_horiz_001,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_001_A.png,Are the cat and banana on a plain white surface?,yes,no,no,0
+comm_horiz_001,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_001_A.png,Is the cat positioned to the left of the banana?,yes,no,no,0
+comm_horiz_001,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_001_A.png,Are both the cat and banana clearly visible?,yes,no,no,0
+comm_horiz_001,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_001_B.png,Is there a green cat in the image?,yes,no,no,0
+comm_horiz_001,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_001_B.png,Is there a red banana in the image?,yes,yes,yes,1
+comm_horiz_001,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_001_B.png,Are the cat and banana on a plain white surface?,yes,no,no,0
+comm_horiz_001,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_001_B.png,Is the cat positioned to the left of the banana?,yes,no,no,0
+comm_horiz_001,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_001_B.png,Are both the cat and banana clearly visible?,yes,no,no,0
+comm_horiz_002,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_002_A.png,Is there a green apple in the image?,yes,no,no,0
+comm_horiz_002,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_002_A.png,Is there a red cat in the image?,yes,yes,yes,1
+comm_horiz_002,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_002_A.png,Is the background plain white?,yes,no,no,0
+comm_horiz_002,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_002_A.png,Are the apple and cat on a flat surface?,yes,no,no,0
+comm_horiz_002,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_002_A.png,Is the apple positioned next to the cat?,yes,no,no,0
+comm_horiz_002,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_002_B.png,Is there a green apple in the image?,yes,yes,yes,1
+comm_horiz_002,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_002_B.png,Is there a red cat in the image?,yes,yes,yes,1
+comm_horiz_002,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_002_B.png,Is the background plain white?,yes,no,no,0
+comm_horiz_002,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_002_B.png,Are the apple and cat on a flat surface?,yes,yes,yes,1
+comm_horiz_002,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_002_B.png,Is the apple positioned next to the cat?,yes,yes,yes,1
+comm_horiz_003,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_003_A.png,Is there a red cat in the image?,yes,yes,yes,1
+comm_horiz_003,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_003_A.png,Is there a green dog in the image?,yes,no,no,0
+comm_horiz_003,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_003_A.png,Are the cat and dog on a white surface?,yes,no,no,0
+comm_horiz_003,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_003_A.png,Is the cat and dog the only animals present?,yes,no,no,0
+comm_horiz_003,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_003_A.png,Are the cat and dog next to each other?,yes,no,no,0
+comm_horiz_003,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_003_B.png,Is there a red cat in the image?,yes,yes,yes,1
+comm_horiz_003,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_003_B.png,Is there a green dog in the image?,yes,no,no,0
+comm_horiz_003,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_003_B.png,Are the cat and dog on a white surface?,yes,no,no,0
+comm_horiz_003,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_003_B.png,Is the cat and dog the only animals present?,yes,no,no,0
+comm_horiz_003,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_003_B.png,Are the cat and dog next to each other?,yes,no,no,0
+comm_horiz_004,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_004_A.png,Is there a green apple in the image?,yes,yes,yes,1
+comm_horiz_004,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_004_A.png,Is there a red banana in the image?,yes,yes,yes,1
+comm_horiz_004,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_004_A.png,Are the apple and banana on a white surface?,yes,no,no,0
+comm_horiz_004,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_004_A.png,Is the apple positioned next to the banana?,yes,no,no,0
+comm_horiz_004,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_004_A.png,Are both fruits clearly visible in the image?,yes,no,no,0
+comm_horiz_004,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_004_B.png,Is there a green apple in the image?,yes,yes,yes,1
+comm_horiz_004,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_004_B.png,Is there a red banana in the image?,yes,no,no,0
+comm_horiz_004,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_004_B.png,Are the apple and banana on a white surface?,yes,no,no,0
+comm_horiz_004,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_004_B.png,Is the apple positioned next to the banana?,yes,no,no,0
+comm_horiz_004,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_004_B.png,Are both fruits clearly visible in the image?,yes,yes,yes,1
+comm_horiz_005,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_005_A.png,Is there a red banana in the image?,yes,yes,yes,1
+comm_horiz_005,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_005_A.png,Is there a blue apple in the image?,yes,no,no,0
+comm_horiz_005,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_005_A.png,Are the objects placed on a plain white surface?,yes,yes,yes,1
+comm_horiz_005,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_005_A.png,Is the banana positioned next to the apple?,yes,yes,yes,1
+comm_horiz_005,Commutative,2,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_005_A.png,Are there exactly two objects in the scene?,yes,yes,yes,1
+comm_horiz_005,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_005_B.png,Is there a red banana in the image?,yes,no,no,0
+comm_horiz_005,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_005_B.png,Is there a blue apple in the image?,yes,no,no,0
+comm_horiz_005,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_005_B.png,Are the objects placed on a plain white surface?,yes,yes,yes,1
+comm_horiz_005,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_005_B.png,Is the banana positioned next to the apple?,yes,no,no,0
+comm_horiz_005,Commutative,2,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/2/Horizontal/comm_horiz_005_B.png,Are there exactly two objects in the scene?,yes,yes,yes,1
+comm_vert_001,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_001_A.png,Is there a green dog in the image?,yes,no,no,0
+comm_vert_001,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_001_A.png,Is there a yellow cat in the image?,yes,yes,yes,1
+comm_vert_001,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_001_A.png,Are the dog and cat on a wooden table?,yes,no,no,0
+comm_vert_001,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_001_A.png,Is the dog positioned above the cat?,yes,no,no,0
+comm_vert_001,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_001_A.png,Is the cat positioned below the dog?,yes,no,no,0
+comm_vert_001,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_001_B.png,Is there a green dog in the image?,yes,no,no,0
+comm_vert_001,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_001_B.png,Is there a yellow cat in the image?,yes,no,no,0
+comm_vert_001,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_001_B.png,Are the dog and cat on a wooden table?,yes,no,no,0
+comm_vert_001,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_001_B.png,Is the dog positioned above the cat?,yes,no,no,0
+comm_vert_001,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_001_B.png,Is the cat positioned below the dog?,yes,no,no,0
+comm_vert_002,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_002_A.png,Is there a blue apple in the image?,yes,yes,yes,1
+comm_vert_002,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_002_A.png,Is there a red cat in the image?,yes,yes,yes,1
+comm_vert_002,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_002_A.png,Is the apple positioned above the cat?,yes,no,no,0
+comm_vert_002,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_002_A.png,Are both the apple and the cat on a wooden table?,yes,yes,yes,1
+comm_vert_002,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_002_A.png,Is the cat below the apple?,yes,yes,yes,1
+comm_vert_002,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_002_B.png,Is there a blue apple in the image?,yes,no,no,0
+comm_vert_002,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_002_B.png,Is there a red cat in the image?,yes,yes,yes,1
+comm_vert_002,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_002_B.png,Is the apple positioned above the cat?,yes,no,no,0
+comm_vert_002,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_002_B.png,Are both the apple and the cat on a wooden table?,yes,yes,yes,1
+comm_vert_002,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_002_B.png,Is the cat below the apple?,yes,yes,yes,1
+comm_vert_003,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_003_A.png,Is there a yellow apple in the image?,yes,yes,yes,1
+comm_vert_003,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_003_A.png,Is there a blue banana in the image?,yes,no,no,0
+comm_vert_003,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_003_A.png,Are the apple and banana on a plain white surface?,yes,no,no,0
+comm_vert_003,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_003_A.png,Is the apple positioned above the banana?,yes,no,no,0
+comm_vert_003,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_003_A.png,Is the banana positioned below the apple?,yes,no,no,0
+comm_vert_003,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_003_B.png,Is there a yellow apple in the image?,yes,yes,yes,1
+comm_vert_003,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_003_B.png,Is there a blue banana in the image?,yes,yes,yes,1
+comm_vert_003,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_003_B.png,Are the apple and banana on a plain white surface?,yes,no,no,0
+comm_vert_003,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_003_B.png,Is the apple positioned above the banana?,yes,no,no,0
+comm_vert_003,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_003_B.png,Is the banana positioned below the apple?,yes,yes,yes,1
+comm_vert_004,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_004_A.png,Is there a blue apple in the scene?,yes,yes,yes,1
+comm_vert_004,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_004_A.png,Is there a green cat in the scene?,yes,no,no,0
+comm_vert_004,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_004_A.png,Is the floor dark and metallic?,yes,no,no,0
+comm_vert_004,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_004_A.png,Is the apple positioned above the cat?,yes,no,no,0
+comm_vert_004,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_004_A.png,Are both the apple and the cat present together?,yes,no,no,0
+comm_vert_004,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_004_B.png,Is there a blue apple in the scene?,yes,no,no,0
+comm_vert_004,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_004_B.png,Is there a green cat in the scene?,yes,yes,yes,1
+comm_vert_004,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_004_B.png,Is the floor dark and metallic?,yes,no,no,0
+comm_vert_004,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_004_B.png,Is the apple positioned above the cat?,yes,no,no,0
+comm_vert_004,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_004_B.png,Are both the apple and the cat present together?,yes,no,no,0
+comm_vert_005,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_005_A.png,Is there a green cat in the image?,yes,yes,yes,1
+comm_vert_005,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_005_A.png,Is there a yellow banana in the image?,yes,no,no,0
+comm_vert_005,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_005_A.png,Is the cat positioned above the banana?,yes,no,no,0
+comm_vert_005,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_005_A.png,Are both objects on a wooden table?,yes,yes,yes,1
+comm_vert_005,Commutative,3,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_005_A.png,Is the banana yellow in color?,yes,yes,yes,1
+comm_vert_005,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_005_B.png,Is there a green cat in the image?,yes,no,no,0
+comm_vert_005,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_005_B.png,Is there a yellow banana in the image?,yes,yes,yes,1
+comm_vert_005,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_005_B.png,Is the cat positioned above the banana?,yes,no,no,0
+comm_vert_005,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_005_B.png,Are both objects on a wooden table?,yes,yes,yes,1
+comm_vert_005,Commutative,3,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/3/Vertical/comm_vert_005_B.png,Is the banana yellow in color?,yes,yes,yes,1
+comm_attr_001,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_001_A.png,Is there a banana in the image?,yes,yes,yes,1
+comm_attr_001,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_001_A.png,Is the banana blue?,yes,yes,yes,1
+comm_attr_001,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_001_A.png,Is the banana small?,yes,yes,yes,1
+comm_attr_001,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_001_A.png,Is the surface white?,yes,yes,yes,1
+comm_attr_001,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_001_A.png,Is the surface plain?,yes,yes,yes,1
+comm_attr_001,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_001_B.png,Is there a banana in the image?,yes,yes,yes,1
+comm_attr_001,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_001_B.png,Is the banana blue?,yes,yes,yes,1
+comm_attr_001,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_001_B.png,Is the banana small?,yes,no,no,0
+comm_attr_001,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_001_B.png,Is the surface white?,yes,no,no,0
+comm_attr_001,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_001_B.png,Is the surface plain?,yes,no,no,0
+comm_attr_002,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_002_A.png,Is there an apple in the image?,yes,yes,yes,1
+comm_attr_002,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_002_A.png,Is the apple green?,yes,yes,yes,1
+comm_attr_002,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_002_A.png,Is the apple small?,yes,yes,yes,1
+comm_attr_002,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_002_A.png,Is the apple on a wooden table?,yes,yes,yes,1
+comm_attr_002,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_002_A.png,Is the table made of wood?,yes,yes,yes,1
+comm_attr_002,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_002_B.png,Is there an apple in the image?,yes,yes,yes,1
+comm_attr_002,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_002_B.png,Is the apple green?,yes,yes,yes,1
+comm_attr_002,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_002_B.png,Is the apple small?,yes,yes,yes,1
+comm_attr_002,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_002_B.png,Is the apple on a wooden table?,yes,yes,yes,1
+comm_attr_002,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_002_B.png,Is the table made of wood?,yes,yes,yes,1
+comm_attr_003,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_003_A.png,Is the apple small?,yes,yes,yes,1
+comm_attr_003,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_003_A.png,Is the apple blue?,yes,no,no,0
+comm_attr_003,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_003_A.png,Is the apple on a white surface?,yes,yes,yes,1
+comm_attr_003,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_003_A.png,Is the surface plain?,yes,no,no,0
+comm_attr_003,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_003_A.png,Is there only one apple?,yes,yes,yes,1
+comm_attr_003,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_003_B.png,Is the apple small?,yes,yes,yes,1
+comm_attr_003,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_003_B.png,Is the apple blue?,yes,yes,yes,1
+comm_attr_003,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_003_B.png,Is the apple on a white surface?,yes,no,no,0
+comm_attr_003,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_003_B.png,Is the surface plain?,yes,no,no,0
+comm_attr_003,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_003_B.png,Is there only one apple?,yes,yes,yes,1
+comm_attr_004,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_004_A.png,Is there a dog in the image?,yes,yes,yes,1
+comm_attr_004,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_004_A.png,Is the dog green?,yes,yes,yes,1
+comm_attr_004,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_004_A.png,Is the dog small?,yes,yes,yes,1
+comm_attr_004,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_004_A.png,Is the floor made of metal?,yes,no,no,0
+comm_attr_004,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_004_A.png,Is the floor dark in color?,yes,yes,yes,1
+comm_attr_004,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_004_B.png,Is there a dog in the image?,yes,yes,yes,1
+comm_attr_004,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_004_B.png,Is the dog green?,yes,yes,yes,1
+comm_attr_004,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_004_B.png,Is the dog small?,yes,yes,yes,1
+comm_attr_004,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_004_B.png,Is the floor made of metal?,yes,no,no,0
+comm_attr_004,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_004_B.png,Is the floor dark in color?,yes,no,no,0
+comm_attr_005,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_005_A.png,Is there a banana in the image?,yes,yes,yes,1
+comm_attr_005,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_005_A.png,Is the banana green?,yes,yes,yes,1
+comm_attr_005,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_005_A.png,Is the banana small?,yes,yes,yes,1
+comm_attr_005,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_005_A.png,Is the surface white?,yes,no,no,0
+comm_attr_005,Commutative,4,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_005_A.png,Is the surface plain?,yes,yes,yes,1
+comm_attr_005,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_005_B.png,Is there a banana in the image?,yes,yes,yes,1
+comm_attr_005,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_005_B.png,Is the banana green?,yes,yes,yes,1
+comm_attr_005,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_005_B.png,Is the banana small?,yes,no,no,0
+comm_attr_005,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_005_B.png,Is the surface white?,yes,no,no,0
+comm_attr_005,Commutative,4,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Commutative/4/Attributes/comm_attr_005_B.png,Is the surface plain?,yes,yes,yes,1
+assoc_conj_001,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_001_A.png,Is there a yellow dog in the image?,yes,no,no,0
+assoc_conj_001,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_001_A.png,Is there a blue cat in the image?,yes,yes,yes,1
+assoc_conj_001,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_001_A.png,Is there a red banana near the animals?,yes,yes,yes,1
+assoc_conj_001,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_001_A.png,Are the objects on a dark metal floor?,yes,no,no,0
+assoc_conj_001,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_001_A.png,Are the dog and cat positioned close to each other?,yes,yes,yes,1
+assoc_conj_001,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_001_B.png,Is there a yellow dog in the image?,yes,no,no,0
+assoc_conj_001,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_001_B.png,Is there a blue cat in the image?,yes,no,no,0
+assoc_conj_001,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_001_B.png,Is there a red banana near the animals?,yes,no,no,0
+assoc_conj_001,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_001_B.png,Are the objects on a dark metal floor?,yes,no,no,0
+assoc_conj_001,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_001_B.png,Are the dog and cat positioned close to each other?,yes,no,no,0
+assoc_conj_002,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_002_A.png,Is there a green banana in the image?,yes,yes,yes,1
+assoc_conj_002,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_002_A.png,Is there a yellow dog in the image?,yes,no,no,0
+assoc_conj_002,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_002_A.png,Is there a blue cat in the image?,yes,yes,yes,1
+assoc_conj_002,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_002_A.png,Are the objects on a wooden table?,yes,yes,yes,1
+assoc_conj_002,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_002_A.png,Is the blue cat next to the other objects?,yes,yes,yes,1
+assoc_conj_002,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_002_B.png,Is there a green banana in the image?,yes,yes,yes,1
+assoc_conj_002,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_002_B.png,Is there a yellow dog in the image?,yes,no,no,0
+assoc_conj_002,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_002_B.png,Is there a blue cat in the image?,yes,no,no,0
+assoc_conj_002,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_002_B.png,Are the objects on a wooden table?,yes,yes,yes,1
+assoc_conj_002,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_002_B.png,Is the blue cat next to the other objects?,yes,no,no,0
+assoc_conj_003,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_003_A.png,Is there a yellow cat in the image?,yes,yes,yes,1
+assoc_conj_003,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_003_A.png,Is there a red dog in the image?,yes,no,no,0
+assoc_conj_003,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_003_A.png,Is there a blue banana in the image?,yes,no,no,0
+assoc_conj_003,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_003_A.png,Are the objects placed on a wooden table?,yes,no,no,0
+assoc_conj_003,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_003_A.png,Is the banana next to the cat and dog?,yes,no,no,0
+assoc_conj_003,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_003_B.png,Is there a yellow cat in the image?,yes,yes,yes,1
+assoc_conj_003,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_003_B.png,Is there a red dog in the image?,yes,yes,yes,1
+assoc_conj_003,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_003_B.png,Is there a blue banana in the image?,yes,no,no,0
+assoc_conj_003,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_003_B.png,Are the objects placed on a wooden table?,yes,yes,yes,1
+assoc_conj_003,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_003_B.png,Is the banana next to the cat and dog?,yes,no,no,0
+assoc_conj_004,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_004_A.png,Is there a yellow cat in the scene?,yes,yes,yes,1
+assoc_conj_004,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_004_A.png,Is there a blue apple present?,yes,no,no,0
+assoc_conj_004,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_004_A.png,Is there a yellow dog next to the cat?,yes,no,no,0
+assoc_conj_004,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_004_A.png,Is the floor dark and metallic?,yes,no,no,0
+assoc_conj_004,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_004_A.png,Are all three objects close together?,yes,yes,yes,1
+assoc_conj_004,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_004_B.png,Is there a yellow cat in the scene?,yes,no,no,0
+assoc_conj_004,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_004_B.png,Is there a blue apple present?,yes,yes,yes,1
+assoc_conj_004,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_004_B.png,Is there a yellow dog next to the cat?,yes,no,no,0
+assoc_conj_004,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_004_B.png,Is the floor dark and metallic?,yes,no,no,0
+assoc_conj_004,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_004_B.png,Are all three objects close together?,yes,yes,yes,1
+assoc_conj_005,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_005_A.png,Is there a green cat in the image?,yes,yes,yes,1
+assoc_conj_005,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_005_A.png,Is there a yellow banana present?,yes,yes,yes,1
+assoc_conj_005,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_005_A.png,Is a red apple next to the other objects?,yes,no,no,0
+assoc_conj_005,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_005_A.png,Are the objects placed on a dark metal floor?,yes,yes,yes,1
+assoc_conj_005,Associative,5,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_005_A.png,"Are the cat, banana, and apple all visible together?",yes,yes,yes,1
+assoc_conj_005,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_005_B.png,Is there a green cat in the image?,yes,yes,yes,1
+assoc_conj_005,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_005_B.png,Is there a yellow banana present?,yes,yes,yes,1
+assoc_conj_005,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_005_B.png,Is a red apple next to the other objects?,yes,no,no,0
+assoc_conj_005,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_005_B.png,Are the objects placed on a dark metal floor?,yes,yes,yes,1
+assoc_conj_005,Associative,5,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/5/Conjunctive/assoc_conj_005_B.png,"Are the cat, banana, and apple all visible together?",yes,no,no,0
+assoc_horiz_001,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_001_A.png,Is there a green apple in the image?,yes,no,no,0
+assoc_horiz_001,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_001_A.png,Is the dog red in color?,yes,yes,yes,1
+assoc_horiz_001,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_001_A.png,Is the cat green?,yes,no,no,0
+assoc_horiz_001,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_001_A.png,Are all objects placed on a white surface?,yes,no,no,0
+assoc_horiz_001,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_001_A.png,"Are the apple, dog, and cat arranged in a line?",yes,no,no,0
+assoc_horiz_001,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_001_B.png,Is there a green apple in the image?,yes,yes,yes,1
+assoc_horiz_001,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_001_B.png,Is the dog red in color?,yes,no,no,0
+assoc_horiz_001,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_001_B.png,Is the cat green?,yes,no,no,0
+assoc_horiz_001,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_001_B.png,Are all objects placed on a white surface?,yes,no,no,0
+assoc_horiz_001,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_001_B.png,"Are the apple, dog, and cat arranged in a line?",yes,no,no,0
+assoc_horiz_002,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_002_A.png,Is there a red apple in the scene?,yes,yes,yes,1
+assoc_horiz_002,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_002_A.png,Is the cat yellow?,yes,yes,yes,1
+assoc_horiz_002,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_002_A.png,Is the dog green?,yes,yes,yes,1
+assoc_horiz_002,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_002_A.png,Are the objects on a dark metal floor?,yes,no,no,0
+assoc_horiz_002,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_002_A.png,"Are the apple, cat, and dog arranged in a line?",yes,no,no,0
+assoc_horiz_002,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_002_B.png,Is there a red apple in the scene?,yes,yes,yes,1
+assoc_horiz_002,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_002_B.png,Is the cat yellow?,yes,yes,yes,1
+assoc_horiz_002,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_002_B.png,Is the dog green?,yes,yes,yes,1
+assoc_horiz_002,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_002_B.png,Are the objects on a dark metal floor?,yes,yes,yes,1
+assoc_horiz_002,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_002_B.png,"Are the apple, cat, and dog arranged in a line?",yes,yes,yes,1
+assoc_horiz_003,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_003_A.png,Is there a green dog in the image?,yes,no,no,0
+assoc_horiz_003,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_003_A.png,Is the apple red?,yes,yes,yes,1
+assoc_horiz_003,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_003_A.png,Is the banana blue?,yes,no,no,0
+assoc_horiz_003,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_003_A.png,Are the objects on a dark metal floor?,yes,yes,yes,1
+assoc_horiz_003,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_003_A.png,Is the green dog positioned to the left of the red apple?,yes,no,no,0
+assoc_horiz_003,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_003_B.png,Is there a green dog in the image?,yes,no,no,0
+assoc_horiz_003,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_003_B.png,Is the apple red?,yes,yes,yes,1
+assoc_horiz_003,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_003_B.png,Is the banana blue?,yes,no,no,0
+assoc_horiz_003,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_003_B.png,Are the objects on a dark metal floor?,yes,yes,yes,1
+assoc_horiz_003,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_003_B.png,Is the green dog positioned to the left of the red apple?,yes,no,no,0
+assoc_horiz_004,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_004_A.png,Is there a red apple in the image?,yes,yes,yes,1
+assoc_horiz_004,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_004_A.png,Is there a green cat in the image?,yes,no,no,0
+assoc_horiz_004,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_004_A.png,Are the objects placed on a plain white surface?,yes,no,no,0
+assoc_horiz_004,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_004_A.png,Is the green cat positioned between two red apples?,yes,no,no,0
+assoc_horiz_004,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_004_A.png,Are all the objects aligned horizontally?,yes,no,no,0
+assoc_horiz_004,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_004_B.png,Is there a red apple in the image?,yes,yes,yes,1
+assoc_horiz_004,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_004_B.png,Is there a green cat in the image?,yes,no,no,0
+assoc_horiz_004,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_004_B.png,Are the objects placed on a plain white surface?,yes,yes,yes,1
+assoc_horiz_004,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_004_B.png,Is the green cat positioned between two red apples?,yes,no,no,0
+assoc_horiz_004,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_004_B.png,Are all the objects aligned horizontally?,yes,no,no,0
+assoc_horiz_005,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_005_A.png,Is there a blue cat in the image?,yes,yes,yes,1
+assoc_horiz_005,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_005_A.png,Is there a red banana in the image?,yes,no,no,0
+assoc_horiz_005,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_005_A.png,Are the objects placed on a dark metal floor?,yes,no,no,0
+assoc_horiz_005,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_005_A.png,Is the red banana positioned between two blue cats?,yes,no,no,0
+assoc_horiz_005,Associative,6,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_005_A.png,Are all the objects aligned horizontally?,yes,no,no,0
+assoc_horiz_005,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_005_B.png,Is there a blue cat in the image?,yes,yes,yes,1
+assoc_horiz_005,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_005_B.png,Is there a red banana in the image?,yes,no,no,0
+assoc_horiz_005,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_005_B.png,Are the objects placed on a dark metal floor?,yes,no,no,0
+assoc_horiz_005,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_005_B.png,Is the red banana positioned between two blue cats?,yes,no,no,0
+assoc_horiz_005,Associative,6,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/6/Horizontal/assoc_horiz_005_B.png,Are all the objects aligned horizontally?,yes,no,no,0
+assoc_vert_001,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_001_A.png,Is there a yellow cat in the image?,yes,yes,yes,1
+assoc_vert_001,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_001_A.png,Is the green dog below the yellow cat?,yes,no,no,0
+assoc_vert_001,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_001_A.png,Is the red banana at the bottom of the stack?,yes,no,no,0
+assoc_vert_001,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_001_A.png,Is the background plain white?,yes,no,no,0
+assoc_vert_001,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_001_A.png,Are the objects arranged vertically?,yes,no,no,0
+assoc_vert_001,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_001_B.png,Is there a yellow cat in the image?,yes,yes,yes,1
+assoc_vert_001,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_001_B.png,Is the green dog below the yellow cat?,yes,no,no,0
+assoc_vert_001,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_001_B.png,Is the red banana at the bottom of the stack?,yes,yes,yes,1
+assoc_vert_001,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_001_B.png,Is the background plain white?,yes,yes,yes,1
+assoc_vert_001,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_001_B.png,Are the objects arranged vertically?,yes,yes,yes,1
+assoc_vert_002,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_002_A.png,Is the apple blue?,yes,no,no,0
+assoc_vert_002,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_002_A.png,Is the banana yellow?,yes,yes,yes,1
+assoc_vert_002,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_002_A.png,Is the cat blue?,yes,no,no,0
+assoc_vert_002,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_002_A.png,Is the cat on a dark metal floor?,yes,no,no,0
+assoc_vert_002,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_002_A.png,"Are the apple, banana, and cat stacked vertically?",yes,no,no,0
+assoc_vert_002,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_002_B.png,Is the apple blue?,yes,yes,yes,1
+assoc_vert_002,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_002_B.png,Is the banana yellow?,yes,yes,yes,1
+assoc_vert_002,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_002_B.png,Is the cat blue?,yes,yes,yes,1
+assoc_vert_002,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_002_B.png,Is the cat on a dark metal floor?,yes,no,no,0
+assoc_vert_002,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_002_B.png,"Are the apple, banana, and cat stacked vertically?",yes,no,no,0
+assoc_vert_003,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_003_A.png,Is there a blue apple in the image?,yes,yes,yes,1
+assoc_vert_003,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_003_A.png,Is the banana green?,yes,yes,yes,1
+assoc_vert_003,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_003_A.png,Is the dog yellow?,yes,no,no,0
+assoc_vert_003,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_003_A.png,Are the objects arranged vertically?,yes,no,no,0
+assoc_vert_003,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_003_A.png,Is the background plain white?,yes,yes,yes,1
+assoc_vert_003,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_003_B.png,Is there a blue apple in the image?,yes,no,no,0
+assoc_vert_003,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_003_B.png,Is the banana green?,yes,yes,yes,1
+assoc_vert_003,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_003_B.png,Is the dog yellow?,yes,no,no,0
+assoc_vert_003,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_003_B.png,Are the objects arranged vertically?,yes,no,no,0
+assoc_vert_003,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_003_B.png,Is the background plain white?,yes,no,no,0
+assoc_vert_004,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_004_A.png,Is there a yellow cat in the image?,yes,yes,yes,1
+assoc_vert_004,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_004_A.png,Is the red dog below the yellow cat?,yes,no,no,0
+assoc_vert_004,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_004_A.png,Is the blue apple at the bottom of the stack?,yes,no,no,0
+assoc_vert_004,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_004_A.png,Are all objects placed on a wooden table?,yes,yes,yes,1
+assoc_vert_004,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_004_A.png,Are the objects arranged vertically in a stack?,yes,no,no,0
+assoc_vert_004,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_004_B.png,Is there a yellow cat in the image?,yes,yes,yes,1
+assoc_vert_004,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_004_B.png,Is the red dog below the yellow cat?,yes,no,no,0
+assoc_vert_004,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_004_B.png,Is the blue apple at the bottom of the stack?,yes,yes,yes,1
+assoc_vert_004,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_004_B.png,Are all objects placed on a wooden table?,yes,yes,yes,1
+assoc_vert_004,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_004_B.png,Are the objects arranged vertically in a stack?,yes,no,no,0
+assoc_vert_005,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_005_A.png,Is there a blue dog in the image?,yes,no,no,0
+assoc_vert_005,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_005_A.png,Is the red cat below the blue dog?,yes,no,no,0
+assoc_vert_005,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_005_A.png,Is the yellow banana below the red cat?,yes,no,no,0
+assoc_vert_005,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_005_A.png,Are all objects placed on a wooden table?,yes,yes,yes,1
+assoc_vert_005,Associative,7,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_005_A.png,Is the arrangement vertical?,yes,no,no,0
+assoc_vert_005,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_005_B.png,Is there a blue dog in the image?,yes,no,no,0
+assoc_vert_005,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_005_B.png,Is the red cat below the blue dog?,yes,no,no,0
+assoc_vert_005,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_005_B.png,Is the yellow banana below the red cat?,yes,yes,yes,1
+assoc_vert_005,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_005_B.png,Are all objects placed on a wooden table?,yes,yes,yes,1
+assoc_vert_005,Associative,7,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/7/Vertical/assoc_vert_005_B.png,Is the arrangement vertical?,yes,no,no,0
+assoc_attr_001,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_001_A.png,Is there a cat in the image?,yes,yes,yes,1
+assoc_attr_001,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_001_A.png,Is the cat small in size?,yes,no,no,0
+assoc_attr_001,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_001_A.png,Is the cat red in color?,yes,yes,yes,1
+assoc_attr_001,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_001_A.png,Does the cat appear shiny?,yes,no,no,0
+assoc_attr_001,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_001_A.png,Is the cat on a plain white surface?,yes,yes,yes,1
+assoc_attr_001,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_001_B.png,Is there a cat in the image?,yes,yes,yes,1
+assoc_attr_001,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_001_B.png,Is the cat small in size?,yes,no,no,0
+assoc_attr_001,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_001_B.png,Is the cat red in color?,yes,yes,yes,1
+assoc_attr_001,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_001_B.png,Does the cat appear shiny?,yes,yes,yes,1
+assoc_attr_001,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_001_B.png,Is the cat on a plain white surface?,yes,no,no,0
+assoc_attr_002,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_002_A.png,Is the apple small?,yes,yes,yes,1
+assoc_attr_002,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_002_A.png,Is the apple blue?,yes,yes,yes,1
+assoc_attr_002,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_002_A.png,Is the apple shiny?,yes,yes,yes,1
+assoc_attr_002,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_002_A.png,Is the apple on a metal floor?,yes,yes,yes,1
+assoc_attr_002,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_002_A.png,Is the metal floor dark?,yes,no,no,0
+assoc_attr_002,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_002_B.png,Is the apple small?,yes,yes,yes,1
+assoc_attr_002,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_002_B.png,Is the apple blue?,yes,no,no,0
+assoc_attr_002,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_002_B.png,Is the apple shiny?,yes,yes,yes,1
+assoc_attr_002,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_002_B.png,Is the apple on a metal floor?,yes,no,no,0
+assoc_attr_002,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_002_B.png,Is the metal floor dark?,yes,no,no,0
+assoc_attr_003,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_003_A.png,Is there a dog in the image?,yes,yes,yes,1
+assoc_attr_003,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_003_A.png,Is the dog large in size?,yes,no,no,0
+assoc_attr_003,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_003_A.png,Is the dog blue in color?,yes,yes,yes,1
+assoc_attr_003,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_003_A.png,Does the dog have a shiny appearance?,yes,yes,yes,1
+assoc_attr_003,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_003_A.png,Is the dog standing on a dark metal floor?,yes,no,no,0
+assoc_attr_003,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_003_B.png,Is there a dog in the image?,yes,yes,yes,1
+assoc_attr_003,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_003_B.png,Is the dog large in size?,yes,no,no,0
+assoc_attr_003,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_003_B.png,Is the dog blue in color?,yes,yes,yes,1
+assoc_attr_003,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_003_B.png,Does the dog have a shiny appearance?,yes,yes,yes,1
+assoc_attr_003,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_003_B.png,Is the dog standing on a dark metal floor?,yes,yes,yes,1
+assoc_attr_004,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_004_A.png,Is there a banana in the image?,yes,yes,yes,1
+assoc_attr_004,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_004_A.png,Is the banana large in size?,yes,yes,yes,1
+assoc_attr_004,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_004_A.png,Is the banana blue in color?,yes,yes,yes,1
+assoc_attr_004,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_004_A.png,Does the banana have a shiny appearance?,yes,yes,yes,1
+assoc_attr_004,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_004_A.png,Is the banana placed on a plain white surface?,yes,yes,yes,1
+assoc_attr_004,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_004_B.png,Is there a banana in the image?,yes,yes,yes,1
+assoc_attr_004,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_004_B.png,Is the banana large in size?,yes,yes,yes,1
+assoc_attr_004,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_004_B.png,Is the banana blue in color?,yes,yes,yes,1
+assoc_attr_004,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_004_B.png,Does the banana have a shiny appearance?,yes,yes,yes,1
+assoc_attr_004,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_004_B.png,Is the banana placed on a plain white surface?,yes,yes,yes,1
+assoc_attr_005,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_005_A.png,Is there a cat in the image?,yes,yes,yes,1
+assoc_attr_005,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_005_A.png,Is the cat small in size?,yes,yes,yes,1
+assoc_attr_005,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_005_A.png,Is the cat red in color?,yes,yes,yes,1
+assoc_attr_005,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_005_A.png,Does the cat appear shiny?,yes,yes,yes,1
+assoc_attr_005,Associative,8,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_005_A.png,Is the floor dark and metallic?,yes,no,no,0
+assoc_attr_005,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_005_B.png,Is there a cat in the image?,yes,yes,yes,1
+assoc_attr_005,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_005_B.png,Is the cat small in size?,yes,yes,yes,1
+assoc_attr_005,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_005_B.png,Is the cat red in color?,yes,yes,yes,1
+assoc_attr_005,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_005_B.png,Does the cat appear shiny?,yes,no,no,0
+assoc_attr_005,Associative,8,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Associative/8/Attributes/assoc_attr_005_B.png,Is the floor dark and metallic?,yes,yes,yes,1
+dist_conj_001,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_001_A.png,Is there a yellow apple on the table?,yes,yes,yes,1
+dist_conj_001,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_001_A.png,Is the table made of wood?,yes,yes,yes,1
+dist_conj_001,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_001_A.png,Is there either a blue dog or a green banana on the table?,yes,yellow,yellow,0
+dist_conj_001,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_001_A.png,Is the scene set on a wooden table?,yes,yes,yes,1
+dist_conj_001,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_001_A.png,Is there an animal or a fruit next to the yellow apple?,yes,apple,apple,0
+dist_conj_001,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_001_B.png,Is there a yellow apple on the table?,yes,yes,yes,1
+dist_conj_001,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_001_B.png,Is the table made of wood?,yes,yes,yes,1
+dist_conj_001,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_001_B.png,Is there either a blue dog or a green banana on the table?,yes,green,green,0
+dist_conj_001,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_001_B.png,Is the scene set on a wooden table?,yes,yes,yes,1
+dist_conj_001,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_001_B.png,Is there an animal or a fruit next to the yellow apple?,yes,fruit,fruit,0
+dist_conj_002,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_002_A.png,Is there a red cat on the wooden table?,yes,yes,yes,1
+dist_conj_002,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_002_A.png,Is the scene set on a wooden table?,yes,no,no,0
+dist_conj_002,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_002_A.png,Is there at least one cat in the image?,yes,no,no,0
+dist_conj_002,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_002_A.png,Is there a green banana or a blue cat present?,yes,green,green,0
+dist_conj_002,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_002_A.png,Are the objects on the table colorful?,yes,yes,yes,1
+dist_conj_002,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_002_B.png,Is there a red cat on the wooden table?,yes,yes,yes,1
+dist_conj_002,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_002_B.png,Is the scene set on a wooden table?,yes,yes,yes,1
+dist_conj_002,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_002_B.png,Is there at least one cat in the image?,yes,yes,yes,1
+dist_conj_002,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_002_B.png,Is there a green banana or a blue cat present?,yes,green,green,0
+dist_conj_002,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_002_B.png,Are the objects on the table colorful?,yes,yes,yes,1
+dist_conj_003,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_003_A.png,Is there a blue dog on the wooden table?,yes,yes,yes,1
+dist_conj_003,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_003_A.png,Is the table made of wood?,yes,yes,yes,1
+dist_conj_003,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_003_A.png,Is there at least one dog on the table?,yes,no,no,0
+dist_conj_003,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_003_A.png,Is there a yellow apple or a red dog on the table?,yes,yellow,yellow,0
+dist_conj_003,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_003_A.png,Are there colorful objects on the wooden table?,yes,yes,yes,1
+dist_conj_003,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_003_B.png,Is there a blue dog on the wooden table?,yes,yes,yes,1
+dist_conj_003,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_003_B.png,Is the table made of wood?,yes,yes,yes,1
+dist_conj_003,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_003_B.png,Is there at least one dog on the table?,yes,no,no,0
+dist_conj_003,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_003_B.png,Is there a yellow apple or a red dog on the table?,yes,apple,apple,0
+dist_conj_003,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_003_B.png,Are there colorful objects on the wooden table?,yes,no,no,0
+dist_conj_004,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_004_A.png,Is there a green banana on the wooden table?,yes,yes,yes,1
+dist_conj_004,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_004_A.png,Is the table made of wood?,yes,yes,yes,1
+dist_conj_004,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_004_A.png,Is there at least one banana on the table?,yes,yes,yes,1
+dist_conj_004,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_004_A.png,Is there an animal on the table?,yes,no,no,0
+dist_conj_004,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_004_A.png,Is the animal either red or not present?,yes,no,no,0
+dist_conj_004,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_004_B.png,Is there a green banana on the wooden table?,yes,yes,yes,1
+dist_conj_004,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_004_B.png,Is the table made of wood?,yes,yes,yes,1
+dist_conj_004,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_004_B.png,Is there at least one banana on the table?,yes,yes,yes,1
+dist_conj_004,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_004_B.png,Is there an animal on the table?,yes,no,no,0
+dist_conj_004,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_004_B.png,Is the animal either red or not present?,yes,no,no,0
+dist_conj_005,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_005_A.png,Is there a red cat in the image?,yes,yes,yes,1
+dist_conj_005,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_005_A.png,Is the surface plain and white?,yes,no,no,0
+dist_conj_005,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_005_A.png,Is there either a blue dog or a red apple present?,yes,red,red,0
+dist_conj_005,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_005_A.png,Is the red cat clearly visible?,yes,no,no,0
+dist_conj_005,Distributive,9,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_005_A.png,Are the objects placed on the white surface?,yes,no,no,0
+dist_conj_005,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_005_B.png,Is there a red cat in the image?,yes,yes,yes,1
+dist_conj_005,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_005_B.png,Is the surface plain and white?,yes,no,no,0
+dist_conj_005,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_005_B.png,Is there either a blue dog or a red apple present?,yes,red,red,0
+dist_conj_005,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_005_B.png,Is the red cat clearly visible?,yes,no,no,0
+dist_conj_005,Distributive,9,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/9/Conjunctive/dist_conj_005_B.png,Are the objects placed on the white surface?,yes,no,no,0
+dist_horiz_001,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_001_A.png,Is there a yellow dog in the image?,yes,no,no,0
+dist_horiz_001,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_001_A.png,Is the yellow dog positioned on a wooden table?,yes,yes,yes,1
+dist_horiz_001,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_001_A.png,Is there a blue cat present in the scene?,yes,no,no,0
+dist_horiz_001,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_001_A.png,Is there a red apple shown on the table?,yes,yes,yes,1
+dist_horiz_001,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_001_A.png,Is the yellow dog to the left of another object?,yes,yes,yes,1
+dist_horiz_001,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_001_B.png,Is there a yellow dog in the image?,yes,yes,yes,1
+dist_horiz_001,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_001_B.png,Is the yellow dog positioned on a wooden table?,yes,yes,yes,1
+dist_horiz_001,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_001_B.png,Is there a blue cat present in the scene?,yes,no,no,0
+dist_horiz_001,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_001_B.png,Is there a red apple shown on the table?,yes,no,no,0
+dist_horiz_001,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_001_B.png,Is the yellow dog to the left of another object?,yes,no,no,0
+dist_horiz_002,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_002_A.png,Is there a yellow apple in the image?,yes,yes,yes,1
+dist_horiz_002,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_002_A.png,Is the apple positioned to the left of another object?,yes,yes,yes,1
+dist_horiz_002,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_002_A.png,Is the floor dark and metallic?,yes,yes,yes,1
+dist_horiz_002,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_002_A.png,Is there a blue dog present in the scene?,yes,no,no,0
+dist_horiz_002,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_002_A.png,Is there a green banana present in the scene?,yes,yes,yes,1
+dist_horiz_002,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_002_B.png,Is there a yellow apple in the image?,yes,no,no,0
+dist_horiz_002,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_002_B.png,Is the apple positioned to the left of another object?,yes,yes,yes,1
+dist_horiz_002,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_002_B.png,Is the floor dark and metallic?,yes,no,no,0
+dist_horiz_002,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_002_B.png,Is there a blue dog present in the scene?,yes,no,no,0
+dist_horiz_002,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_002_B.png,Is there a green banana present in the scene?,yes,no,no,0
+dist_horiz_003,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_003_A.png,Is there a yellow dog in the image?,yes,no,no,0
+dist_horiz_003,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_003_A.png,Is the yellow dog positioned to the left of another object?,yes,no,no,0
+dist_horiz_003,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_003_A.png,Is there a red apple present in the scene?,yes,yes,yes,1
+dist_horiz_003,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_003_A.png,Is there a blue cat present in the scene?,yes,no,no,0
+dist_horiz_003,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_003_A.png,Is the floor dark and metallic?,yes,yes,yes,1
+dist_horiz_003,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_003_B.png,Is there a yellow dog in the image?,yes,yes,yes,1
+dist_horiz_003,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_003_B.png,Is the yellow dog positioned to the left of another object?,yes,yes,yes,1
+dist_horiz_003,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_003_B.png,Is there a red apple present in the scene?,yes,no,no,0
+dist_horiz_003,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_003_B.png,Is there a blue cat present in the scene?,yes,no,no,0
+dist_horiz_003,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_003_B.png,Is the floor dark and metallic?,yes,yes,yes,1
+dist_horiz_004,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_004_A.png,Is there a red apple in the image?,yes,yes,yes,1
+dist_horiz_004,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_004_A.png,Is there a blue cat in the image?,yes,no,no,0
+dist_horiz_004,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_004_A.png,Is there a yellow apple in the image?,yes,yes,yes,1
+dist_horiz_004,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_004_A.png,Is the floor dark and metallic?,yes,yes,yes,1
+dist_horiz_004,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_004_A.png,Is the red apple positioned to the left of another object?,yes,yes,yes,1
+dist_horiz_004,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_004_B.png,Is there a red apple in the image?,yes,yes,yes,1
+dist_horiz_004,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_004_B.png,Is there a blue cat in the image?,yes,no,no,0
+dist_horiz_004,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_004_B.png,Is there a yellow apple in the image?,yes,no,no,0
+dist_horiz_004,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_004_B.png,Is the floor dark and metallic?,yes,no,no,0
+dist_horiz_004,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_004_B.png,Is the red apple positioned to the left of another object?,yes,yes,yes,1
+dist_horiz_005,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_005_A.png,Is there a blue cat in the image?,yes,yes,yes,1
+dist_horiz_005,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_005_A.png,Is the floor made of dark metal?,yes,no,no,0
+dist_horiz_005,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_005_A.png,Is there a yellow dog present?,yes,no,no,0
+dist_horiz_005,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_005_A.png,Is there a red cat present?,yes,no,no,0
+dist_horiz_005,Distributive,10,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_005_A.png,Is the blue cat positioned to the left of another animal?,yes,yes,yes,1
+dist_horiz_005,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_005_B.png,Is there a blue cat in the image?,yes,no,no,0
+dist_horiz_005,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_005_B.png,Is the floor made of dark metal?,yes,no,no,0
+dist_horiz_005,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_005_B.png,Is there a yellow dog present?,yes,no,no,0
+dist_horiz_005,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_005_B.png,Is there a red cat present?,yes,no,no,0
+dist_horiz_005,Distributive,10,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/10/Horizontal/dist_horiz_005_B.png,Is the blue cat positioned to the left of another animal?,yes,no,no,0
+dist_vert_001,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_001_A.png,Is there a red dog in the image?,yes,yes,yes,1
+dist_vert_001,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_001_A.png,Is the floor dark and metallic?,yes,no,no,0
+dist_vert_001,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_001_A.png,Is there a green cat or a yellow dog below the red dog?,yes,neither,neither,0
+dist_vert_001,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_001_A.png,Is the red dog positioned above another animal?,yes,no,no,0
+dist_vert_001,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_001_A.png,Are there at least two animals in the scene?,yes,yes,yes,1
+dist_vert_001,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_001_B.png,Is there a red dog in the image?,yes,yes,yes,1
+dist_vert_001,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_001_B.png,Is the floor dark and metallic?,yes,yes,yes,1
+dist_vert_001,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_001_B.png,Is there a green cat or a yellow dog below the red dog?,yes,green,green,0
+dist_vert_001,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_001_B.png,Is the red dog positioned above another animal?,yes,no,no,0
+dist_vert_001,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_001_B.png,Are there at least two animals in the scene?,yes,yes,yes,1
+dist_vert_002,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_002_A.png,Is there a red cat in the image?,yes,yes,yes,1
+dist_vert_002,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_002_A.png,Is the floor dark and metallic?,yes,no,no,0
+dist_vert_002,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_002_A.png,Is there a green banana or a yellow apple present?,yes,green,green,0
+dist_vert_002,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_002_A.png,Is the red cat positioned above the fruit?,yes,no,no,0
+dist_vert_002,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_002_A.png,Are the objects arranged on a dark metal floor?,yes,no,no,0
+dist_vert_002,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_002_B.png,Is there a red cat in the image?,yes,yes,yes,1
+dist_vert_002,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_002_B.png,Is the floor dark and metallic?,yes,no,no,0
+dist_vert_002,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_002_B.png,Is there a green banana or a yellow apple present?,yes,neither,neither,0
+dist_vert_002,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_002_B.png,Is the red cat positioned above the fruit?,yes,no,no,0
+dist_vert_002,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_002_B.png,Are the objects arranged on a dark metal floor?,yes,no,no,0
+dist_vert_003,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_003_A.png,Is there a green apple in the image?,yes,yes,yes,1
+dist_vert_003,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_003_A.png,Is there a wooden table in the scene?,yes,yes,yes,1
+dist_vert_003,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_003_A.png,Is there a red banana present?,yes,no,no,0
+dist_vert_003,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_003_A.png,Is there a yellow dog present?,yes,no,no,0
+dist_vert_003,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_003_A.png,Is the green apple positioned above another object?,yes,yes,yes,1
+dist_vert_003,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_003_B.png,Is there a green apple in the image?,yes,yes,yes,1
+dist_vert_003,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_003_B.png,Is there a wooden table in the scene?,yes,yes,yes,1
+dist_vert_003,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_003_B.png,Is there a red banana present?,yes,no,no,0
+dist_vert_003,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_003_B.png,Is there a yellow dog present?,yes,no,no,0
+dist_vert_003,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_003_B.png,Is the green apple positioned above another object?,yes,yes,yes,1
+dist_vert_004,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_004_A.png,Is there a green banana in the image?,yes,no,no,0
+dist_vert_004,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_004_A.png,Is the background plain white?,yes,no,no,0
+dist_vert_004,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_004_A.png,Is there a red apple in the image?,yes,no,no,0
+dist_vert_004,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_004_A.png,Is there a yellow dog in the image?,yes,no,no,0
+dist_vert_004,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_004_A.png,Is the green banana positioned above another object?,yes,no,no,0
+dist_vert_004,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_004_B.png,Is there a green banana in the image?,yes,yes,yes,1
+dist_vert_004,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_004_B.png,Is the background plain white?,yes,no,no,0
+dist_vert_004,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_004_B.png,Is there a red apple in the image?,yes,yes,yes,1
+dist_vert_004,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_004_B.png,Is there a yellow dog in the image?,yes,no,no,0
+dist_vert_004,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_004_B.png,Is the green banana positioned above another object?,yes,yes,yes,1
+dist_vert_005,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_005_A.png,Is there a green cat in the image?,yes,no,no,0
+dist_vert_005,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_005_A.png,Is there a wooden table in the scene?,yes,yes,yes,1
+dist_vert_005,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_005_A.png,Is the cat positioned above a fruit?,yes,no,no,0
+dist_vert_005,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_005_A.png,Is one of the fruits red?,yes,no,no,0
+dist_vert_005,Distributive,11,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_005_A.png,Is one of the fruits yellow?,yes,yes,yes,1
+dist_vert_005,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_005_B.png,Is there a green cat in the image?,yes,no,no,0
+dist_vert_005,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_005_B.png,Is there a wooden table in the scene?,yes,yes,yes,1
+dist_vert_005,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_005_B.png,Is the cat positioned above a fruit?,yes,no,no,0
+dist_vert_005,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_005_B.png,Is one of the fruits red?,yes,yes,yes,1
+dist_vert_005,Distributive,11,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/11/Vertical/dist_vert_005_B.png,Is one of the fruits yellow?,yes,no,no,0
+dist_attr_001,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_001_A.png,Is there a dog in the image?,yes,yes,yes,1
+dist_attr_001,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_001_A.png,Is the dog red?,yes,yes,yes,1
+dist_attr_001,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_001_A.png,Is the dog on a plain white surface?,yes,no,no,0
+dist_attr_001,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_001_A.png,Is the dog either small or large?,yes,small,small,0
+dist_attr_001,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_001_A.png,Is the background plain white?,yes,no,no,0
+dist_attr_001,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_001_B.png,Is there a dog in the image?,yes,no,no,0
+dist_attr_001,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_001_B.png,Is the dog red?,yes,yes,yes,1
+dist_attr_001,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_001_B.png,Is the dog on a plain white surface?,yes,no,no,0
+dist_attr_001,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_001_B.png,Is the dog either small or large?,yes,large,large,0
+dist_attr_001,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_001_B.png,Is the background plain white?,yes,no,no,0
+dist_attr_002,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_002_A.png,Is there a red apple in the image?,yes,yes,yes,1
+dist_attr_002,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_002_A.png,Is the apple on a wooden table?,yes,no,no,0
+dist_attr_002,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_002_A.png,Is the apple either small or large in size?,yes,small,small,0
+dist_attr_002,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_002_A.png,Is the apple the only fruit shown?,yes,yes,yes,1
+dist_attr_002,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_002_A.png,Is the table made of wood?,yes,no,no,0
+dist_attr_002,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_002_B.png,Is there a red apple in the image?,yes,yes,yes,1
+dist_attr_002,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_002_B.png,Is the apple on a wooden table?,yes,yes,yes,1
+dist_attr_002,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_002_B.png,Is the apple either small or large in size?,yes,small,small,0
+dist_attr_002,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_002_B.png,Is the apple the only fruit shown?,yes,yes,yes,1
+dist_attr_002,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_002_B.png,Is the table made of wood?,yes,yes,yes,1
+dist_attr_003,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_003_A.png,Is there a yellow apple in the image?,yes,yes,yes,1
+dist_attr_003,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_003_A.png,Is the apple on a dark metal floor?,yes,yes,yes,1
+dist_attr_003,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_003_A.png,Is the apple either large or small?,yes,small,small,0
+dist_attr_003,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_003_A.png,Is the apple the only fruit visible?,yes,yes,yes,1
+dist_attr_003,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_003_A.png,Is the floor color dark and metallic?,yes,no,no,0
+dist_attr_003,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_003_B.png,Is there a yellow apple in the image?,yes,yes,yes,1
+dist_attr_003,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_003_B.png,Is the apple on a dark metal floor?,yes,no,no,0
+dist_attr_003,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_003_B.png,Is the apple either large or small?,yes,small,small,0
+dist_attr_003,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_003_B.png,Is the apple the only fruit visible?,yes,yes,yes,1
+dist_attr_003,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_003_B.png,Is the floor color dark and metallic?,yes,no,no,0
+dist_attr_004,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_004_A.png,Is there a cat in the image?,yes,yes,yes,1
+dist_attr_004,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_004_A.png,Is the cat red?,yes,yes,yes,1
+dist_attr_004,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_004_A.png,Is the cat on a wooden table?,yes,no,no,0
+dist_attr_004,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_004_A.png,Is the cat either small or large?,yes,small,small,0
+dist_attr_004,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_004_A.png,Is the scene set indoors?,yes,yes,yes,1
+dist_attr_004,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_004_B.png,Is there a cat in the image?,yes,yes,yes,1
+dist_attr_004,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_004_B.png,Is the cat red?,yes,yes,yes,1
+dist_attr_004,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_004_B.png,Is the cat on a wooden table?,yes,no,no,0
+dist_attr_004,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_004_B.png,Is the cat either small or large?,yes,small,small,0
+dist_attr_004,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_004_B.png,Is the scene set indoors?,yes,no,no,0
+dist_attr_005,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_005_A.png,Is there a blue dog in the image?,yes,yes,yes,1
+dist_attr_005,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_005_A.png,Is the dog on a dark metal floor?,yes,yes,yes,1
+dist_attr_005,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_005_A.png,Is the dog either large or small?,yes,small,small,0
+dist_attr_005,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_005_A.png,Is the floor dark and metallic?,yes,yes,yes,1
+dist_attr_005,Distributive,12,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_005_A.png,Is the dog the main object in the scene?,yes,yes,yes,1
+dist_attr_005,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_005_B.png,Is there a blue dog in the image?,yes,yes,yes,1
+dist_attr_005,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_005_B.png,Is the dog on a dark metal floor?,yes,yes,yes,1
+dist_attr_005,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_005_B.png,Is the dog either large or small?,yes,small,small,0
+dist_attr_005,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_005_B.png,Is the floor dark and metallic?,yes,yes,yes,1
+dist_attr_005,Distributive,12,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Distributive/12/Attributes/dist_attr_005_B.png,Is the dog the main object in the scene?,yes,yes,yes,1
+compl_conj_001,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_001_A.png,Is there a metal floor in the image?,yes,no,no,0
+compl_conj_001,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_001_A.png,Is the floor dark in color?,yes,no,no,0
+compl_conj_001,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_001_A.png,Is the scene indoors?,yes,yes,yes,1
+compl_conj_001,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_001_A.png,Is the floor smooth?,yes,yes,yes,1
+compl_conj_001,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_001_A.png,Is the lighting dim?,yes,no,no,0
+compl_conj_001,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_001_B.png,Is there a metal floor in the image?,yes,no,no,0
+compl_conj_001,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_001_B.png,Is the floor dark in color?,yes,yes,yes,1
+compl_conj_001,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_001_B.png,Is the scene indoors?,yes,yes,yes,1
+compl_conj_001,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_001_B.png,Is the floor smooth?,yes,yes,yes,1
+compl_conj_001,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_001_B.png,Is the lighting dim?,yes,no,no,0
+compl_conj_002,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_002_A.png,Is the surface white?,yes,no,no,0
+compl_conj_002,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_002_A.png,Is the surface plain?,yes,yes,yes,1
+compl_conj_002,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_002_A.png,Is the scene simple?,yes,yes,yes,1
+compl_conj_002,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_002_A.png,Is there a single color dominating the surface?,yes,yes,yes,1
+compl_conj_002,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_002_A.png,Is the background uncluttered?,yes,no,no,0
+compl_conj_002,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_002_B.png,Is the surface white?,yes,yes,yes,1
+compl_conj_002,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_002_B.png,Is the surface plain?,yes,yes,yes,1
+compl_conj_002,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_002_B.png,Is the scene simple?,yes,yes,yes,1
+compl_conj_002,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_002_B.png,Is there a single color dominating the surface?,yes,yes,yes,1
+compl_conj_002,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_002_B.png,Is the background uncluttered?,yes,no,no,0
+compl_conj_003,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_003_A.png,Is there a metal floor in the image?,yes,no,no,0
+compl_conj_003,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_003_A.png,Is the floor dark in color?,yes,yes,yes,1
+compl_conj_003,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_003_A.png,Is the scene indoors?,yes,no,no,0
+compl_conj_003,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_003_A.png,Is the floor smooth?,yes,no,no,0
+compl_conj_003,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_003_A.png,Is the lighting dim?,yes,no,no,0
+compl_conj_003,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_003_B.png,Is there a metal floor in the image?,yes,yes,yes,1
+compl_conj_003,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_003_B.png,Is the floor dark in color?,yes,yes,yes,1
+compl_conj_003,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_003_B.png,Is the scene indoors?,yes,yes,yes,1
+compl_conj_003,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_003_B.png,Is the floor smooth?,yes,yes,yes,1
+compl_conj_003,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_003_B.png,Is the lighting dim?,yes,yes,yes,1
+compl_conj_004,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_004_A.png,Is there a wooden table in the image?,yes,yes,yes,1
+compl_conj_004,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_004_A.png,Is the table made of wood?,yes,yes,yes,1
+compl_conj_004,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_004_A.png,Is the scene indoors?,yes,no,no,0
+compl_conj_004,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_004_A.png,Is the table the main object in the image?,yes,yes,yes,1
+compl_conj_004,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_004_A.png,Is the lighting natural?,yes,yes,yes,1
+compl_conj_004,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_004_B.png,Is there a wooden table in the image?,yes,yes,yes,1
+compl_conj_004,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_004_B.png,Is the table made of wood?,yes,yes,yes,1
+compl_conj_004,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_004_B.png,Is the scene indoors?,yes,yes,yes,1
+compl_conj_004,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_004_B.png,Is the table the main object in the image?,yes,yes,yes,1
+compl_conj_004,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_004_B.png,Is the lighting natural?,yes,yes,yes,1
+compl_conj_005,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_005_A.png,Is there a wooden table in the image?,yes,yes,yes,1
+compl_conj_005,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_005_A.png,Is the table made of wood?,yes,yes,yes,1
+compl_conj_005,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_005_A.png,Is the scene indoors?,yes,yes,yes,1
+compl_conj_005,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_005_A.png,Is the table the main object in the image?,yes,no,no,0
+compl_conj_005,Complement,13,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_005_A.png,Is the lighting natural?,yes,yes,yes,1
+compl_conj_005,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_005_B.png,Is there a wooden table in the image?,yes,no,no,0
+compl_conj_005,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_005_B.png,Is the table made of wood?,yes,yes,yes,1
+compl_conj_005,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_005_B.png,Is the scene indoors?,yes,yes,yes,1
+compl_conj_005,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_005_B.png,Is the table the main object in the image?,yes,no,no,0
+compl_conj_005,Complement,13,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/13/Conjunctive/compl_conj_005_B.png,Is the lighting natural?,yes,yes,yes,1
+compl_horiz_001,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_001_A.png,Is there a yellow apple in the image?,yes,yes,yes,1
+compl_horiz_001,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_001_A.png,Is the floor dark and metallic?,yes,no,no,0
+compl_horiz_001,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_001_A.png,Is the apple positioned on the floor?,yes,yes,yes,1
+compl_horiz_001,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_001_A.png,Is the apple a single object in the scene?,yes,yes,yes,1
+compl_horiz_001,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_001_A.png,Is the floor texture smooth and reflective?,yes,no,no,0
+compl_horiz_001,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_001_B.png,Is there a yellow apple in the image?,yes,yes,yes,1
+compl_horiz_001,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_001_B.png,Is the floor dark and metallic?,yes,yes,yes,1
+compl_horiz_001,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_001_B.png,Is the apple positioned on the floor?,yes,yes,yes,1
+compl_horiz_001,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_001_B.png,Is the apple a single object in the scene?,yes,yes,yes,1
+compl_horiz_001,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_001_B.png,Is the floor texture smooth and reflective?,yes,yes,yes,1
+compl_horiz_002,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_002_A.png,Is there a red dog in the scene?,yes,no,no,0
+compl_horiz_002,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_002_A.png,Is the floor dark and metallic?,yes,yes,yes,1
+compl_horiz_002,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_002_A.png,Is there a yellow cat present?,yes,yes,yes,1
+compl_horiz_002,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_002_A.png,Is the yellow cat positioned to the left of the red dog?,yes,no,no,0
+compl_horiz_002,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_002_A.png,Is the setting indoors?,yes,no,no,0
+compl_horiz_002,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_002_B.png,Is there a red dog in the scene?,yes,yes,yes,1
+compl_horiz_002,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_002_B.png,Is the floor dark and metallic?,yes,yes,yes,1
+compl_horiz_002,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_002_B.png,Is there a yellow cat present?,yes,no,no,0
+compl_horiz_002,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_002_B.png,Is the yellow cat positioned to the left of the red dog?,yes,no,no,0
+compl_horiz_002,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_002_B.png,Is the setting indoors?,yes,yes,yes,1
+compl_horiz_003,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_003_A.png,Is there a green banana in the scene?,yes,yes,yes,1
+compl_horiz_003,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_003_A.png,Is the floor dark and metallic?,yes,yes,yes,1
+compl_horiz_003,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_003_A.png,Is the banana positioned on the floor?,yes,no,no,0
+compl_horiz_003,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_003_A.png,Is the floor made of metal?,yes,no,no,0
+compl_horiz_003,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_003_A.png,Is the banana visible in the image?,yes,yes,yes,1
+compl_horiz_003,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_003_B.png,Is there a green banana in the scene?,yes,no,no,0
+compl_horiz_003,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_003_B.png,Is the floor dark and metallic?,yes,no,no,0
+compl_horiz_003,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_003_B.png,Is the banana positioned on the floor?,yes,yes,yes,1
+compl_horiz_003,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_003_B.png,Is the floor made of metal?,yes,no,no,0
+compl_horiz_003,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_003_B.png,Is the banana visible in the image?,yes,yes,yes,1
+compl_horiz_004,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_004_A.png,Is there a red cat in the image?,yes,yes,yes,1
+compl_horiz_004,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_004_A.png,Is the surface in the image plain white?,yes,no,no,0
+compl_horiz_004,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_004_A.png,Is the red cat positioned on the surface?,yes,yes,yes,1
+compl_horiz_004,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_004_A.png,Does the image contain a white background?,yes,no,no,0
+compl_horiz_004,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_004_A.png,Is the scene simple without complex patterns?,yes,yes,yes,1
+compl_horiz_004,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_004_B.png,Is there a red cat in the image?,yes,yes,yes,1
+compl_horiz_004,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_004_B.png,Is the surface in the image plain white?,yes,yes,yes,1
+compl_horiz_004,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_004_B.png,Is the red cat positioned on the surface?,yes,yes,yes,1
+compl_horiz_004,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_004_B.png,Does the image contain a white background?,yes,yes,yes,1
+compl_horiz_004,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_004_B.png,Is the scene simple without complex patterns?,yes,yes,yes,1
+compl_horiz_005,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_005_A.png,Is there a blue dog in the scene?,yes,no,no,0
+compl_horiz_005,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_005_A.png,Is the floor dark metal?,yes,no,no,0
+compl_horiz_005,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_005_A.png,Is the dog positioned on the floor?,yes,no,no,0
+compl_horiz_005,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_005_A.png,Is the dog colored blue?,yes,no,no,0
+compl_horiz_005,Complement,14,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_005_A.png,Is the floor metallic?,yes,yes,yes,1
+compl_horiz_005,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_005_B.png,Is there a blue dog in the scene?,yes,no,no,0
+compl_horiz_005,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_005_B.png,Is the floor dark metal?,yes,no,no,0
+compl_horiz_005,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_005_B.png,Is the dog positioned on the floor?,yes,no,no,0
+compl_horiz_005,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_005_B.png,Is the dog colored blue?,yes,no,no,0
+compl_horiz_005,Complement,14,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/14/Horizontal/compl_horiz_005_B.png,Is the floor metallic?,yes,yes,yes,1
+compl_vert_001,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_001_A.png,Is there a green banana in the image?,yes,yes,yes,1
+compl_vert_001,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_001_A.png,Is the surface white?,yes,no,no,0
+compl_vert_001,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_001_A.png,Is the banana placed on the surface?,yes,yes,yes,1
+compl_vert_001,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_001_A.png,Is the surface plain?,yes,no,no,0
+compl_vert_001,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_001_A.png,Is the banana green?,yes,yes,yes,1
+compl_vert_001,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_001_B.png,Is there a green banana in the image?,yes,no,no,0
+compl_vert_001,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_001_B.png,Is the surface white?,yes,no,no,0
+compl_vert_001,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_001_B.png,Is the banana placed on the surface?,yes,no,no,0
+compl_vert_001,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_001_B.png,Is the surface plain?,yes,yes,yes,1
+compl_vert_001,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_001_B.png,Is the banana green?,yes,yes,yes,1
+compl_vert_002,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_002_A.png,Is there a red cat in the scene?,yes,no,no,0
+compl_vert_002,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_002_A.png,Is the surface plain and white?,yes,no,no,0
+compl_vert_002,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_002_A.png,Is the cat positioned on the surface?,yes,no,no,0
+compl_vert_002,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_002_A.png,Is the surface empty except for the cat?,yes,no,no,0
+compl_vert_002,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_002_A.png,Is the cat the only animal visible on the surface?,yes,no,no,0
+compl_vert_002,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_002_B.png,Is there a red cat in the scene?,yes,no,no,0
+compl_vert_002,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_002_B.png,Is the surface plain and white?,yes,no,no,0
+compl_vert_002,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_002_B.png,Is the cat positioned on the surface?,yes,no,no,0
+compl_vert_002,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_002_B.png,Is the surface empty except for the cat?,yes,yes,yes,1
+compl_vert_002,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_002_B.png,Is the cat the only animal visible on the surface?,yes,no,no,0
+compl_vert_003,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_003_A.png,Is there a yellow apple in the image?,yes,yes,yes,1
+compl_vert_003,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_003_A.png,Is the surface in the image plain and white?,yes,no,no,0
+compl_vert_003,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_003_A.png,Is there only one apple visible?,yes,yes,yes,1
+compl_vert_003,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_003_A.png,Is the apple positioned on the surface?,yes,no,no,0
+compl_vert_003,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_003_A.png,Is the background simple and uncluttered?,yes,no,no,0
+compl_vert_003,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_003_B.png,Is there a yellow apple in the image?,yes,yes,yes,1
+compl_vert_003,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_003_B.png,Is the surface in the image plain and white?,yes,yes,yes,1
+compl_vert_003,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_003_B.png,Is there only one apple visible?,yes,yes,yes,1
+compl_vert_003,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_003_B.png,Is the apple positioned on the surface?,yes,yes,yes,1
+compl_vert_003,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_003_B.png,Is the background simple and uncluttered?,yes,no,no,0
+compl_vert_004,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_004_A.png,Is there a red banana on the table?,yes,no,no,0
+compl_vert_004,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_004_A.png,Is the table made of wood?,yes,yes,yes,1
+compl_vert_004,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_004_A.png,Is the banana placed on the table?,yes,no,no,0
+compl_vert_004,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_004_A.png,Is the table visible in the image?,yes,yes,yes,1
+compl_vert_004,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_004_A.png,Is the banana red in color?,yes,yes,yes,1
+compl_vert_004,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_004_B.png,Is there a red banana on the table?,yes,yes,yes,1
+compl_vert_004,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_004_B.png,Is the table made of wood?,yes,no,no,0
+compl_vert_004,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_004_B.png,Is the banana placed on the table?,yes,yes,yes,1
+compl_vert_004,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_004_B.png,Is the table visible in the image?,yes,yes,yes,1
+compl_vert_004,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_004_B.png,Is the banana red in color?,yes,yes,yes,1
+compl_vert_005,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_005_A.png,Is there a blue dog in the scene?,yes,no,no,0
+compl_vert_005,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_005_A.png,Is the table made of wood?,yes,yes,yes,1
+compl_vert_005,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_005_A.png,Is the dog positioned on the table?,yes,no,no,0
+compl_vert_005,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_005_A.png,Is the table visible in the image?,yes,yes,yes,1
+compl_vert_005,Complement,15,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_005_A.png,Is the dog colored blue?,yes,no,no,0
+compl_vert_005,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_005_B.png,Is there a blue dog in the scene?,yes,no,no,0
+compl_vert_005,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_005_B.png,Is the table made of wood?,yes,yes,yes,1
+compl_vert_005,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_005_B.png,Is the dog positioned on the table?,yes,no,no,0
+compl_vert_005,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_005_B.png,Is the table visible in the image?,yes,yes,yes,1
+compl_vert_005,Complement,15,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/15/Vertical/compl_vert_005_B.png,Is the dog colored blue?,yes,no,no,0
+compl_attr_001,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_001_A.png,Is there an apple in the image?,yes,yes,yes,1
+compl_attr_001,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_001_A.png,Is the apple on a wooden table?,yes,yes,yes,1
+compl_attr_001,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_001_A.png,Is the table made of wood?,yes,yes,yes,1
+compl_attr_001,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_001_A.png,Is the apple a single fruit?,yes,yes,yes,1
+compl_attr_001,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_001_A.png,Is the apple clearly visible on the table?,yes,yes,yes,1
+compl_attr_001,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_001_B.png,Is there an apple in the image?,yes,yes,yes,1
+compl_attr_001,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_001_B.png,Is the apple on a wooden table?,yes,no,no,0
+compl_attr_001,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_001_B.png,Is the table made of wood?,yes,yes,yes,1
+compl_attr_001,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_001_B.png,Is the apple a single fruit?,yes,yes,yes,1
+compl_attr_001,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_001_B.png,Is the apple clearly visible on the table?,yes,no,no,0
+compl_attr_002,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_002_A.png,Is there a dog in the image?,yes,yes,yes,1
+compl_attr_002,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_002_A.png,Is the surface white?,yes,no,no,0
+compl_attr_002,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_002_A.png,Is the surface plain?,yes,no,no,0
+compl_attr_002,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_002_A.png,Is the dog a solid color?,yes,yes,yes,1
+compl_attr_002,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_002_A.png,Is the dog on the surface?,yes,yes,yes,1
+compl_attr_002,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_002_B.png,Is there a dog in the image?,yes,yes,yes,1
+compl_attr_002,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_002_B.png,Is the surface white?,yes,no,no,0
+compl_attr_002,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_002_B.png,Is the surface plain?,yes,no,no,0
+compl_attr_002,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_002_B.png,Is the dog a solid color?,yes,no,no,0
+compl_attr_002,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_002_B.png,Is the dog on the surface?,yes,yes,yes,1
+compl_attr_003,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_003_A.png,Is there a cat in the image?,yes,yes,yes,1
+compl_attr_003,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_003_A.png,Is the surface white?,yes,yes,yes,1
+compl_attr_003,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_003_A.png,Is the cat a solid color?,yes,no,no,0
+compl_attr_003,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_003_A.png,Is the scene simple with few objects?,yes,yes,yes,1
+compl_attr_003,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_003_A.png,Is the cat on the surface?,yes,yes,yes,1
+compl_attr_003,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_003_B.png,Is there a cat in the image?,yes,yes,yes,1
+compl_attr_003,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_003_B.png,Is the surface white?,yes,yes,yes,1
+compl_attr_003,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_003_B.png,Is the cat a solid color?,yes,yes,yes,1
+compl_attr_003,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_003_B.png,Is the scene simple with few objects?,yes,yes,yes,1
+compl_attr_003,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_003_B.png,Is the cat on the surface?,yes,yes,yes,1
+compl_attr_004,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_004_A.png,Is there a banana in the image?,yes,yes,yes,1
+compl_attr_004,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_004_A.png,Is the floor made of metal?,yes,no,no,0
+compl_attr_004,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_004_A.png,Is the floor dark in color?,yes,yes,yes,1
+compl_attr_004,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_004_A.png,Is the banana a solid color?,yes,yes,yes,1
+compl_attr_004,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_004_A.png,Is the scene indoors?,yes,no,no,0
+compl_attr_004,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_004_B.png,Is there a banana in the image?,yes,no,no,0
+compl_attr_004,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_004_B.png,Is the floor made of metal?,yes,no,no,0
+compl_attr_004,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_004_B.png,Is the floor dark in color?,yes,no,no,0
+compl_attr_004,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_004_B.png,Is the banana a solid color?,yes,yes,yes,1
+compl_attr_004,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_004_B.png,Is the scene indoors?,yes,yes,yes,1
+compl_attr_005,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_005_A.png,Is there a cat in the image?,yes,yes,yes,1
+compl_attr_005,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_005_A.png,Is the surface white?,yes,no,no,0
+compl_attr_005,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_005_A.png,Is the surface plain?,yes,yes,yes,1
+compl_attr_005,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_005_A.png,Is the cat a solid color?,yes,no,no,0
+compl_attr_005,Complement,16,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_005_A.png,Is the cat on the surface?,yes,yes,yes,1
+compl_attr_005,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_005_B.png,Is there a cat in the image?,yes,yes,yes,1
+compl_attr_005,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_005_B.png,Is the surface white?,yes,no,no,0
+compl_attr_005,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_005_B.png,Is the surface plain?,yes,yes,yes,1
+compl_attr_005,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_005_B.png,Is the cat a solid color?,yes,yes,yes,1
+compl_attr_005,Complement,16,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/Complement/16/Attributes/compl_attr_005_B.png,Is the cat on the surface?,yes,yes,yes,1
+demorgan_conj_001,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_001_A.png,Is the floor dark metal?,yes,no,no,0
+demorgan_conj_001,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_001_A.png,Is there a blue apple present?,yes,no,no,0
+demorgan_conj_001,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_001_A.png,Is there a red cat present?,yes,no,no,0
+demorgan_conj_001,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_001_A.png,Is the scene indoors?,yes,no,no,0
+demorgan_conj_001,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_001_A.png,Are there any animals in the scene?,yes,no,no,0
+demorgan_conj_001,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_001_B.png,Is the floor dark metal?,yes,no,no,0
+demorgan_conj_001,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_001_B.png,Is there a blue apple present?,yes,no,no,0
+demorgan_conj_001,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_001_B.png,Is there a red cat present?,yes,no,no,0
+demorgan_conj_001,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_001_B.png,Is the scene indoors?,yes,yes,yes,1
+demorgan_conj_001,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_001_B.png,Are there any animals in the scene?,yes,no,no,0
+demorgan_conj_002,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_002_A.png,Is the surface plain and white?,yes,no,no,0
+demorgan_conj_002,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_002_A.png,Is there at most one yellow apple present?,yes,yes,yes,1
+demorgan_conj_002,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_002_A.png,Is there at most one green dog present?,yes,no,no,0
+demorgan_conj_002,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_002_A.png,Is the scene simple without other objects?,yes,yes,yes,1
+demorgan_conj_002,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_002_A.png,Is the background uniformly white?,yes,no,no,0
+demorgan_conj_002,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_002_B.png,Is the surface plain and white?,yes,yes,yes,1
+demorgan_conj_002,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_002_B.png,Is there at most one yellow apple present?,yes,no,no,0
+demorgan_conj_002,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_002_B.png,Is there at most one green dog present?,yes,no,no,0
+demorgan_conj_002,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_002_B.png,Is the scene simple without other objects?,yes,yes,yes,1
+demorgan_conj_002,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_002_B.png,Is the background uniformly white?,yes,yes,yes,1
+demorgan_conj_003,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_003_A.png,Is the surface white?,yes,yes,yes,1
+demorgan_conj_003,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_003_A.png,Is there a banana in the image?,yes,yes,yes,1
+demorgan_conj_003,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_003_A.png,Is there a cat in the image?,yes,yes,yes,1
+demorgan_conj_003,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_003_A.png,Is the banana red?,yes,no,no,0
+demorgan_conj_003,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_003_A.png,Is the cat yellow?,yes,no,no,0
+demorgan_conj_003,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_003_B.png,Is the surface white?,yes,no,no,0
+demorgan_conj_003,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_003_B.png,Is there a banana in the image?,yes,yes,yes,1
+demorgan_conj_003,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_003_B.png,Is there a cat in the image?,yes,no,no,0
+demorgan_conj_003,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_003_B.png,Is the banana red?,yes,no,no,0
+demorgan_conj_003,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_003_B.png,Is the cat yellow?,yes,no,no,0
+demorgan_conj_004,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_004_A.png,Is the floor dark metal?,yes,no,no,0
+demorgan_conj_004,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_004_A.png,Is there a banana in the scene?,yes,no,no,0
+demorgan_conj_004,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_004_A.png,Is there an apple in the scene?,yes,yes,yes,1
+demorgan_conj_004,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_004_A.png,Is the banana red if present?,yes,yes,yes,1
+demorgan_conj_004,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_004_A.png,Is the apple blue if present?,yes,no,no,0
+demorgan_conj_004,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_004_B.png,Is the floor dark metal?,yes,yes,yes,1
+demorgan_conj_004,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_004_B.png,Is there a banana in the scene?,yes,yes,yes,1
+demorgan_conj_004,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_004_B.png,Is there an apple in the scene?,yes,yes,yes,1
+demorgan_conj_004,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_004_B.png,Is the banana red if present?,yes,yes,yes,1
+demorgan_conj_004,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_004_B.png,Is the apple blue if present?,yes,yes,yes,1
+demorgan_conj_005,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_005_A.png,Is the floor dark and metallic?,yes,no,no,0
+demorgan_conj_005,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_005_A.png,Is there a blue apple in the scene?,yes,no,no,0
+demorgan_conj_005,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_005_A.png,Is there a green cat in the scene?,yes,no,no,0
+demorgan_conj_005,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_005_A.png,Is there at most one of the blue apple or green cat present?,yes,green,green,0
+demorgan_conj_005,DeMorgan,17,Conjunctive,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_005_A.png,Is the setting indoors?,yes,yes,yes,1
+demorgan_conj_005,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_005_B.png,Is the floor dark and metallic?,yes,yes,yes,1
+demorgan_conj_005,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_005_B.png,Is there a blue apple in the scene?,yes,no,no,0
+demorgan_conj_005,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_005_B.png,Is there a green cat in the scene?,yes,no,no,0
+demorgan_conj_005,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_005_B.png,Is there at most one of the blue apple or green cat present?,yes,neither,neither,0
+demorgan_conj_005,DeMorgan,17,Conjunctive,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/17/Conjunctive/demorgan_conj_005_B.png,Is the setting indoors?,yes,yes,yes,1
+demorgan_horiz_001,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_001_A.png,Is the floor dark and metallic?,yes,yes,yes,1
+demorgan_horiz_001,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_001_A.png,Is there a green apple in the scene?,yes,yes,yes,1
+demorgan_horiz_001,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_001_A.png,Is there a yellow cat in the scene?,yes,no,no,0
+demorgan_horiz_001,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_001_A.png,Are there any animals present?,yes,no,no,0
+demorgan_horiz_001,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_001_A.png,Is the scene indoors?,yes,yes,yes,1
+demorgan_horiz_001,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_001_B.png,Is the floor dark and metallic?,yes,yes,yes,1
+demorgan_horiz_001,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_001_B.png,Is there a green apple in the scene?,yes,no,no,0
+demorgan_horiz_001,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_001_B.png,Is there a yellow cat in the scene?,yes,no,no,0
+demorgan_horiz_001,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_001_B.png,Are there any animals present?,yes,no,no,0
+demorgan_horiz_001,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_001_B.png,Is the scene indoors?,yes,yes,yes,1
+demorgan_horiz_002,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_002_A.png,Is the surface plain and white?,yes,yes,yes,1
+demorgan_horiz_002,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_002_A.png,Is there a green apple in the scene?,yes,no,no,0
+demorgan_horiz_002,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_002_A.png,Is there a yellow dog in the scene?,yes,no,no,0
+demorgan_horiz_002,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_002_A.png,Are the objects arranged horizontally?,yes,no,no,0
+demorgan_horiz_002,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_002_A.png,Is the scene simple with few objects?,yes,yes,yes,1
+demorgan_horiz_002,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_002_B.png,Is the surface plain and white?,yes,no,no,0
+demorgan_horiz_002,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_002_B.png,Is there a green apple in the scene?,yes,yes,yes,1
+demorgan_horiz_002,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_002_B.png,Is there a yellow dog in the scene?,yes,no,no,0
+demorgan_horiz_002,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_002_B.png,Are the objects arranged horizontally?,yes,no,no,0
+demorgan_horiz_002,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_002_B.png,Is the scene simple with few objects?,yes,yes,yes,1
+demorgan_horiz_003,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_003_A.png,Is there a wooden table in the scene?,yes,yes,yes,1
+demorgan_horiz_003,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_003_A.png,Is there a yellow apple present?,yes,no,no,0
+demorgan_horiz_003,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_003_A.png,Is there a green cat present?,yes,no,no,0
+demorgan_horiz_003,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_003_A.png,Are the objects arranged on the table?,yes,yes,yes,1
+demorgan_horiz_003,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_003_A.png,Is the scene indoors?,yes,yes,yes,1
+demorgan_horiz_003,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_003_B.png,Is there a wooden table in the scene?,yes,yes,yes,1
+demorgan_horiz_003,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_003_B.png,Is there a yellow apple present?,yes,no,no,0
+demorgan_horiz_003,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_003_B.png,Is there a green cat present?,yes,no,no,0
+demorgan_horiz_003,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_003_B.png,Are the objects arranged on the table?,yes,yes,yes,1
+demorgan_horiz_003,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_003_B.png,Is the scene indoors?,yes,yes,yes,1
+demorgan_horiz_004,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_004_A.png,Is there a wooden table in the image?,yes,yes,yes,1
+demorgan_horiz_004,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_004_A.png,Is there a yellow banana present?,yes,no,no,0
+demorgan_horiz_004,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_004_A.png,Is there a green apple present?,yes,yes,yes,1
+demorgan_horiz_004,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_004_A.png,Are the banana and apple arranged side by side?,yes,no,no,0
+demorgan_horiz_004,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_004_A.png,Is the scene focused on fruit on a table?,yes,yes,yes,1
+demorgan_horiz_004,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_004_B.png,Is there a wooden table in the image?,yes,yes,yes,1
+demorgan_horiz_004,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_004_B.png,Is there a yellow banana present?,yes,yes,yes,1
+demorgan_horiz_004,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_004_B.png,Is there a green apple present?,yes,no,no,0
+demorgan_horiz_004,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_004_B.png,Are the banana and apple arranged side by side?,yes,no,no,0
+demorgan_horiz_004,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_004_B.png,Is the scene focused on fruit on a table?,yes,yes,yes,1
+demorgan_horiz_005,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_005_A.png,Is the surface plain white?,yes,no,no,0
+demorgan_horiz_005,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_005_A.png,Is there a green banana in the scene?,yes,no,no,0
+demorgan_horiz_005,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_005_A.png,Is there a yellow cat in the scene?,yes,no,no,0
+demorgan_horiz_005,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_005_A.png,Are there any objects arranged from left to right?,yes,no,no,0
+demorgan_horiz_005,DeMorgan,18,Horizontal,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_005_A.png,Is the scene simple without additional colors?,yes,yes,yes,1
+demorgan_horiz_005,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_005_B.png,Is the surface plain white?,yes,no,no,0
+demorgan_horiz_005,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_005_B.png,Is there a green banana in the scene?,yes,yes,yes,1
+demorgan_horiz_005,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_005_B.png,Is there a yellow cat in the scene?,yes,no,no,0
+demorgan_horiz_005,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_005_B.png,Are there any objects arranged from left to right?,yes,yes,yes,1
+demorgan_horiz_005,DeMorgan,18,Horizontal,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/18/Horizontal/demorgan_horiz_005_B.png,Is the scene simple without additional colors?,yes,yes,yes,1
+demorgan_vert_001,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_001_A.png,Is the floor dark and metallic?,yes,yes,yes,1
+demorgan_vert_001,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_001_A.png,Is there a green dog in the scene?,yes,yes,yes,1
+demorgan_vert_001,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_001_A.png,Is there a blue banana in the scene?,yes,no,no,0
+demorgan_vert_001,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_001_A.png,Are the green dog and blue banana arranged vertically?,yes,no,no,0
+demorgan_vert_001,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_001_A.png,Is the scene set indoors?,yes,yes,yes,1
+demorgan_vert_001,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_001_B.png,Is the floor dark and metallic?,yes,yes,yes,1
+demorgan_vert_001,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_001_B.png,Is there a green dog in the scene?,yes,no,no,0
+demorgan_vert_001,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_001_B.png,Is there a blue banana in the scene?,yes,no,no,0
+demorgan_vert_001,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_001_B.png,Are the green dog and blue banana arranged vertically?,yes,no,no,0
+demorgan_vert_001,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_001_B.png,Is the scene set indoors?,yes,yes,yes,1
+demorgan_vert_002,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_002_A.png,Is the floor dark and metallic?,yes,yes,yes,1
+demorgan_vert_002,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_002_A.png,Is there a green banana in the scene?,yes,yes,yes,1
+demorgan_vert_002,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_002_A.png,Is there a blue dog in the scene?,yes,no,no,0
+demorgan_vert_002,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_002_A.png,Are the objects arranged vertically?,yes,no,no,0
+demorgan_vert_002,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_002_A.png,Is the scene indoors?,yes,no,no,0
+demorgan_vert_002,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_002_B.png,Is the floor dark and metallic?,yes,no,no,0
+demorgan_vert_002,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_002_B.png,Is there a green banana in the scene?,yes,no,no,0
+demorgan_vert_002,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_002_B.png,Is there a blue dog in the scene?,yes,no,no,0
+demorgan_vert_002,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_002_B.png,Are the objects arranged vertically?,yes,no,no,0
+demorgan_vert_002,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_002_B.png,Is the scene indoors?,yes,yes,yes,1
+demorgan_vert_003,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_003_A.png,Is the floor dark and metallic?,yes,no,no,0
+demorgan_vert_003,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_003_A.png,Is there a banana in the scene?,yes,yes,yes,1
+demorgan_vert_003,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_003_A.png,Is there a cat in the scene?,yes,no,no,0
+demorgan_vert_003,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_003_A.png,Is the banana blue?,yes,no,no,0
+demorgan_vert_003,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_003_A.png,Is the cat yellow?,yes,no,no,0
+demorgan_vert_003,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_003_B.png,Is the floor dark and metallic?,yes,yes,yes,1
+demorgan_vert_003,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_003_B.png,Is there a banana in the scene?,yes,no,no,0
+demorgan_vert_003,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_003_B.png,Is there a cat in the scene?,yes,no,no,0
+demorgan_vert_003,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_003_B.png,Is the banana blue?,yes,no,no,0
+demorgan_vert_003,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_003_B.png,Is the cat yellow?,yes,no,no,0
+demorgan_vert_004,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_004_A.png,Is the floor dark and metallic?,yes,no,no,0
+demorgan_vert_004,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_004_A.png,Is there a red apple in the scene?,yes,yes,yes,1
+demorgan_vert_004,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_004_A.png,Is there a yellow banana in the scene?,yes,no,no,0
+demorgan_vert_004,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_004_A.png,Are the apple and banana arranged vertically?,yes,no,no,0
+demorgan_vert_004,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_004_A.png,Is the background consistent with a single scene?,yes,yes,yes,1
+demorgan_vert_004,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_004_B.png,Is the floor dark and metallic?,yes,yes,yes,1
+demorgan_vert_004,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_004_B.png,Is there a red apple in the scene?,yes,yes,yes,1
+demorgan_vert_004,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_004_B.png,Is there a yellow banana in the scene?,yes,yes,yes,1
+demorgan_vert_004,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_004_B.png,Are the apple and banana arranged vertically?,yes,yes,yes,1
+demorgan_vert_004,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_004_B.png,Is the background consistent with a single scene?,yes,no,no,0
+demorgan_vert_005,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_005_A.png,Is the surface plain and white?,yes,yes,yes,1
+demorgan_vert_005,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_005_A.png,Is there a cat in the image?,yes,yes,yes,1
+demorgan_vert_005,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_005_A.png,Is there a banana in the image?,yes,no,no,0
+demorgan_vert_005,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_005_A.png,Is the cat green?,yes,yes,yes,1
+demorgan_vert_005,DeMorgan,19,Vertical,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_005_A.png,Is the banana red?,yes,yes,yes,1
+demorgan_vert_005,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_005_B.png,Is the surface plain and white?,yes,yes,yes,1
+demorgan_vert_005,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_005_B.png,Is there a cat in the image?,yes,no,no,0
+demorgan_vert_005,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_005_B.png,Is there a banana in the image?,yes,no,no,0
+demorgan_vert_005,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_005_B.png,Is the cat green?,yes,no,no,0
+demorgan_vert_005,DeMorgan,19,Vertical,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/19/Vertical/demorgan_vert_005_B.png,Is the banana red?,yes,no,no,0
+demorgan_attr_001,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_001_A.png,Is there a wooden table in the scene?,yes,yes,yes,1
+demorgan_attr_001,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_001_A.png,Is there a cat present on or near the table?,yes,no,no,0
+demorgan_attr_001,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_001_A.png,Is the cat not small in size?,yes,yes,yes,1
+demorgan_attr_001,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_001_A.png,Is the cat not blue in color?,yes,yes,yes,1
+demorgan_attr_001,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_001_A.png,Is the cat's color different from blue?,yes,yes,yes,1
+demorgan_attr_001,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_001_B.png,Is there a wooden table in the scene?,yes,yes,yes,1
+demorgan_attr_001,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_001_B.png,Is there a cat present on or near the table?,yes,next to,next to,0
+demorgan_attr_001,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_001_B.png,Is the cat not small in size?,yes,yes,yes,1
+demorgan_attr_001,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_001_B.png,Is the cat not blue in color?,yes,no,no,0
+demorgan_attr_001,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_001_B.png,Is the cat's color different from blue?,yes,yes,yes,1
+demorgan_attr_002,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_002_A.png,Is there a banana on the floor?,yes,yes,yes,1
+demorgan_attr_002,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_002_A.png,Is the floor made of metal?,yes,no,no,0
+demorgan_attr_002,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_002_A.png,Is the floor dark in color?,yes,yes,yes,1
+demorgan_attr_002,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_002_A.png,Is the banana not small?,yes,yes,yes,1
+demorgan_attr_002,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_002_A.png,Is the banana not yellow?,yes,yes,yes,1
+demorgan_attr_002,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_002_B.png,Is there a banana on the floor?,yes,no,no,0
+demorgan_attr_002,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_002_B.png,Is the floor made of metal?,yes,no,no,0
+demorgan_attr_002,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_002_B.png,Is the floor dark in color?,yes,no,no,0
+demorgan_attr_002,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_002_B.png,Is the banana not small?,yes,yes,yes,1
+demorgan_attr_002,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_002_B.png,Is the banana not yellow?,yes,yes,yes,1
+demorgan_attr_003,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_003_A.png,Is there a wooden table in the image?,yes,yes,yes,1
+demorgan_attr_003,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_003_A.png,Is there a banana on the table?,yes,no,no,0
+demorgan_attr_003,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_003_A.png,Is the banana not large and blue at the same time?,yes,yes,yes,1
+demorgan_attr_003,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_003_A.png,Does the banana have a color other than blue?,yes,yes,yes,1
+demorgan_attr_003,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_003_A.png,Is the banana smaller than large?,yes,yes,yes,1
+demorgan_attr_003,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_003_B.png,Is there a wooden table in the image?,yes,yes,yes,1
+demorgan_attr_003,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_003_B.png,Is there a banana on the table?,yes,yes,yes,1
+demorgan_attr_003,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_003_B.png,Is the banana not large and blue at the same time?,yes,no,no,0
+demorgan_attr_003,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_003_B.png,Does the banana have a color other than blue?,yes,yes,yes,1
+demorgan_attr_003,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_003_B.png,Is the banana smaller than large?,yes,no,no,0
+demorgan_attr_004,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_004_A.png,Is there a wooden table in the image?,yes,yes,yes,1
+demorgan_attr_004,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_004_A.png,Is there at least one banana on the table?,yes,no,no,0
+demorgan_attr_004,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_004_A.png,Is the banana not small in size?,yes,yes,yes,1
+demorgan_attr_004,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_004_A.png,Is the banana not blue in color?,yes,yes,yes,1
+demorgan_attr_004,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_004_A.png,Is the scene focused on a table setting?,yes,no,no,0
+demorgan_attr_004,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_004_B.png,Is there a wooden table in the image?,yes,no,no,0
+demorgan_attr_004,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_004_B.png,Is there at least one banana on the table?,yes,no,no,0
+demorgan_attr_004,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_004_B.png,Is the banana not small in size?,yes,yes,yes,1
+demorgan_attr_004,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_004_B.png,Is the banana not blue in color?,yes,no,no,0
+demorgan_attr_004,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_004_B.png,Is the scene focused on a table setting?,yes,no,no,0
+demorgan_attr_005,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_005_A.png,Is there a wooden table in the image?,yes,yes,yes,1
+demorgan_attr_005,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_005_A.png,Is there a dog present in the scene?,yes,no,no,0
+demorgan_attr_005,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_005_A.png,Is the dog not large and blue at the same time?,yes,no,no,0
+demorgan_attr_005,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_005_A.png,Does the dog have a color other than blue?,yes,no,no,0
+demorgan_attr_005,DeMorgan,20,Attributes,A,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_005_A.png,Is the dog smaller than large?,yes,no,no,0
+demorgan_attr_005,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_005_B.png,Is there a wooden table in the image?,yes,yes,yes,1
+demorgan_attr_005,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_005_B.png,Is there a dog present in the scene?,yes,yes,yes,1
+demorgan_attr_005,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_005_B.png,Is the dog not large and blue at the same time?,yes,yes,yes,1
+demorgan_attr_005,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_005_B.png,Does the dog have a color other than blue?,yes,yes,yes,1
+demorgan_attr_005,DeMorgan,20,Attributes,B,/content/drive/MyDrive/Trustworthy-AI-Final/Images/DeMorgan/20/Attributes/demorgan_attr_005_B.png,Is the dog smaller than large?,yes,no,no,0

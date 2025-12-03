@@ -1,0 +1,1001 @@
+pair_id,logical_law,category_id,semantic_dimension,image_variant,question,expected_answer
+comm_conj_001,Commutative,1,Conjunctive,A,Is there a red cat in the image?,yes
+comm_conj_001,Commutative,1,Conjunctive,A,Is there a yellow apple in the image?,yes
+comm_conj_001,Commutative,1,Conjunctive,A,Are the cat and apple on a wooden table?,yes
+comm_conj_001,Commutative,1,Conjunctive,A,Is the apple yellow in color?,yes
+comm_conj_001,Commutative,1,Conjunctive,A,Is the cat red in color?,yes
+comm_conj_001,Commutative,1,Conjunctive,B,Is there a red cat in the image?,yes
+comm_conj_001,Commutative,1,Conjunctive,B,Is there a yellow apple in the image?,yes
+comm_conj_001,Commutative,1,Conjunctive,B,Are the cat and apple on a wooden table?,yes
+comm_conj_001,Commutative,1,Conjunctive,B,Is the apple yellow in color?,yes
+comm_conj_001,Commutative,1,Conjunctive,B,Is the cat red in color?,yes
+comm_conj_002,Commutative,1,Conjunctive,A,Is there a blue dog in the image?,yes
+comm_conj_002,Commutative,1,Conjunctive,A,Is there a yellow cat in the image?,yes
+comm_conj_002,Commutative,1,Conjunctive,A,Are the dog and cat on a floor?,yes
+comm_conj_002,Commutative,1,Conjunctive,A,Is the floor dark and metallic?,yes
+comm_conj_002,Commutative,1,Conjunctive,A,Are there exactly two animals in the scene?,yes
+comm_conj_002,Commutative,1,Conjunctive,B,Is there a blue dog in the image?,yes
+comm_conj_002,Commutative,1,Conjunctive,B,Is there a yellow cat in the image?,yes
+comm_conj_002,Commutative,1,Conjunctive,B,Are the dog and cat on a floor?,yes
+comm_conj_002,Commutative,1,Conjunctive,B,Is the floor dark and metallic?,yes
+comm_conj_002,Commutative,1,Conjunctive,B,Are there exactly two animals in the scene?,yes
+comm_conj_003,Commutative,1,Conjunctive,A,Is there a red banana in the image?,yes
+comm_conj_003,Commutative,1,Conjunctive,A,Is there a blue cat in the image?,yes
+comm_conj_003,Commutative,1,Conjunctive,A,Are the objects placed on a wooden table?,yes
+comm_conj_003,Commutative,1,Conjunctive,A,Is the cat blue in color?,yes
+comm_conj_003,Commutative,1,Conjunctive,A,Is the banana red in color?,yes
+comm_conj_003,Commutative,1,Conjunctive,B,Is there a red banana in the image?,yes
+comm_conj_003,Commutative,1,Conjunctive,B,Is there a blue cat in the image?,yes
+comm_conj_003,Commutative,1,Conjunctive,B,Are the objects placed on a wooden table?,yes
+comm_conj_003,Commutative,1,Conjunctive,B,Is the cat blue in color?,yes
+comm_conj_003,Commutative,1,Conjunctive,B,Is the banana red in color?,yes
+comm_conj_004,Commutative,1,Conjunctive,A,Is there a blue dog in the image?,yes
+comm_conj_004,Commutative,1,Conjunctive,A,Is there a yellow banana in the image?,yes
+comm_conj_004,Commutative,1,Conjunctive,A,Is the dog blue in color?,yes
+comm_conj_004,Commutative,1,Conjunctive,A,Is the banana yellow in color?,yes
+comm_conj_004,Commutative,1,Conjunctive,A,Is the scene set on a wooden table?,yes
+comm_conj_004,Commutative,1,Conjunctive,B,Is there a blue dog in the image?,yes
+comm_conj_004,Commutative,1,Conjunctive,B,Is there a yellow banana in the image?,yes
+comm_conj_004,Commutative,1,Conjunctive,B,Is the dog blue in color?,yes
+comm_conj_004,Commutative,1,Conjunctive,B,Is the banana yellow in color?,yes
+comm_conj_004,Commutative,1,Conjunctive,B,Is the scene set on a wooden table?,yes
+comm_conj_005,Commutative,1,Conjunctive,A,Is there a blue banana in the scene?,yes
+comm_conj_005,Commutative,1,Conjunctive,A,Is there a red dog present?,yes
+comm_conj_005,Commutative,1,Conjunctive,A,Is the floor made of metal?,yes
+comm_conj_005,Commutative,1,Conjunctive,A,Is the floor dark in color?,yes
+comm_conj_005,Commutative,1,Conjunctive,A,Are both the banana and the dog visible?,yes
+comm_conj_005,Commutative,1,Conjunctive,B,Is there a blue banana in the scene?,yes
+comm_conj_005,Commutative,1,Conjunctive,B,Is there a red dog present?,yes
+comm_conj_005,Commutative,1,Conjunctive,B,Is the floor made of metal?,yes
+comm_conj_005,Commutative,1,Conjunctive,B,Is the floor dark in color?,yes
+comm_conj_005,Commutative,1,Conjunctive,B,Are both the banana and the dog visible?,yes
+comm_horiz_001,Commutative,2,Horizontal,A,Is there a green cat in the image?,yes
+comm_horiz_001,Commutative,2,Horizontal,A,Is there a red banana in the image?,yes
+comm_horiz_001,Commutative,2,Horizontal,A,Are the cat and banana on a plain white surface?,yes
+comm_horiz_001,Commutative,2,Horizontal,A,Is the cat positioned to the left of the banana?,yes
+comm_horiz_001,Commutative,2,Horizontal,A,Are both the cat and banana visible in the scene?,yes
+comm_horiz_001,Commutative,2,Horizontal,B,Is there a green cat in the image?,yes
+comm_horiz_001,Commutative,2,Horizontal,B,Is there a red banana in the image?,yes
+comm_horiz_001,Commutative,2,Horizontal,B,Are the cat and banana on a plain white surface?,yes
+comm_horiz_001,Commutative,2,Horizontal,B,Is the cat positioned to the left of the banana?,yes
+comm_horiz_001,Commutative,2,Horizontal,B,Are both the cat and banana visible in the scene?,yes
+comm_horiz_002,Commutative,2,Horizontal,A,Is there a green apple in the image?,yes
+comm_horiz_002,Commutative,2,Horizontal,A,Is there a red cat in the image?,yes
+comm_horiz_002,Commutative,2,Horizontal,A,Are the objects on a plain white surface?,yes
+comm_horiz_002,Commutative,2,Horizontal,A,Is the apple positioned next to the cat?,yes
+comm_horiz_002,Commutative,2,Horizontal,A,Is the cat red in color?,yes
+comm_horiz_002,Commutative,2,Horizontal,B,Is there a green apple in the image?,yes
+comm_horiz_002,Commutative,2,Horizontal,B,Is there a red cat in the image?,yes
+comm_horiz_002,Commutative,2,Horizontal,B,Are the objects on a plain white surface?,yes
+comm_horiz_002,Commutative,2,Horizontal,B,Is the apple positioned next to the cat?,yes
+comm_horiz_002,Commutative,2,Horizontal,B,Is the cat red in color?,yes
+comm_horiz_003,Commutative,2,Horizontal,A,Is there a red cat in the image?,yes
+comm_horiz_003,Commutative,2,Horizontal,A,Is there a green dog in the image?,yes
+comm_horiz_003,Commutative,2,Horizontal,A,Are the cat and dog on a white surface?,yes
+comm_horiz_003,Commutative,2,Horizontal,A,Is the surface plain and white?,yes
+comm_horiz_003,Commutative,2,Horizontal,A,Are there exactly two animals in the image?,yes
+comm_horiz_003,Commutative,2,Horizontal,B,Is there a red cat in the image?,yes
+comm_horiz_003,Commutative,2,Horizontal,B,Is there a green dog in the image?,yes
+comm_horiz_003,Commutative,2,Horizontal,B,Are the cat and dog on a white surface?,yes
+comm_horiz_003,Commutative,2,Horizontal,B,Is the surface plain and white?,yes
+comm_horiz_003,Commutative,2,Horizontal,B,Are there exactly two animals in the image?,yes
+comm_horiz_004,Commutative,2,Horizontal,A,Is there a green apple in the image?,yes
+comm_horiz_004,Commutative,2,Horizontal,A,Is there a red banana in the image?,yes
+comm_horiz_004,Commutative,2,Horizontal,A,Are both fruits on a plain white surface?,yes
+comm_horiz_004,Commutative,2,Horizontal,A,Is the apple positioned next to the banana?,yes
+comm_horiz_004,Commutative,2,Horizontal,A,Are the colors of the fruits clearly visible?,yes
+comm_horiz_004,Commutative,2,Horizontal,B,Is there a green apple in the image?,yes
+comm_horiz_004,Commutative,2,Horizontal,B,Is there a red banana in the image?,yes
+comm_horiz_004,Commutative,2,Horizontal,B,Are both fruits on a plain white surface?,yes
+comm_horiz_004,Commutative,2,Horizontal,B,Is the apple positioned next to the banana?,yes
+comm_horiz_004,Commutative,2,Horizontal,B,Are the colors of the fruits clearly visible?,yes
+comm_horiz_005,Commutative,2,Horizontal,A,Is there a red banana in the image?,yes
+comm_horiz_005,Commutative,2,Horizontal,A,Is there a blue apple in the image?,yes
+comm_horiz_005,Commutative,2,Horizontal,A,Are the objects placed on a plain white surface?,yes
+comm_horiz_005,Commutative,2,Horizontal,A,Is the apple blue in color?,yes
+comm_horiz_005,Commutative,2,Horizontal,A,Is the banana red in color?,yes
+comm_horiz_005,Commutative,2,Horizontal,B,Is there a red banana in the image?,yes
+comm_horiz_005,Commutative,2,Horizontal,B,Is there a blue apple in the image?,yes
+comm_horiz_005,Commutative,2,Horizontal,B,Are the objects placed on a plain white surface?,yes
+comm_horiz_005,Commutative,2,Horizontal,B,Is the apple blue in color?,yes
+comm_horiz_005,Commutative,2,Horizontal,B,Is the banana red in color?,yes
+comm_vert_001,Commutative,3,Vertical,A,Is there a green dog in the image?,yes
+comm_vert_001,Commutative,3,Vertical,A,Is there a yellow cat in the image?,yes
+comm_vert_001,Commutative,3,Vertical,A,Are the dog and cat on a wooden table?,yes
+comm_vert_001,Commutative,3,Vertical,A,Is the dog positioned above the cat?,yes
+comm_vert_001,Commutative,3,Vertical,A,Are the dog and cat the only animals shown?,yes
+comm_vert_001,Commutative,3,Vertical,B,Is there a green dog in the image?,yes
+comm_vert_001,Commutative,3,Vertical,B,Is there a yellow cat in the image?,yes
+comm_vert_001,Commutative,3,Vertical,B,Are the dog and cat on a wooden table?,yes
+comm_vert_001,Commutative,3,Vertical,B,Is the dog positioned above the cat?,yes
+comm_vert_001,Commutative,3,Vertical,B,Are the dog and cat the only animals shown?,yes
+comm_vert_002,Commutative,3,Vertical,A,Is there a blue apple in the image?,yes
+comm_vert_002,Commutative,3,Vertical,A,Is there a red cat in the image?,yes
+comm_vert_002,Commutative,3,Vertical,A,Is the apple positioned above the cat?,yes
+comm_vert_002,Commutative,3,Vertical,A,Are both the apple and cat on a wooden table?,yes
+comm_vert_002,Commutative,3,Vertical,A,Is the cat below the apple?,yes
+comm_vert_002,Commutative,3,Vertical,B,Is there a blue apple in the image?,yes
+comm_vert_002,Commutative,3,Vertical,B,Is there a red cat in the image?,yes
+comm_vert_002,Commutative,3,Vertical,B,Is the apple positioned above the cat?,yes
+comm_vert_002,Commutative,3,Vertical,B,Are both the apple and cat on a wooden table?,yes
+comm_vert_002,Commutative,3,Vertical,B,Is the cat below the apple?,yes
+comm_vert_003,Commutative,3,Vertical,A,Is there a yellow apple in the image?,yes
+comm_vert_003,Commutative,3,Vertical,A,Is there a blue banana in the image?,yes
+comm_vert_003,Commutative,3,Vertical,A,Are the apple and banana on a white surface?,yes
+comm_vert_003,Commutative,3,Vertical,A,Is the apple positioned above the banana?,yes
+comm_vert_003,Commutative,3,Vertical,A,Are the colors of the apple and banana distinct?,yes
+comm_vert_003,Commutative,3,Vertical,B,Is there a yellow apple in the image?,yes
+comm_vert_003,Commutative,3,Vertical,B,Is there a blue banana in the image?,yes
+comm_vert_003,Commutative,3,Vertical,B,Are the apple and banana on a white surface?,yes
+comm_vert_003,Commutative,3,Vertical,B,Is the apple positioned above the banana?,yes
+comm_vert_003,Commutative,3,Vertical,B,Are the colors of the apple and banana distinct?,yes
+comm_vert_004,Commutative,3,Vertical,A,Is there a blue apple in the image?,yes
+comm_vert_004,Commutative,3,Vertical,A,Is there a green cat in the image?,yes
+comm_vert_004,Commutative,3,Vertical,A,Is the cat positioned on a dark metal floor?,yes
+comm_vert_004,Commutative,3,Vertical,A,Is the apple positioned above the cat?,yes
+comm_vert_004,Commutative,3,Vertical,A,Is the floor dark and metallic?,yes
+comm_vert_004,Commutative,3,Vertical,B,Is there a blue apple in the image?,yes
+comm_vert_004,Commutative,3,Vertical,B,Is there a green cat in the image?,yes
+comm_vert_004,Commutative,3,Vertical,B,Is the cat positioned on a dark metal floor?,yes
+comm_vert_004,Commutative,3,Vertical,B,Is the apple positioned above the cat?,yes
+comm_vert_004,Commutative,3,Vertical,B,Is the floor dark and metallic?,yes
+comm_vert_005,Commutative,3,Vertical,A,Is there a green cat in the image?,yes
+comm_vert_005,Commutative,3,Vertical,A,Is there a yellow banana in the image?,yes
+comm_vert_005,Commutative,3,Vertical,A,Is the cat positioned above the banana?,yes
+comm_vert_005,Commutative,3,Vertical,A,Are both objects on a wooden table?,yes
+comm_vert_005,Commutative,3,Vertical,A,Is the banana yellow in color?,yes
+comm_vert_005,Commutative,3,Vertical,B,Is there a green cat in the image?,yes
+comm_vert_005,Commutative,3,Vertical,B,Is there a yellow banana in the image?,yes
+comm_vert_005,Commutative,3,Vertical,B,Is the cat positioned above the banana?,yes
+comm_vert_005,Commutative,3,Vertical,B,Are both objects on a wooden table?,yes
+comm_vert_005,Commutative,3,Vertical,B,Is the banana yellow in color?,yes
+comm_attr_001,Commutative,4,Attributes,A,Is the banana small?,yes
+comm_attr_001,Commutative,4,Attributes,A,Is the banana blue?,yes
+comm_attr_001,Commutative,4,Attributes,A,Is the surface white?,yes
+comm_attr_001,Commutative,4,Attributes,A,Is the surface plain?,yes
+comm_attr_001,Commutative,4,Attributes,A,Is there only one banana?,yes
+comm_attr_001,Commutative,4,Attributes,B,Is the banana small?,yes
+comm_attr_001,Commutative,4,Attributes,B,Is the banana blue?,yes
+comm_attr_001,Commutative,4,Attributes,B,Is the surface white?,yes
+comm_attr_001,Commutative,4,Attributes,B,Is the surface plain?,yes
+comm_attr_001,Commutative,4,Attributes,B,Is there only one banana?,yes
+comm_attr_002,Commutative,4,Attributes,A,Is there an apple in the image?,yes
+comm_attr_002,Commutative,4,Attributes,A,Is the apple green?,yes
+comm_attr_002,Commutative,4,Attributes,A,Is the apple small?,yes
+comm_attr_002,Commutative,4,Attributes,A,Is the apple on a table?,yes
+comm_attr_002,Commutative,4,Attributes,A,Is the table wooden?,yes
+comm_attr_002,Commutative,4,Attributes,B,Is there an apple in the image?,yes
+comm_attr_002,Commutative,4,Attributes,B,Is the apple green?,yes
+comm_attr_002,Commutative,4,Attributes,B,Is the apple small?,yes
+comm_attr_002,Commutative,4,Attributes,B,Is the apple on a table?,yes
+comm_attr_002,Commutative,4,Attributes,B,Is the table wooden?,yes
+comm_attr_003,Commutative,4,Attributes,A,Is the apple small?,yes
+comm_attr_003,Commutative,4,Attributes,A,Is the apple blue?,yes
+comm_attr_003,Commutative,4,Attributes,A,Is the apple on a white surface?,yes
+comm_attr_003,Commutative,4,Attributes,A,Is the surface plain?,yes
+comm_attr_003,Commutative,4,Attributes,A,Is there only one apple?,yes
+comm_attr_003,Commutative,4,Attributes,B,Is the apple small?,yes
+comm_attr_003,Commutative,4,Attributes,B,Is the apple blue?,yes
+comm_attr_003,Commutative,4,Attributes,B,Is the apple on a white surface?,yes
+comm_attr_003,Commutative,4,Attributes,B,Is the surface plain?,yes
+comm_attr_003,Commutative,4,Attributes,B,Is there only one apple?,yes
+comm_attr_004,Commutative,4,Attributes,A,Is there a dog in the image?,yes
+comm_attr_004,Commutative,4,Attributes,A,Is the dog green?,yes
+comm_attr_004,Commutative,4,Attributes,A,Is the dog small?,yes
+comm_attr_004,Commutative,4,Attributes,A,Is the floor made of metal?,yes
+comm_attr_004,Commutative,4,Attributes,A,Is the floor dark in color?,yes
+comm_attr_004,Commutative,4,Attributes,B,Is there a dog in the image?,yes
+comm_attr_004,Commutative,4,Attributes,B,Is the dog green?,yes
+comm_attr_004,Commutative,4,Attributes,B,Is the dog small?,yes
+comm_attr_004,Commutative,4,Attributes,B,Is the floor made of metal?,yes
+comm_attr_004,Commutative,4,Attributes,B,Is the floor dark in color?,yes
+comm_attr_005,Commutative,4,Attributes,A,Is the banana small?,yes
+comm_attr_005,Commutative,4,Attributes,A,Is the banana green?,yes
+comm_attr_005,Commutative,4,Attributes,A,Is the banana on a white surface?,yes
+comm_attr_005,Commutative,4,Attributes,A,Is the surface plain?,yes
+comm_attr_005,Commutative,4,Attributes,A,Is there only one banana?,yes
+comm_attr_005,Commutative,4,Attributes,B,Is the banana small?,yes
+comm_attr_005,Commutative,4,Attributes,B,Is the banana green?,yes
+comm_attr_005,Commutative,4,Attributes,B,Is the banana on a white surface?,yes
+comm_attr_005,Commutative,4,Attributes,B,Is the surface plain?,yes
+comm_attr_005,Commutative,4,Attributes,B,Is there only one banana?,yes
+assoc_conj_001,Associative,5,Conjunctive,A,Is there a yellow dog in the scene?,yes
+assoc_conj_001,Associative,5,Conjunctive,A,Is there a blue cat present?,yes
+assoc_conj_001,Associative,5,Conjunctive,A,Is there a red banana next to the animals?,yes
+assoc_conj_001,Associative,5,Conjunctive,A,Is the floor dark and metallic?,yes
+assoc_conj_001,Associative,5,Conjunctive,A,Are the dog and cat both visible in the image?,yes
+assoc_conj_001,Associative,5,Conjunctive,B,Is there a yellow dog in the scene?,yes
+assoc_conj_001,Associative,5,Conjunctive,B,Is there a blue cat present?,yes
+assoc_conj_001,Associative,5,Conjunctive,B,Is there a red banana next to the animals?,yes
+assoc_conj_001,Associative,5,Conjunctive,B,Is the floor dark and metallic?,yes
+assoc_conj_001,Associative,5,Conjunctive,B,Are the dog and cat both visible in the image?,yes
+assoc_conj_002,Associative,5,Conjunctive,A,Is there a green banana on the table?,yes
+assoc_conj_002,Associative,5,Conjunctive,A,Is there a yellow dog present?,yes
+assoc_conj_002,Associative,5,Conjunctive,A,Is a blue cat next to the other objects?,yes
+assoc_conj_002,Associative,5,Conjunctive,A,Are all the objects on a wooden table?,yes
+assoc_conj_002,Associative,5,Conjunctive,A,"Are the banana, dog, and cat close to each other?",yes
+assoc_conj_002,Associative,5,Conjunctive,B,Is there a green banana on the table?,yes
+assoc_conj_002,Associative,5,Conjunctive,B,Is there a yellow dog present?,yes
+assoc_conj_002,Associative,5,Conjunctive,B,Is a blue cat next to the other objects?,yes
+assoc_conj_002,Associative,5,Conjunctive,B,Are all the objects on a wooden table?,yes
+assoc_conj_002,Associative,5,Conjunctive,B,"Are the banana, dog, and cat close to each other?",yes
+assoc_conj_003,Associative,5,Conjunctive,A,Is there a yellow cat in the image?,yes
+assoc_conj_003,Associative,5,Conjunctive,A,Is there a red dog present?,yes
+assoc_conj_003,Associative,5,Conjunctive,A,Is a blue banana visible?,yes
+assoc_conj_003,Associative,5,Conjunctive,A,Are the objects placed on a wooden table?,yes
+assoc_conj_003,Associative,5,Conjunctive,A,Are the cat and dog different colors?,yes
+assoc_conj_003,Associative,5,Conjunctive,B,Is there a yellow cat in the image?,yes
+assoc_conj_003,Associative,5,Conjunctive,B,Is there a red dog present?,yes
+assoc_conj_003,Associative,5,Conjunctive,B,Is a blue banana visible?,yes
+assoc_conj_003,Associative,5,Conjunctive,B,Are the objects placed on a wooden table?,yes
+assoc_conj_003,Associative,5,Conjunctive,B,Are the cat and dog different colors?,yes
+assoc_conj_004,Associative,5,Conjunctive,A,Is there a yellow cat in the scene?,yes
+assoc_conj_004,Associative,5,Conjunctive,A,Is there a blue apple present?,yes
+assoc_conj_004,Associative,5,Conjunctive,A,Is there a yellow dog in the image?,yes
+assoc_conj_004,Associative,5,Conjunctive,A,Are the objects on a dark metal floor?,yes
+assoc_conj_004,Associative,5,Conjunctive,A,Are the cat and dog both yellow?,yes
+assoc_conj_004,Associative,5,Conjunctive,B,Is there a yellow cat in the scene?,yes
+assoc_conj_004,Associative,5,Conjunctive,B,Is there a blue apple present?,yes
+assoc_conj_004,Associative,5,Conjunctive,B,Is there a yellow dog in the image?,yes
+assoc_conj_004,Associative,5,Conjunctive,B,Are the objects on a dark metal floor?,yes
+assoc_conj_004,Associative,5,Conjunctive,B,Are the cat and dog both yellow?,yes
+assoc_conj_005,Associative,5,Conjunctive,A,Is there a green cat in the image?,yes
+assoc_conj_005,Associative,5,Conjunctive,A,Is there a yellow banana present?,yes
+assoc_conj_005,Associative,5,Conjunctive,A,Is a red apple next to the other objects?,yes
+assoc_conj_005,Associative,5,Conjunctive,A,Are the objects placed on a dark metal floor?,yes
+assoc_conj_005,Associative,5,Conjunctive,A,Are the cat and banana both visible in the scene?,yes
+assoc_conj_005,Associative,5,Conjunctive,B,Is there a green cat in the image?,yes
+assoc_conj_005,Associative,5,Conjunctive,B,Is there a yellow banana present?,yes
+assoc_conj_005,Associative,5,Conjunctive,B,Is a red apple next to the other objects?,yes
+assoc_conj_005,Associative,5,Conjunctive,B,Are the objects placed on a dark metal floor?,yes
+assoc_conj_005,Associative,5,Conjunctive,B,Are the cat and banana both visible in the scene?,yes
+assoc_horiz_001,Associative,6,Horizontal,A,Is there a green apple in the image?,yes
+assoc_horiz_001,Associative,6,Horizontal,A,Is there a red dog in the image?,yes
+assoc_horiz_001,Associative,6,Horizontal,A,Is there a green cat in the image?,yes
+assoc_horiz_001,Associative,6,Horizontal,A,Are all objects on a plain white surface?,yes
+assoc_horiz_001,Associative,6,Horizontal,A,Is the green apple positioned to the left of the red dog?,yes
+assoc_horiz_001,Associative,6,Horizontal,B,Is there a green apple in the image?,yes
+assoc_horiz_001,Associative,6,Horizontal,B,Is there a red dog in the image?,yes
+assoc_horiz_001,Associative,6,Horizontal,B,Is there a green cat in the image?,yes
+assoc_horiz_001,Associative,6,Horizontal,B,Are all objects on a plain white surface?,yes
+assoc_horiz_001,Associative,6,Horizontal,B,Is the green apple positioned to the left of the red dog?,yes
+assoc_horiz_002,Associative,6,Horizontal,A,Is there a red apple in the scene?,yes
+assoc_horiz_002,Associative,6,Horizontal,A,Is the cat yellow in color?,yes
+assoc_horiz_002,Associative,6,Horizontal,A,Is the dog green?,yes
+assoc_horiz_002,Associative,6,Horizontal,A,Are the objects on a dark metal floor?,yes
+assoc_horiz_002,Associative,6,Horizontal,A,"Are the apple, cat, and dog arranged in a line?",yes
+assoc_horiz_002,Associative,6,Horizontal,B,Is there a red apple in the scene?,yes
+assoc_horiz_002,Associative,6,Horizontal,B,Is the cat yellow in color?,yes
+assoc_horiz_002,Associative,6,Horizontal,B,Is the dog green?,yes
+assoc_horiz_002,Associative,6,Horizontal,B,Are the objects on a dark metal floor?,yes
+assoc_horiz_002,Associative,6,Horizontal,B,"Are the apple, cat, and dog arranged in a line?",yes
+assoc_horiz_003,Associative,6,Horizontal,A,Is there a green dog in the image?,yes
+assoc_horiz_003,Associative,6,Horizontal,A,Is there a red apple in the image?,yes
+assoc_horiz_003,Associative,6,Horizontal,A,Is there a blue banana in the image?,yes
+assoc_horiz_003,Associative,6,Horizontal,A,Are the objects placed on a dark metal floor?,yes
+assoc_horiz_003,Associative,6,Horizontal,A,Is the green dog positioned to the left of the red apple?,yes
+assoc_horiz_003,Associative,6,Horizontal,B,Is there a green dog in the image?,yes
+assoc_horiz_003,Associative,6,Horizontal,B,Is there a red apple in the image?,yes
+assoc_horiz_003,Associative,6,Horizontal,B,Is there a blue banana in the image?,yes
+assoc_horiz_003,Associative,6,Horizontal,B,Are the objects placed on a dark metal floor?,yes
+assoc_horiz_003,Associative,6,Horizontal,B,Is the green dog positioned to the left of the red apple?,yes
+assoc_horiz_004,Associative,6,Horizontal,A,Is there a red apple in the image?,yes
+assoc_horiz_004,Associative,6,Horizontal,A,Is there a green cat in the image?,yes
+assoc_horiz_004,Associative,6,Horizontal,A,Are the objects placed on a plain white surface?,yes
+assoc_horiz_004,Associative,6,Horizontal,A,Is the green cat positioned between two red apples?,yes
+assoc_horiz_004,Associative,6,Horizontal,A,Are all the objects aligned horizontally?,yes
+assoc_horiz_004,Associative,6,Horizontal,B,Is there a red apple in the image?,yes
+assoc_horiz_004,Associative,6,Horizontal,B,Is there a green cat in the image?,yes
+assoc_horiz_004,Associative,6,Horizontal,B,Are the objects placed on a plain white surface?,yes
+assoc_horiz_004,Associative,6,Horizontal,B,Is the green cat positioned between two red apples?,yes
+assoc_horiz_004,Associative,6,Horizontal,B,Are all the objects aligned horizontally?,yes
+assoc_horiz_005,Associative,6,Horizontal,A,Is there a blue cat in the image?,yes
+assoc_horiz_005,Associative,6,Horizontal,A,Is there a red banana in the image?,yes
+assoc_horiz_005,Associative,6,Horizontal,A,Is the floor dark and metallic?,yes
+assoc_horiz_005,Associative,6,Horizontal,A,Are there two blue cats in the image?,yes
+assoc_horiz_005,Associative,6,Horizontal,A,Is the red banana positioned between the two blue cats?,yes
+assoc_horiz_005,Associative,6,Horizontal,B,Is there a blue cat in the image?,yes
+assoc_horiz_005,Associative,6,Horizontal,B,Is there a red banana in the image?,yes
+assoc_horiz_005,Associative,6,Horizontal,B,Is the floor dark and metallic?,yes
+assoc_horiz_005,Associative,6,Horizontal,B,Are there two blue cats in the image?,yes
+assoc_horiz_005,Associative,6,Horizontal,B,Is the red banana positioned between the two blue cats?,yes
+assoc_vert_001,Associative,7,Vertical,A,Is there a yellow cat in the image?,yes
+assoc_vert_001,Associative,7,Vertical,A,Is the green dog below the yellow cat?,yes
+assoc_vert_001,Associative,7,Vertical,A,Is the red banana at the bottom of the stack?,yes
+assoc_vert_001,Associative,7,Vertical,A,Is the background plain white?,yes
+assoc_vert_001,Associative,7,Vertical,A,Are the objects arranged vertically?,yes
+assoc_vert_001,Associative,7,Vertical,B,Is there a yellow cat in the image?,yes
+assoc_vert_001,Associative,7,Vertical,B,Is the green dog below the yellow cat?,yes
+assoc_vert_001,Associative,7,Vertical,B,Is the red banana at the bottom of the stack?,yes
+assoc_vert_001,Associative,7,Vertical,B,Is the background plain white?,yes
+assoc_vert_001,Associative,7,Vertical,B,Are the objects arranged vertically?,yes
+assoc_vert_002,Associative,7,Vertical,A,Is there a blue apple in the image?,yes
+assoc_vert_002,Associative,7,Vertical,A,Is the banana yellow?,yes
+assoc_vert_002,Associative,7,Vertical,A,Is the blue cat at the bottom of the stack?,yes
+assoc_vert_002,Associative,7,Vertical,A,Is the floor dark and metallic?,yes
+assoc_vert_002,Associative,7,Vertical,A,Are the objects arranged vertically?,yes
+assoc_vert_002,Associative,7,Vertical,B,Is there a blue apple in the image?,yes
+assoc_vert_002,Associative,7,Vertical,B,Is the banana yellow?,yes
+assoc_vert_002,Associative,7,Vertical,B,Is the blue cat at the bottom of the stack?,yes
+assoc_vert_002,Associative,7,Vertical,B,Is the floor dark and metallic?,yes
+assoc_vert_002,Associative,7,Vertical,B,Are the objects arranged vertically?,yes
+assoc_vert_003,Associative,7,Vertical,A,Is there a blue apple in the image?,yes
+assoc_vert_003,Associative,7,Vertical,A,Is the banana green in color?,yes
+assoc_vert_003,Associative,7,Vertical,A,Is the dog yellow?,yes
+assoc_vert_003,Associative,7,Vertical,A,Are the objects arranged vertically?,yes
+assoc_vert_003,Associative,7,Vertical,A,Is the background plain white?,yes
+assoc_vert_003,Associative,7,Vertical,B,Is there a blue apple in the image?,yes
+assoc_vert_003,Associative,7,Vertical,B,Is the banana green in color?,yes
+assoc_vert_003,Associative,7,Vertical,B,Is the dog yellow?,yes
+assoc_vert_003,Associative,7,Vertical,B,Are the objects arranged vertically?,yes
+assoc_vert_003,Associative,7,Vertical,B,Is the background plain white?,yes
+assoc_vert_004,Associative,7,Vertical,A,Is there a yellow cat in the image?,yes
+assoc_vert_004,Associative,7,Vertical,A,Is the red dog below the yellow cat?,yes
+assoc_vert_004,Associative,7,Vertical,A,Is the blue apple at the bottom of the stack?,yes
+assoc_vert_004,Associative,7,Vertical,A,Are all objects placed on a wooden table?,yes
+assoc_vert_004,Associative,7,Vertical,A,Are the objects arranged vertically?,yes
+assoc_vert_004,Associative,7,Vertical,B,Is there a yellow cat in the image?,yes
+assoc_vert_004,Associative,7,Vertical,B,Is the red dog below the yellow cat?,yes
+assoc_vert_004,Associative,7,Vertical,B,Is the blue apple at the bottom of the stack?,yes
+assoc_vert_004,Associative,7,Vertical,B,Are all objects placed on a wooden table?,yes
+assoc_vert_004,Associative,7,Vertical,B,Are the objects arranged vertically?,yes
+assoc_vert_005,Associative,7,Vertical,A,Is there a blue dog in the image?,yes
+assoc_vert_005,Associative,7,Vertical,A,Is the red cat below the blue dog?,yes
+assoc_vert_005,Associative,7,Vertical,A,Is the yellow banana below the red cat?,yes
+assoc_vert_005,Associative,7,Vertical,A,Are all objects placed on a wooden table?,yes
+assoc_vert_005,Associative,7,Vertical,A,Are the objects arranged vertically?,yes
+assoc_vert_005,Associative,7,Vertical,B,Is there a blue dog in the image?,yes
+assoc_vert_005,Associative,7,Vertical,B,Is the red cat below the blue dog?,yes
+assoc_vert_005,Associative,7,Vertical,B,Is the yellow banana below the red cat?,yes
+assoc_vert_005,Associative,7,Vertical,B,Are all objects placed on a wooden table?,yes
+assoc_vert_005,Associative,7,Vertical,B,Are the objects arranged vertically?,yes
+assoc_attr_001,Associative,8,Attributes,A,Is there a cat in the image?,yes
+assoc_attr_001,Associative,8,Attributes,A,Is the cat small in size?,yes
+assoc_attr_001,Associative,8,Attributes,A,Is the cat red in color?,yes
+assoc_attr_001,Associative,8,Attributes,A,Does the cat have a shiny appearance?,yes
+assoc_attr_001,Associative,8,Attributes,A,Is the cat on a plain white surface?,yes
+assoc_attr_001,Associative,8,Attributes,B,Is there a cat in the image?,yes
+assoc_attr_001,Associative,8,Attributes,B,Is the cat small in size?,yes
+assoc_attr_001,Associative,8,Attributes,B,Is the cat red in color?,yes
+assoc_attr_001,Associative,8,Attributes,B,Does the cat have a shiny appearance?,yes
+assoc_attr_001,Associative,8,Attributes,B,Is the cat on a plain white surface?,yes
+assoc_attr_002,Associative,8,Attributes,A,Is there an apple in the image?,yes
+assoc_attr_002,Associative,8,Attributes,A,Is the apple small in size?,yes
+assoc_attr_002,Associative,8,Attributes,A,Is the apple blue in color?,yes
+assoc_attr_002,Associative,8,Attributes,A,Does the apple appear shiny?,yes
+assoc_attr_002,Associative,8,Attributes,A,Is the apple on a dark metal floor?,yes
+assoc_attr_002,Associative,8,Attributes,B,Is there an apple in the image?,yes
+assoc_attr_002,Associative,8,Attributes,B,Is the apple small in size?,yes
+assoc_attr_002,Associative,8,Attributes,B,Is the apple blue in color?,yes
+assoc_attr_002,Associative,8,Attributes,B,Does the apple appear shiny?,yes
+assoc_attr_002,Associative,8,Attributes,B,Is the apple on a dark metal floor?,yes
+assoc_attr_003,Associative,8,Attributes,A,Is the dog large in size?,yes
+assoc_attr_003,Associative,8,Attributes,A,Is the dog blue in color?,yes
+assoc_attr_003,Associative,8,Attributes,A,Does the dog have a shiny appearance?,yes
+assoc_attr_003,Associative,8,Attributes,A,Is the dog standing on a metal floor?,yes
+assoc_attr_003,Associative,8,Attributes,A,Is the metal floor dark in color?,yes
+assoc_attr_003,Associative,8,Attributes,B,Is the dog large in size?,yes
+assoc_attr_003,Associative,8,Attributes,B,Is the dog blue in color?,yes
+assoc_attr_003,Associative,8,Attributes,B,Does the dog have a shiny appearance?,yes
+assoc_attr_003,Associative,8,Attributes,B,Is the dog standing on a metal floor?,yes
+assoc_attr_003,Associative,8,Attributes,B,Is the metal floor dark in color?,yes
+assoc_attr_004,Associative,8,Attributes,A,Is the banana large in size?,yes
+assoc_attr_004,Associative,8,Attributes,A,Is the banana blue in color?,yes
+assoc_attr_004,Associative,8,Attributes,A,Is the banana shiny?,yes
+assoc_attr_004,Associative,8,Attributes,A,Is the banana placed on a white surface?,yes
+assoc_attr_004,Associative,8,Attributes,A,Is the background plain and white?,yes
+assoc_attr_004,Associative,8,Attributes,B,Is the banana large in size?,yes
+assoc_attr_004,Associative,8,Attributes,B,Is the banana blue in color?,yes
+assoc_attr_004,Associative,8,Attributes,B,Is the banana shiny?,yes
+assoc_attr_004,Associative,8,Attributes,B,Is the banana placed on a white surface?,yes
+assoc_attr_004,Associative,8,Attributes,B,Is the background plain and white?,yes
+assoc_attr_005,Associative,8,Attributes,A,Is there a cat in the image?,yes
+assoc_attr_005,Associative,8,Attributes,A,Is the cat small in size?,yes
+assoc_attr_005,Associative,8,Attributes,A,Is the cat red in color?,yes
+assoc_attr_005,Associative,8,Attributes,A,Is the cat shiny?,yes
+assoc_attr_005,Associative,8,Attributes,A,Is the cat on a dark metal floor?,yes
+assoc_attr_005,Associative,8,Attributes,B,Is there a cat in the image?,yes
+assoc_attr_005,Associative,8,Attributes,B,Is the cat small in size?,yes
+assoc_attr_005,Associative,8,Attributes,B,Is the cat red in color?,yes
+assoc_attr_005,Associative,8,Attributes,B,Is the cat shiny?,yes
+assoc_attr_005,Associative,8,Attributes,B,Is the cat on a dark metal floor?,yes
+dist_conj_001,Distributive,9,Conjunctive,A,Is there a yellow apple on the table?,yes
+dist_conj_001,Distributive,9,Conjunctive,A,Is the table made of wood?,yes
+dist_conj_001,Distributive,9,Conjunctive,A,Is there either a blue dog or a green banana present?,yes
+dist_conj_001,Distributive,9,Conjunctive,A,Is the scene set on a wooden table?,yes
+dist_conj_001,Distributive,9,Conjunctive,A,Is there exactly one yellow apple in the image?,yes
+dist_conj_001,Distributive,9,Conjunctive,B,Is there a yellow apple on the table?,yes
+dist_conj_001,Distributive,9,Conjunctive,B,Is the table made of wood?,yes
+dist_conj_001,Distributive,9,Conjunctive,B,Is there either a blue dog or a green banana present?,yes
+dist_conj_001,Distributive,9,Conjunctive,B,Is the scene set on a wooden table?,yes
+dist_conj_001,Distributive,9,Conjunctive,B,Is there exactly one yellow apple in the image?,yes
+dist_conj_002,Distributive,9,Conjunctive,A,Is there a red cat on the wooden table?,yes
+dist_conj_002,Distributive,9,Conjunctive,A,Is the scene set on a wooden table?,yes
+dist_conj_002,Distributive,9,Conjunctive,A,Is there at least one cat in the image?,yes
+dist_conj_002,Distributive,9,Conjunctive,A,Is there a green or blue object on the table?,yes
+dist_conj_002,Distributive,9,Conjunctive,A,Are there multiple objects with different colors on the table?,yes
+dist_conj_002,Distributive,9,Conjunctive,B,Is there a red cat on the wooden table?,yes
+dist_conj_002,Distributive,9,Conjunctive,B,Is the scene set on a wooden table?,yes
+dist_conj_002,Distributive,9,Conjunctive,B,Is there at least one cat in the image?,yes
+dist_conj_002,Distributive,9,Conjunctive,B,Is there a green or blue object on the table?,yes
+dist_conj_002,Distributive,9,Conjunctive,B,Are there multiple objects with different colors on the table?,yes
+dist_conj_003,Distributive,9,Conjunctive,A,Is there a blue dog on the wooden table?,yes
+dist_conj_003,Distributive,9,Conjunctive,A,Is the table made of wood?,yes
+dist_conj_003,Distributive,9,Conjunctive,A,Is there at least one dog on the table?,yes
+dist_conj_003,Distributive,9,Conjunctive,A,Is there a yellow apple or a red dog present?,yes
+dist_conj_003,Distributive,9,Conjunctive,A,Are the objects placed on the table?,yes
+dist_conj_003,Distributive,9,Conjunctive,B,Is there a blue dog on the wooden table?,yes
+dist_conj_003,Distributive,9,Conjunctive,B,Is the table made of wood?,yes
+dist_conj_003,Distributive,9,Conjunctive,B,Is there at least one dog on the table?,yes
+dist_conj_003,Distributive,9,Conjunctive,B,Is there a yellow apple or a red dog present?,yes
+dist_conj_003,Distributive,9,Conjunctive,B,Are the objects placed on the table?,yes
+dist_conj_004,Distributive,9,Conjunctive,A,Is there a green banana on the wooden table?,yes
+dist_conj_004,Distributive,9,Conjunctive,A,Is the table made of wood?,yes
+dist_conj_004,Distributive,9,Conjunctive,A,Is there at least one banana on the table?,yes
+dist_conj_004,Distributive,9,Conjunctive,A,Is the scene set on a wooden surface?,yes
+dist_conj_004,Distributive,9,Conjunctive,A,Is there a red cat or a green banana present?,yes
+dist_conj_004,Distributive,9,Conjunctive,B,Is there a green banana on the wooden table?,yes
+dist_conj_004,Distributive,9,Conjunctive,B,Is the table made of wood?,yes
+dist_conj_004,Distributive,9,Conjunctive,B,Is there at least one banana on the table?,yes
+dist_conj_004,Distributive,9,Conjunctive,B,Is the scene set on a wooden surface?,yes
+dist_conj_004,Distributive,9,Conjunctive,B,Is there a red cat or a green banana present?,yes
+dist_conj_005,Distributive,9,Conjunctive,A,Is there a red cat in the image?,yes
+dist_conj_005,Distributive,9,Conjunctive,A,Is the surface plain white?,yes
+dist_conj_005,Distributive,9,Conjunctive,A,Is there either a blue dog or a red apple present?,yes
+dist_conj_005,Distributive,9,Conjunctive,A,Is the red cat shown with another object?,yes
+dist_conj_005,Distributive,9,Conjunctive,A,Are the objects clearly colored?,yes
+dist_conj_005,Distributive,9,Conjunctive,B,Is there a red cat in the image?,yes
+dist_conj_005,Distributive,9,Conjunctive,B,Is the surface plain white?,yes
+dist_conj_005,Distributive,9,Conjunctive,B,Is there either a blue dog or a red apple present?,yes
+dist_conj_005,Distributive,9,Conjunctive,B,Is the red cat shown with another object?,yes
+dist_conj_005,Distributive,9,Conjunctive,B,Are the objects clearly colored?,yes
+dist_horiz_001,Distributive,10,Horizontal,A,Is there a yellow dog in the image?,yes
+dist_horiz_001,Distributive,10,Horizontal,A,Is the yellow dog positioned on a wooden table?,yes
+dist_horiz_001,Distributive,10,Horizontal,A,Is there either a blue cat or a red apple in the image?,yes
+dist_horiz_001,Distributive,10,Horizontal,A,Is the yellow dog to the left of the other object?,yes
+dist_horiz_001,Distributive,10,Horizontal,A,Is the scene set on a wooden table?,yes
+dist_horiz_001,Distributive,10,Horizontal,B,Is there a yellow dog in the image?,yes
+dist_horiz_001,Distributive,10,Horizontal,B,Is the yellow dog positioned on a wooden table?,yes
+dist_horiz_001,Distributive,10,Horizontal,B,Is there either a blue cat or a red apple in the image?,yes
+dist_horiz_001,Distributive,10,Horizontal,B,Is the yellow dog to the left of the other object?,yes
+dist_horiz_001,Distributive,10,Horizontal,B,Is the scene set on a wooden table?,yes
+dist_horiz_002,Distributive,10,Horizontal,A,Is there a yellow apple in the image?,yes
+dist_horiz_002,Distributive,10,Horizontal,A,Is the yellow apple positioned to the left of another object?,yes
+dist_horiz_002,Distributive,10,Horizontal,A,Is the floor dark and metallic?,yes
+dist_horiz_002,Distributive,10,Horizontal,A,Is there either a blue dog or a green banana present?,yes
+dist_horiz_002,Distributive,10,Horizontal,A,Is the scene composed of at least two distinct colored objects?,yes
+dist_horiz_002,Distributive,10,Horizontal,B,Is there a yellow apple in the image?,yes
+dist_horiz_002,Distributive,10,Horizontal,B,Is the yellow apple positioned to the left of another object?,yes
+dist_horiz_002,Distributive,10,Horizontal,B,Is the floor dark and metallic?,yes
+dist_horiz_002,Distributive,10,Horizontal,B,Is there either a blue dog or a green banana present?,yes
+dist_horiz_002,Distributive,10,Horizontal,B,Is the scene composed of at least two distinct colored objects?,yes
+dist_horiz_003,Distributive,10,Horizontal,A,Is there a yellow dog in the image?,yes
+dist_horiz_003,Distributive,10,Horizontal,A,Is the yellow dog positioned to the left of another object?,yes
+dist_horiz_003,Distributive,10,Horizontal,A,Is there a red apple present in the scene?,yes
+dist_horiz_003,Distributive,10,Horizontal,A,Is there a blue cat present in the scene?,yes
+dist_horiz_003,Distributive,10,Horizontal,A,Is the floor dark and metallic?,yes
+dist_horiz_003,Distributive,10,Horizontal,B,Is there a yellow dog in the image?,yes
+dist_horiz_003,Distributive,10,Horizontal,B,Is the yellow dog positioned to the left of another object?,yes
+dist_horiz_003,Distributive,10,Horizontal,B,Is there a red apple present in the scene?,yes
+dist_horiz_003,Distributive,10,Horizontal,B,Is there a blue cat present in the scene?,yes
+dist_horiz_003,Distributive,10,Horizontal,B,Is the floor dark and metallic?,yes
+dist_horiz_004,Distributive,10,Horizontal,A,Is there a red apple in the image?,yes
+dist_horiz_004,Distributive,10,Horizontal,A,Is there a blue cat in the image?,yes
+dist_horiz_004,Distributive,10,Horizontal,A,Is there a yellow apple in the image?,yes
+dist_horiz_004,Distributive,10,Horizontal,A,Is the floor dark and metallic?,yes
+dist_horiz_004,Distributive,10,Horizontal,A,Is the red apple positioned to the left of another object?,yes
+dist_horiz_004,Distributive,10,Horizontal,B,Is there a red apple in the image?,yes
+dist_horiz_004,Distributive,10,Horizontal,B,Is there a blue cat in the image?,yes
+dist_horiz_004,Distributive,10,Horizontal,B,Is there a yellow apple in the image?,yes
+dist_horiz_004,Distributive,10,Horizontal,B,Is the floor dark and metallic?,yes
+dist_horiz_004,Distributive,10,Horizontal,B,Is the red apple positioned to the left of another object?,yes
+dist_horiz_005,Distributive,10,Horizontal,A,Is there a blue cat in the image?,yes
+dist_horiz_005,Distributive,10,Horizontal,A,Is the blue cat positioned to the left of another animal?,yes
+dist_horiz_005,Distributive,10,Horizontal,A,Is there a yellow dog in the image?,yes
+dist_horiz_005,Distributive,10,Horizontal,A,Is there a red cat in the image?,yes
+dist_horiz_005,Distributive,10,Horizontal,A,Is the floor dark and metallic?,yes
+dist_horiz_005,Distributive,10,Horizontal,B,Is there a blue cat in the image?,yes
+dist_horiz_005,Distributive,10,Horizontal,B,Is the blue cat positioned to the left of another animal?,yes
+dist_horiz_005,Distributive,10,Horizontal,B,Is there a yellow dog in the image?,yes
+dist_horiz_005,Distributive,10,Horizontal,B,Is there a red cat in the image?,yes
+dist_horiz_005,Distributive,10,Horizontal,B,Is the floor dark and metallic?,yes
+dist_vert_001,Distributive,11,Vertical,A,Is there a red dog in the image?,yes
+dist_vert_001,Distributive,11,Vertical,A,Is the floor dark and metallic?,yes
+dist_vert_001,Distributive,11,Vertical,A,Is there a green cat or a yellow dog below the red dog?,yes
+dist_vert_001,Distributive,11,Vertical,A,Is the red dog positioned above another animal?,yes
+dist_vert_001,Distributive,11,Vertical,A,Are there at least two animals in the scene?,yes
+dist_vert_001,Distributive,11,Vertical,B,Is there a red dog in the image?,yes
+dist_vert_001,Distributive,11,Vertical,B,Is the floor dark and metallic?,yes
+dist_vert_001,Distributive,11,Vertical,B,Is there a green cat or a yellow dog below the red dog?,yes
+dist_vert_001,Distributive,11,Vertical,B,Is the red dog positioned above another animal?,yes
+dist_vert_001,Distributive,11,Vertical,B,Are there at least two animals in the scene?,yes
+dist_vert_002,Distributive,11,Vertical,A,Is there a red cat in the image?,yes
+dist_vert_002,Distributive,11,Vertical,A,Is the floor dark and metallic?,yes
+dist_vert_002,Distributive,11,Vertical,A,Is there a green banana or a yellow apple present?,yes
+dist_vert_002,Distributive,11,Vertical,A,Is the red cat positioned above the fruit?,yes
+dist_vert_002,Distributive,11,Vertical,A,Are the objects arranged on a dark metal floor?,yes
+dist_vert_002,Distributive,11,Vertical,B,Is there a red cat in the image?,yes
+dist_vert_002,Distributive,11,Vertical,B,Is the floor dark and metallic?,yes
+dist_vert_002,Distributive,11,Vertical,B,Is there a green banana or a yellow apple present?,yes
+dist_vert_002,Distributive,11,Vertical,B,Is the red cat positioned above the fruit?,yes
+dist_vert_002,Distributive,11,Vertical,B,Are the objects arranged on a dark metal floor?,yes
+dist_vert_003,Distributive,11,Vertical,A,Is there a green apple in the image?,yes
+dist_vert_003,Distributive,11,Vertical,A,Is there a wooden table in the scene?,yes
+dist_vert_003,Distributive,11,Vertical,A,Is there a red banana present?,yes
+dist_vert_003,Distributive,11,Vertical,A,Is there a yellow dog present?,yes
+dist_vert_003,Distributive,11,Vertical,A,Is the green apple positioned above another object?,yes
+dist_vert_003,Distributive,11,Vertical,B,Is there a green apple in the image?,yes
+dist_vert_003,Distributive,11,Vertical,B,Is there a wooden table in the scene?,yes
+dist_vert_003,Distributive,11,Vertical,B,Is there a red banana present?,yes
+dist_vert_003,Distributive,11,Vertical,B,Is there a yellow dog present?,yes
+dist_vert_003,Distributive,11,Vertical,B,Is the green apple positioned above another object?,yes
+dist_vert_004,Distributive,11,Vertical,A,Is there a green banana in the image?,yes
+dist_vert_004,Distributive,11,Vertical,A,Is the background plain white?,yes
+dist_vert_004,Distributive,11,Vertical,A,Is there at least one red apple present?,yes
+dist_vert_004,Distributive,11,Vertical,A,Is there at least one yellow dog present?,yes
+dist_vert_004,Distributive,11,Vertical,A,Is the green banana positioned above another object?,yes
+dist_vert_004,Distributive,11,Vertical,B,Is there a green banana in the image?,yes
+dist_vert_004,Distributive,11,Vertical,B,Is the background plain white?,yes
+dist_vert_004,Distributive,11,Vertical,B,Is there at least one red apple present?,yes
+dist_vert_004,Distributive,11,Vertical,B,Is there at least one yellow dog present?,yes
+dist_vert_004,Distributive,11,Vertical,B,Is the green banana positioned above another object?,yes
+dist_vert_005,Distributive,11,Vertical,A,Is there a green cat in the image?,yes
+dist_vert_005,Distributive,11,Vertical,A,Is there a wooden table in the scene?,yes
+dist_vert_005,Distributive,11,Vertical,A,Is there either a red apple or a yellow banana present?,yes
+dist_vert_005,Distributive,11,Vertical,A,Is the green cat positioned above the fruit?,yes
+dist_vert_005,Distributive,11,Vertical,A,Is the fruit located on the wooden table?,yes
+dist_vert_005,Distributive,11,Vertical,B,Is there a green cat in the image?,yes
+dist_vert_005,Distributive,11,Vertical,B,Is there a wooden table in the scene?,yes
+dist_vert_005,Distributive,11,Vertical,B,Is there either a red apple or a yellow banana present?,yes
+dist_vert_005,Distributive,11,Vertical,B,Is the green cat positioned above the fruit?,yes
+dist_vert_005,Distributive,11,Vertical,B,Is the fruit located on the wooden table?,yes
+dist_attr_001,Distributive,12,Attributes,A,Is there a dog in the image?,yes
+dist_attr_001,Distributive,12,Attributes,A,Is the dog red?,yes
+dist_attr_001,Distributive,12,Attributes,A,Is the dog on a plain white surface?,yes
+dist_attr_001,Distributive,12,Attributes,A,Is the dog either small or large?,yes
+dist_attr_001,Distributive,12,Attributes,A,Is the background plain and white?,yes
+dist_attr_001,Distributive,12,Attributes,B,Is there a dog in the image?,yes
+dist_attr_001,Distributive,12,Attributes,B,Is the dog red?,yes
+dist_attr_001,Distributive,12,Attributes,B,Is the dog on a plain white surface?,yes
+dist_attr_001,Distributive,12,Attributes,B,Is the dog either small or large?,yes
+dist_attr_001,Distributive,12,Attributes,B,Is the background plain and white?,yes
+dist_attr_002,Distributive,12,Attributes,A,Is there a red apple in the image?,yes
+dist_attr_002,Distributive,12,Attributes,A,Is the apple on a wooden table?,yes
+dist_attr_002,Distributive,12,Attributes,A,Is the apple either small or large?,yes
+dist_attr_002,Distributive,12,Attributes,A,Is the apple the only fruit visible?,yes
+dist_attr_002,Distributive,12,Attributes,A,Is the table made of wood?,yes
+dist_attr_002,Distributive,12,Attributes,B,Is there a red apple in the image?,yes
+dist_attr_002,Distributive,12,Attributes,B,Is the apple on a wooden table?,yes
+dist_attr_002,Distributive,12,Attributes,B,Is the apple either small or large?,yes
+dist_attr_002,Distributive,12,Attributes,B,Is the apple the only fruit visible?,yes
+dist_attr_002,Distributive,12,Attributes,B,Is the table made of wood?,yes
+dist_attr_003,Distributive,12,Attributes,A,Is there a yellow apple in the image?,yes
+dist_attr_003,Distributive,12,Attributes,A,Is the apple on a dark metal floor?,yes
+dist_attr_003,Distributive,12,Attributes,A,Is the apple either large or small?,yes
+dist_attr_003,Distributive,12,Attributes,A,Is the apple a single fruit?,yes
+dist_attr_003,Distributive,12,Attributes,A,Is the floor metallic and dark?,yes
+dist_attr_003,Distributive,12,Attributes,B,Is there a yellow apple in the image?,yes
+dist_attr_003,Distributive,12,Attributes,B,Is the apple on a dark metal floor?,yes
+dist_attr_003,Distributive,12,Attributes,B,Is the apple either large or small?,yes
+dist_attr_003,Distributive,12,Attributes,B,Is the apple a single fruit?,yes
+dist_attr_003,Distributive,12,Attributes,B,Is the floor metallic and dark?,yes
+dist_attr_004,Distributive,12,Attributes,A,Is there a cat in the image?,yes
+dist_attr_004,Distributive,12,Attributes,A,Is the cat red?,yes
+dist_attr_004,Distributive,12,Attributes,A,Is the cat on a wooden table?,yes
+dist_attr_004,Distributive,12,Attributes,A,Is the cat either small or large?,yes
+dist_attr_004,Distributive,12,Attributes,A,Is the table made of wood?,yes
+dist_attr_004,Distributive,12,Attributes,B,Is there a cat in the image?,yes
+dist_attr_004,Distributive,12,Attributes,B,Is the cat red?,yes
+dist_attr_004,Distributive,12,Attributes,B,Is the cat on a wooden table?,yes
+dist_attr_004,Distributive,12,Attributes,B,Is the cat either small or large?,yes
+dist_attr_004,Distributive,12,Attributes,B,Is the table made of wood?,yes
+dist_attr_005,Distributive,12,Attributes,A,Is there a blue dog in the image?,yes
+dist_attr_005,Distributive,12,Attributes,A,Is the dog on a dark metal floor?,yes
+dist_attr_005,Distributive,12,Attributes,A,Is the dog either large or small?,yes
+dist_attr_005,Distributive,12,Attributes,A,Is the dog the only animal present?,yes
+dist_attr_005,Distributive,12,Attributes,A,Is the floor made of metal?,yes
+dist_attr_005,Distributive,12,Attributes,B,Is there a blue dog in the image?,yes
+dist_attr_005,Distributive,12,Attributes,B,Is the dog on a dark metal floor?,yes
+dist_attr_005,Distributive,12,Attributes,B,Is the dog either large or small?,yes
+dist_attr_005,Distributive,12,Attributes,B,Is the dog the only animal present?,yes
+dist_attr_005,Distributive,12,Attributes,B,Is the floor made of metal?,yes
+compl_conj_001,Complement,13,Conjunctive,A,Is there a metal floor in the image?,yes
+compl_conj_001,Complement,13,Conjunctive,A,Is the floor dark in color?,yes
+compl_conj_001,Complement,13,Conjunctive,A,Is the scene indoors?,yes
+compl_conj_001,Complement,13,Conjunctive,A,Is the floor smooth?,yes
+compl_conj_001,Complement,13,Conjunctive,A,Is the lighting dim?,yes
+compl_conj_001,Complement,13,Conjunctive,B,Is there a metal floor in the image?,yes
+compl_conj_001,Complement,13,Conjunctive,B,Is the floor dark in color?,yes
+compl_conj_001,Complement,13,Conjunctive,B,Is the scene indoors?,yes
+compl_conj_001,Complement,13,Conjunctive,B,Is the floor smooth?,yes
+compl_conj_001,Complement,13,Conjunctive,B,Is the lighting dim?,yes
+compl_conj_002,Complement,13,Conjunctive,A,Is the surface white?,yes
+compl_conj_002,Complement,13,Conjunctive,A,Is the background plain?,yes
+compl_conj_002,Complement,13,Conjunctive,A,Is the scene simple?,yes
+compl_conj_002,Complement,13,Conjunctive,A,Is the color green present?,yes
+compl_conj_002,Complement,13,Conjunctive,A,Is there a banana in the image?,yes
+compl_conj_002,Complement,13,Conjunctive,B,Is the surface white?,yes
+compl_conj_002,Complement,13,Conjunctive,B,Is the background plain?,yes
+compl_conj_002,Complement,13,Conjunctive,B,Is the scene simple?,yes
+compl_conj_002,Complement,13,Conjunctive,B,Is the color green present?,yes
+compl_conj_002,Complement,13,Conjunctive,B,Is there a banana in the image?,yes
+compl_conj_003,Complement,13,Conjunctive,A,Is there a metal floor in the image?,yes
+compl_conj_003,Complement,13,Conjunctive,A,Is the floor dark in color?,yes
+compl_conj_003,Complement,13,Conjunctive,A,Is the scene indoors?,yes
+compl_conj_003,Complement,13,Conjunctive,A,Is the floor smooth?,yes
+compl_conj_003,Complement,13,Conjunctive,A,Is the lighting dim?,yes
+compl_conj_003,Complement,13,Conjunctive,B,Is there a metal floor in the image?,yes
+compl_conj_003,Complement,13,Conjunctive,B,Is the floor dark in color?,yes
+compl_conj_003,Complement,13,Conjunctive,B,Is the scene indoors?,yes
+compl_conj_003,Complement,13,Conjunctive,B,Is the floor smooth?,yes
+compl_conj_003,Complement,13,Conjunctive,B,Is the lighting dim?,yes
+compl_conj_004,Complement,13,Conjunctive,A,Is there a wooden table in the image?,yes
+compl_conj_004,Complement,13,Conjunctive,A,Is the table made of wood?,yes
+compl_conj_004,Complement,13,Conjunctive,A,Is the scene indoors or outdoors?,yes
+compl_conj_004,Complement,13,Conjunctive,A,Is the table the main object in the image?,yes
+compl_conj_004,Complement,13,Conjunctive,A,Is the color yellow present in the image?,yes
+compl_conj_004,Complement,13,Conjunctive,B,Is there a wooden table in the image?,yes
+compl_conj_004,Complement,13,Conjunctive,B,Is the table made of wood?,yes
+compl_conj_004,Complement,13,Conjunctive,B,Is the scene indoors or outdoors?,yes
+compl_conj_004,Complement,13,Conjunctive,B,Is the table the main object in the image?,yes
+compl_conj_004,Complement,13,Conjunctive,B,Is the color yellow present in the image?,yes
+compl_conj_005,Complement,13,Conjunctive,A,Is there a wooden table in the image?,yes
+compl_conj_005,Complement,13,Conjunctive,A,Is the table made of wood?,yes
+compl_conj_005,Complement,13,Conjunctive,A,Is the scene indoors?,yes
+compl_conj_005,Complement,13,Conjunctive,A,Is the table the main object in the image?,yes
+compl_conj_005,Complement,13,Conjunctive,A,Is the lighting natural?,yes
+compl_conj_005,Complement,13,Conjunctive,B,Is there a wooden table in the image?,yes
+compl_conj_005,Complement,13,Conjunctive,B,Is the table made of wood?,yes
+compl_conj_005,Complement,13,Conjunctive,B,Is the scene indoors?,yes
+compl_conj_005,Complement,13,Conjunctive,B,Is the table the main object in the image?,yes
+compl_conj_005,Complement,13,Conjunctive,B,Is the lighting natural?,yes
+compl_horiz_001,Complement,14,Horizontal,A,Is there a yellow apple in the scene?,yes
+compl_horiz_001,Complement,14,Horizontal,A,Is the floor dark and metallic?,yes
+compl_horiz_001,Complement,14,Horizontal,A,Is the apple positioned on the floor?,yes
+compl_horiz_001,Complement,14,Horizontal,A,Is the floor visible in the image?,yes
+compl_horiz_001,Complement,14,Horizontal,A,Is the apple a single object in the scene?,yes
+compl_horiz_001,Complement,14,Horizontal,B,Is there a yellow apple in the scene?,yes
+compl_horiz_001,Complement,14,Horizontal,B,Is the floor dark and metallic?,yes
+compl_horiz_001,Complement,14,Horizontal,B,Is the apple positioned on the floor?,yes
+compl_horiz_001,Complement,14,Horizontal,B,Is the floor visible in the image?,yes
+compl_horiz_001,Complement,14,Horizontal,B,Is the apple a single object in the scene?,yes
+compl_horiz_002,Complement,14,Horizontal,A,Is there a red dog in the scene?,yes
+compl_horiz_002,Complement,14,Horizontal,A,Is the floor dark and metallic?,yes
+compl_horiz_002,Complement,14,Horizontal,A,Is the dog positioned on the floor?,yes
+compl_horiz_002,Complement,14,Horizontal,A,Is the floor visible beneath the dog?,yes
+compl_horiz_002,Complement,14,Horizontal,A,Is the dog a main object in the image?,yes
+compl_horiz_002,Complement,14,Horizontal,B,Is there a red dog in the scene?,yes
+compl_horiz_002,Complement,14,Horizontal,B,Is the floor dark and metallic?,yes
+compl_horiz_002,Complement,14,Horizontal,B,Is the dog positioned on the floor?,yes
+compl_horiz_002,Complement,14,Horizontal,B,Is the floor visible beneath the dog?,yes
+compl_horiz_002,Complement,14,Horizontal,B,Is the dog a main object in the image?,yes
+compl_horiz_003,Complement,14,Horizontal,A,Is there a green banana in the scene?,yes
+compl_horiz_003,Complement,14,Horizontal,A,Is the floor dark and metallic?,yes
+compl_horiz_003,Complement,14,Horizontal,A,Is the banana positioned on the floor?,yes
+compl_horiz_003,Complement,14,Horizontal,A,Is the floor surface reflective or shiny?,yes
+compl_horiz_003,Complement,14,Horizontal,A,Is the banana the only fruit visible?,yes
+compl_horiz_003,Complement,14,Horizontal,B,Is there a green banana in the scene?,yes
+compl_horiz_003,Complement,14,Horizontal,B,Is the floor dark and metallic?,yes
+compl_horiz_003,Complement,14,Horizontal,B,Is the banana positioned on the floor?,yes
+compl_horiz_003,Complement,14,Horizontal,B,Is the floor surface reflective or shiny?,yes
+compl_horiz_003,Complement,14,Horizontal,B,Is the banana the only fruit visible?,yes
+compl_horiz_004,Complement,14,Horizontal,A,Is there a red cat in the image?,yes
+compl_horiz_004,Complement,14,Horizontal,A,Is the surface white?,yes
+compl_horiz_004,Complement,14,Horizontal,A,Is the surface plain?,yes
+compl_horiz_004,Complement,14,Horizontal,A,Is the cat positioned on the surface?,yes
+compl_horiz_004,Complement,14,Horizontal,A,Is the cat red in color?,yes
+compl_horiz_004,Complement,14,Horizontal,B,Is there a red cat in the image?,yes
+compl_horiz_004,Complement,14,Horizontal,B,Is the surface white?,yes
+compl_horiz_004,Complement,14,Horizontal,B,Is the surface plain?,yes
+compl_horiz_004,Complement,14,Horizontal,B,Is the cat positioned on the surface?,yes
+compl_horiz_004,Complement,14,Horizontal,B,Is the cat red in color?,yes
+compl_horiz_005,Complement,14,Horizontal,A,Is there a blue dog in the scene?,yes
+compl_horiz_005,Complement,14,Horizontal,A,Is the floor dark and metallic?,yes
+compl_horiz_005,Complement,14,Horizontal,A,Is the dog positioned on the floor?,yes
+compl_horiz_005,Complement,14,Horizontal,A,Is the floor visible beneath the animals?,yes
+compl_horiz_005,Complement,14,Horizontal,A,Is the dog the only animal present?,yes
+compl_horiz_005,Complement,14,Horizontal,B,Is there a blue dog in the scene?,yes
+compl_horiz_005,Complement,14,Horizontal,B,Is the floor dark and metallic?,yes
+compl_horiz_005,Complement,14,Horizontal,B,Is the dog positioned on the floor?,yes
+compl_horiz_005,Complement,14,Horizontal,B,Is the floor visible beneath the animals?,yes
+compl_horiz_005,Complement,14,Horizontal,B,Is the dog the only animal present?,yes
+compl_vert_001,Complement,15,Vertical,A,Is there a green banana in the image?,yes
+compl_vert_001,Complement,15,Vertical,A,Is the surface plain and white?,yes
+compl_vert_001,Complement,15,Vertical,A,Is the banana placed on the surface?,yes
+compl_vert_001,Complement,15,Vertical,A,Is the background plain and white?,yes
+compl_vert_001,Complement,15,Vertical,A,Is the banana green in color?,yes
+compl_vert_001,Complement,15,Vertical,B,Is there a green banana in the image?,yes
+compl_vert_001,Complement,15,Vertical,B,Is the surface plain and white?,yes
+compl_vert_001,Complement,15,Vertical,B,Is the banana placed on the surface?,yes
+compl_vert_001,Complement,15,Vertical,B,Is the background plain and white?,yes
+compl_vert_001,Complement,15,Vertical,B,Is the banana green in color?,yes
+compl_vert_002,Complement,15,Vertical,A,Is there a red cat in the image?,yes
+compl_vert_002,Complement,15,Vertical,A,Is the surface plain and white?,yes
+compl_vert_002,Complement,15,Vertical,A,Is the cat positioned on the surface?,yes
+compl_vert_002,Complement,15,Vertical,A,Is the background simple and uncluttered?,yes
+compl_vert_002,Complement,15,Vertical,A,Is the cat the only animal visible on the surface?,yes
+compl_vert_002,Complement,15,Vertical,B,Is there a red cat in the image?,yes
+compl_vert_002,Complement,15,Vertical,B,Is the surface plain and white?,yes
+compl_vert_002,Complement,15,Vertical,B,Is the cat positioned on the surface?,yes
+compl_vert_002,Complement,15,Vertical,B,Is the background simple and uncluttered?,yes
+compl_vert_002,Complement,15,Vertical,B,Is the cat the only animal visible on the surface?,yes
+compl_vert_003,Complement,15,Vertical,A,Is there a yellow apple in the scene?,yes
+compl_vert_003,Complement,15,Vertical,A,Is the surface plain and white?,yes
+compl_vert_003,Complement,15,Vertical,A,Is the apple resting on the surface?,yes
+compl_vert_003,Complement,15,Vertical,A,Is the apple yellow in color?,yes
+compl_vert_003,Complement,15,Vertical,A,Is the background plain and white?,yes
+compl_vert_003,Complement,15,Vertical,B,Is there a yellow apple in the scene?,yes
+compl_vert_003,Complement,15,Vertical,B,Is the surface plain and white?,yes
+compl_vert_003,Complement,15,Vertical,B,Is the apple resting on the surface?,yes
+compl_vert_003,Complement,15,Vertical,B,Is the apple yellow in color?,yes
+compl_vert_003,Complement,15,Vertical,B,Is the background plain and white?,yes
+compl_vert_004,Complement,15,Vertical,A,Is there a red banana in the scene?,yes
+compl_vert_004,Complement,15,Vertical,A,Is the table made of wood?,yes
+compl_vert_004,Complement,15,Vertical,A,Is the banana placed on the table?,yes
+compl_vert_004,Complement,15,Vertical,A,Is the table visible in the image?,yes
+compl_vert_004,Complement,15,Vertical,A,Is the banana red in color?,yes
+compl_vert_004,Complement,15,Vertical,B,Is there a red banana in the scene?,yes
+compl_vert_004,Complement,15,Vertical,B,Is the table made of wood?,yes
+compl_vert_004,Complement,15,Vertical,B,Is the banana placed on the table?,yes
+compl_vert_004,Complement,15,Vertical,B,Is the table visible in the image?,yes
+compl_vert_004,Complement,15,Vertical,B,Is the banana red in color?,yes
+compl_vert_005,Complement,15,Vertical,A,Is there a blue dog in the scene?,yes
+compl_vert_005,Complement,15,Vertical,A,Is the table made of wood?,yes
+compl_vert_005,Complement,15,Vertical,A,Is the dog positioned on the table?,yes
+compl_vert_005,Complement,15,Vertical,A,Is the table visible in the image?,yes
+compl_vert_005,Complement,15,Vertical,A,Is the dog blue in color?,yes
+compl_vert_005,Complement,15,Vertical,B,Is there a blue dog in the scene?,yes
+compl_vert_005,Complement,15,Vertical,B,Is the table made of wood?,yes
+compl_vert_005,Complement,15,Vertical,B,Is the dog positioned on the table?,yes
+compl_vert_005,Complement,15,Vertical,B,Is the table visible in the image?,yes
+compl_vert_005,Complement,15,Vertical,B,Is the dog blue in color?,yes
+compl_attr_001,Complement,16,Attributes,A,Is there an apple in the image?,yes
+compl_attr_001,Complement,16,Attributes,A,Is there a wooden table in the image?,yes
+compl_attr_001,Complement,16,Attributes,A,Is the apple placed on the table?,yes
+compl_attr_001,Complement,16,Attributes,A,Is the apple a solid color?,yes
+compl_attr_001,Complement,16,Attributes,A,Is the table made of wood?,yes
+compl_attr_001,Complement,16,Attributes,B,Is there an apple in the image?,yes
+compl_attr_001,Complement,16,Attributes,B,Is there a wooden table in the image?,yes
+compl_attr_001,Complement,16,Attributes,B,Is the apple placed on the table?,yes
+compl_attr_001,Complement,16,Attributes,B,Is the apple a solid color?,yes
+compl_attr_001,Complement,16,Attributes,B,Is the table made of wood?,yes
+compl_attr_002,Complement,16,Attributes,A,Is there a dog in the image?,yes
+compl_attr_002,Complement,16,Attributes,A,Is the surface white?,yes
+compl_attr_002,Complement,16,Attributes,A,Is the surface plain?,yes
+compl_attr_002,Complement,16,Attributes,A,Is the dog a solid color?,yes
+compl_attr_002,Complement,16,Attributes,A,Is the dog on the surface?,yes
+compl_attr_002,Complement,16,Attributes,B,Is there a dog in the image?,yes
+compl_attr_002,Complement,16,Attributes,B,Is the surface white?,yes
+compl_attr_002,Complement,16,Attributes,B,Is the surface plain?,yes
+compl_attr_002,Complement,16,Attributes,B,Is the dog a solid color?,yes
+compl_attr_002,Complement,16,Attributes,B,Is the dog on the surface?,yes
+compl_attr_003,Complement,16,Attributes,A,Is there a cat in the image?,yes
+compl_attr_003,Complement,16,Attributes,A,Is the surface white?,yes
+compl_attr_003,Complement,16,Attributes,A,Is the surface plain?,yes
+compl_attr_003,Complement,16,Attributes,A,Is the cat colored?,yes
+compl_attr_003,Complement,16,Attributes,A,Is the cat on the surface?,yes
+compl_attr_003,Complement,16,Attributes,B,Is there a cat in the image?,yes
+compl_attr_003,Complement,16,Attributes,B,Is the surface white?,yes
+compl_attr_003,Complement,16,Attributes,B,Is the surface plain?,yes
+compl_attr_003,Complement,16,Attributes,B,Is the cat colored?,yes
+compl_attr_003,Complement,16,Attributes,B,Is the cat on the surface?,yes
+compl_attr_004,Complement,16,Attributes,A,Is there a banana in the image?,yes
+compl_attr_004,Complement,16,Attributes,A,Is the floor made of metal?,yes
+compl_attr_004,Complement,16,Attributes,A,Is the floor dark in color?,yes
+compl_attr_004,Complement,16,Attributes,A,Is the banana a solid color?,yes
+compl_attr_004,Complement,16,Attributes,A,Is the banana placed on the floor?,yes
+compl_attr_004,Complement,16,Attributes,B,Is there a banana in the image?,yes
+compl_attr_004,Complement,16,Attributes,B,Is the floor made of metal?,yes
+compl_attr_004,Complement,16,Attributes,B,Is the floor dark in color?,yes
+compl_attr_004,Complement,16,Attributes,B,Is the banana a solid color?,yes
+compl_attr_004,Complement,16,Attributes,B,Is the banana placed on the floor?,yes
+compl_attr_005,Complement,16,Attributes,A,Is there a cat in the image?,yes
+compl_attr_005,Complement,16,Attributes,A,Is the surface white?,yes
+compl_attr_005,Complement,16,Attributes,A,Is the cat a solid color?,yes
+compl_attr_005,Complement,16,Attributes,A,Is the scene simple with few objects?,yes
+compl_attr_005,Complement,16,Attributes,A,Is the cat clearly visible on the surface?,yes
+compl_attr_005,Complement,16,Attributes,B,Is there a cat in the image?,yes
+compl_attr_005,Complement,16,Attributes,B,Is the surface white?,yes
+compl_attr_005,Complement,16,Attributes,B,Is the cat a solid color?,yes
+compl_attr_005,Complement,16,Attributes,B,Is the scene simple with few objects?,yes
+compl_attr_005,Complement,16,Attributes,B,Is the cat clearly visible on the surface?,yes
+demorgan_conj_001,DeMorgan,17,Conjunctive,A,Is the floor dark metal?,yes
+demorgan_conj_001,DeMorgan,17,Conjunctive,A,Is there a blue apple present?,yes
+demorgan_conj_001,DeMorgan,17,Conjunctive,A,Is there a red cat present?,yes
+demorgan_conj_001,DeMorgan,17,Conjunctive,A,Is the scene indoors?,yes
+demorgan_conj_001,DeMorgan,17,Conjunctive,A,Are there any animals in the scene?,yes
+demorgan_conj_001,DeMorgan,17,Conjunctive,B,Is the floor dark metal?,yes
+demorgan_conj_001,DeMorgan,17,Conjunctive,B,Is there a blue apple present?,yes
+demorgan_conj_001,DeMorgan,17,Conjunctive,B,Is there a red cat present?,yes
+demorgan_conj_001,DeMorgan,17,Conjunctive,B,Is the scene indoors?,yes
+demorgan_conj_001,DeMorgan,17,Conjunctive,B,Are there any animals in the scene?,yes
+demorgan_conj_002,DeMorgan,17,Conjunctive,A,Is the surface plain and white?,yes
+demorgan_conj_002,DeMorgan,17,Conjunctive,A,Is there at most one yellow apple present?,yes
+demorgan_conj_002,DeMorgan,17,Conjunctive,A,Is there at most one green dog present?,yes
+demorgan_conj_002,DeMorgan,17,Conjunctive,A,Is the scene free of multiple colored objects together?,yes
+demorgan_conj_002,DeMorgan,17,Conjunctive,A,Is the background uniformly white?,yes
+demorgan_conj_002,DeMorgan,17,Conjunctive,B,Is the surface plain and white?,yes
+demorgan_conj_002,DeMorgan,17,Conjunctive,B,Is there at most one yellow apple present?,yes
+demorgan_conj_002,DeMorgan,17,Conjunctive,B,Is there at most one green dog present?,yes
+demorgan_conj_002,DeMorgan,17,Conjunctive,B,Is the scene free of multiple colored objects together?,yes
+demorgan_conj_002,DeMorgan,17,Conjunctive,B,Is the background uniformly white?,yes
+demorgan_conj_003,DeMorgan,17,Conjunctive,A,Is the surface plain and white?,yes
+demorgan_conj_003,DeMorgan,17,Conjunctive,A,Is there at most one of the following: a red banana or a yellow cat?,yes
+demorgan_conj_003,DeMorgan,17,Conjunctive,A,Is the scene simple without many objects?,yes
+demorgan_conj_003,DeMorgan,17,Conjunctive,A,Is there a red object present?,yes
+demorgan_conj_003,DeMorgan,17,Conjunctive,A,Is there a yellow animal present?,yes
+demorgan_conj_003,DeMorgan,17,Conjunctive,B,Is the surface plain and white?,yes
+demorgan_conj_003,DeMorgan,17,Conjunctive,B,Is there at most one of the following: a red banana or a yellow cat?,yes
+demorgan_conj_003,DeMorgan,17,Conjunctive,B,Is the scene simple without many objects?,yes
+demorgan_conj_003,DeMorgan,17,Conjunctive,B,Is there a red object present?,yes
+demorgan_conj_003,DeMorgan,17,Conjunctive,B,Is there a yellow animal present?,yes
+demorgan_conj_004,DeMorgan,17,Conjunctive,A,Is the floor dark metal?,yes
+demorgan_conj_004,DeMorgan,17,Conjunctive,A,Is there a banana present?,yes
+demorgan_conj_004,DeMorgan,17,Conjunctive,A,Is there an apple present?,yes
+demorgan_conj_004,DeMorgan,17,Conjunctive,A,Is the banana red if it is present?,yes
+demorgan_conj_004,DeMorgan,17,Conjunctive,A,Is the apple blue if it is present?,yes
+demorgan_conj_004,DeMorgan,17,Conjunctive,B,Is the floor dark metal?,yes
+demorgan_conj_004,DeMorgan,17,Conjunctive,B,Is there a banana present?,yes
+demorgan_conj_004,DeMorgan,17,Conjunctive,B,Is there an apple present?,yes
+demorgan_conj_004,DeMorgan,17,Conjunctive,B,Is the banana red if it is present?,yes
+demorgan_conj_004,DeMorgan,17,Conjunctive,B,Is the apple blue if it is present?,yes
+demorgan_conj_005,DeMorgan,17,Conjunctive,A,Is the floor dark and metallic?,yes
+demorgan_conj_005,DeMorgan,17,Conjunctive,A,Is there a blue apple in the scene?,yes
+demorgan_conj_005,DeMorgan,17,Conjunctive,A,Is there a green cat in the scene?,yes
+demorgan_conj_005,DeMorgan,17,Conjunctive,A,Is the floor smooth and reflective?,yes
+demorgan_conj_005,DeMorgan,17,Conjunctive,A,Is the setting indoors?,yes
+demorgan_conj_005,DeMorgan,17,Conjunctive,B,Is the floor dark and metallic?,yes
+demorgan_conj_005,DeMorgan,17,Conjunctive,B,Is there a blue apple in the scene?,yes
+demorgan_conj_005,DeMorgan,17,Conjunctive,B,Is there a green cat in the scene?,yes
+demorgan_conj_005,DeMorgan,17,Conjunctive,B,Is the floor smooth and reflective?,yes
+demorgan_conj_005,DeMorgan,17,Conjunctive,B,Is the setting indoors?,yes
+demorgan_horiz_001,DeMorgan,18,Horizontal,A,Is the floor dark and metallic?,yes
+demorgan_horiz_001,DeMorgan,18,Horizontal,A,Is there a green apple in the scene?,yes
+demorgan_horiz_001,DeMorgan,18,Horizontal,A,Is there a yellow cat in the scene?,yes
+demorgan_horiz_001,DeMorgan,18,Horizontal,A,Are the objects arranged left to right?,yes
+demorgan_horiz_001,DeMorgan,18,Horizontal,A,Is the scene indoors?,yes
+demorgan_horiz_001,DeMorgan,18,Horizontal,B,Is the floor dark and metallic?,yes
+demorgan_horiz_001,DeMorgan,18,Horizontal,B,Is there a green apple in the scene?,yes
+demorgan_horiz_001,DeMorgan,18,Horizontal,B,Is there a yellow cat in the scene?,yes
+demorgan_horiz_001,DeMorgan,18,Horizontal,B,Are the objects arranged left to right?,yes
+demorgan_horiz_001,DeMorgan,18,Horizontal,B,Is the scene indoors?,yes
+demorgan_horiz_002,DeMorgan,18,Horizontal,A,Is the surface plain and white?,yes
+demorgan_horiz_002,DeMorgan,18,Horizontal,A,Is there a green apple in the scene?,yes
+demorgan_horiz_002,DeMorgan,18,Horizontal,A,Is there a yellow dog in the scene?,yes
+demorgan_horiz_002,DeMorgan,18,Horizontal,A,Are there objects arranged horizontally?,yes
+demorgan_horiz_002,DeMorgan,18,Horizontal,A,Is the scene simple with few objects?,yes
+demorgan_horiz_002,DeMorgan,18,Horizontal,B,Is the surface plain and white?,yes
+demorgan_horiz_002,DeMorgan,18,Horizontal,B,Is there a green apple in the scene?,yes
+demorgan_horiz_002,DeMorgan,18,Horizontal,B,Is there a yellow dog in the scene?,yes
+demorgan_horiz_002,DeMorgan,18,Horizontal,B,Are there objects arranged horizontally?,yes
+demorgan_horiz_002,DeMorgan,18,Horizontal,B,Is the scene simple with few objects?,yes
+demorgan_horiz_003,DeMorgan,18,Horizontal,A,Is there a wooden table in the scene?,yes
+demorgan_horiz_003,DeMorgan,18,Horizontal,A,Is there a yellow apple present?,yes
+demorgan_horiz_003,DeMorgan,18,Horizontal,A,Is there a green cat present?,yes
+demorgan_horiz_003,DeMorgan,18,Horizontal,A,Are the objects arranged left to right?,yes
+demorgan_horiz_003,DeMorgan,18,Horizontal,A,Is the yellow apple not positioned to the left of the green cat?,yes
+demorgan_horiz_003,DeMorgan,18,Horizontal,B,Is there a wooden table in the scene?,yes
+demorgan_horiz_003,DeMorgan,18,Horizontal,B,Is there a yellow apple present?,yes
+demorgan_horiz_003,DeMorgan,18,Horizontal,B,Is there a green cat present?,yes
+demorgan_horiz_003,DeMorgan,18,Horizontal,B,Are the objects arranged left to right?,yes
+demorgan_horiz_003,DeMorgan,18,Horizontal,B,Is the yellow apple not positioned to the left of the green cat?,yes
+demorgan_horiz_004,DeMorgan,18,Horizontal,A,Is there a wooden table in the scene?,yes
+demorgan_horiz_004,DeMorgan,18,Horizontal,A,Is there a yellow banana present?,yes
+demorgan_horiz_004,DeMorgan,18,Horizontal,A,Is there a green apple present?,yes
+demorgan_horiz_004,DeMorgan,18,Horizontal,A,Are the banana and apple arranged side by side?,yes
+demorgan_horiz_004,DeMorgan,18,Horizontal,A,Is the setting indoors?,yes
+demorgan_horiz_004,DeMorgan,18,Horizontal,B,Is there a wooden table in the scene?,yes
+demorgan_horiz_004,DeMorgan,18,Horizontal,B,Is there a yellow banana present?,yes
+demorgan_horiz_004,DeMorgan,18,Horizontal,B,Is there a green apple present?,yes
+demorgan_horiz_004,DeMorgan,18,Horizontal,B,Are the banana and apple arranged side by side?,yes
+demorgan_horiz_004,DeMorgan,18,Horizontal,B,Is the setting indoors?,yes
+demorgan_horiz_005,DeMorgan,18,Horizontal,A,Is the surface plain and white?,yes
+demorgan_horiz_005,DeMorgan,18,Horizontal,A,Is there a banana in the scene?,yes
+demorgan_horiz_005,DeMorgan,18,Horizontal,A,Is there a cat in the scene?,yes
+demorgan_horiz_005,DeMorgan,18,Horizontal,A,Is the banana green?,yes
+demorgan_horiz_005,DeMorgan,18,Horizontal,A,Is the cat yellow?,yes
+demorgan_horiz_005,DeMorgan,18,Horizontal,B,Is the surface plain and white?,yes
+demorgan_horiz_005,DeMorgan,18,Horizontal,B,Is there a banana in the scene?,yes
+demorgan_horiz_005,DeMorgan,18,Horizontal,B,Is there a cat in the scene?,yes
+demorgan_horiz_005,DeMorgan,18,Horizontal,B,Is the banana green?,yes
+demorgan_horiz_005,DeMorgan,18,Horizontal,B,Is the cat yellow?,yes
+demorgan_vert_001,DeMorgan,19,Vertical,A,Is the floor dark metal?,yes
+demorgan_vert_001,DeMorgan,19,Vertical,A,Is there a green dog in the scene?,yes
+demorgan_vert_001,DeMorgan,19,Vertical,A,Is there a blue banana in the scene?,yes
+demorgan_vert_001,DeMorgan,19,Vertical,A,Are the green dog and blue banana arranged vertically?,yes
+demorgan_vert_001,DeMorgan,19,Vertical,A,Is the scene set indoors?,yes
+demorgan_vert_001,DeMorgan,19,Vertical,B,Is the floor dark metal?,yes
+demorgan_vert_001,DeMorgan,19,Vertical,B,Is there a green dog in the scene?,yes
+demorgan_vert_001,DeMorgan,19,Vertical,B,Is there a blue banana in the scene?,yes
+demorgan_vert_001,DeMorgan,19,Vertical,B,Are the green dog and blue banana arranged vertically?,yes
+demorgan_vert_001,DeMorgan,19,Vertical,B,Is the scene set indoors?,yes
+demorgan_vert_002,DeMorgan,19,Vertical,A,Is the floor dark and metallic?,yes
+demorgan_vert_002,DeMorgan,19,Vertical,A,Is there a green banana in the scene?,yes
+demorgan_vert_002,DeMorgan,19,Vertical,A,Is there a blue dog in the scene?,yes
+demorgan_vert_002,DeMorgan,19,Vertical,A,Are the green banana and blue dog both present?,yes
+demorgan_vert_002,DeMorgan,19,Vertical,A,Is the scene indoors?,yes
+demorgan_vert_002,DeMorgan,19,Vertical,B,Is the floor dark and metallic?,yes
+demorgan_vert_002,DeMorgan,19,Vertical,B,Is there a green banana in the scene?,yes
+demorgan_vert_002,DeMorgan,19,Vertical,B,Is there a blue dog in the scene?,yes
+demorgan_vert_002,DeMorgan,19,Vertical,B,Are the green banana and blue dog both present?,yes
+demorgan_vert_002,DeMorgan,19,Vertical,B,Is the scene indoors?,yes
+demorgan_vert_003,DeMorgan,19,Vertical,A,Is the floor dark and metallic?,yes
+demorgan_vert_003,DeMorgan,19,Vertical,A,Is there a banana in the scene?,yes
+demorgan_vert_003,DeMorgan,19,Vertical,A,Is there a cat in the scene?,yes
+demorgan_vert_003,DeMorgan,19,Vertical,A,Is the banana blue in color?,yes
+demorgan_vert_003,DeMorgan,19,Vertical,A,Is the cat yellow in color?,yes
+demorgan_vert_003,DeMorgan,19,Vertical,B,Is the floor dark and metallic?,yes
+demorgan_vert_003,DeMorgan,19,Vertical,B,Is there a banana in the scene?,yes
+demorgan_vert_003,DeMorgan,19,Vertical,B,Is there a cat in the scene?,yes
+demorgan_vert_003,DeMorgan,19,Vertical,B,Is the banana blue in color?,yes
+demorgan_vert_003,DeMorgan,19,Vertical,B,Is the cat yellow in color?,yes
+demorgan_vert_004,DeMorgan,19,Vertical,A,Is there a dark metal floor in the scene?,yes
+demorgan_vert_004,DeMorgan,19,Vertical,A,Is there a red apple present?,yes
+demorgan_vert_004,DeMorgan,19,Vertical,A,Is there a yellow banana present?,yes
+demorgan_vert_004,DeMorgan,19,Vertical,A,Are the red apple and yellow banana both visible?,yes
+demorgan_vert_004,DeMorgan,19,Vertical,A,Is the scene indoors?,yes
+demorgan_vert_004,DeMorgan,19,Vertical,B,Is there a dark metal floor in the scene?,yes
+demorgan_vert_004,DeMorgan,19,Vertical,B,Is there a red apple present?,yes
+demorgan_vert_004,DeMorgan,19,Vertical,B,Is there a yellow banana present?,yes
+demorgan_vert_004,DeMorgan,19,Vertical,B,Are the red apple and yellow banana both visible?,yes
+demorgan_vert_004,DeMorgan,19,Vertical,B,Is the scene indoors?,yes
+demorgan_vert_005,DeMorgan,19,Vertical,A,Is the surface plain and white?,yes
+demorgan_vert_005,DeMorgan,19,Vertical,A,Is there a green cat in the scene?,yes
+demorgan_vert_005,DeMorgan,19,Vertical,A,Is there a red banana in the scene?,yes
+demorgan_vert_005,DeMorgan,19,Vertical,A,Are the objects arranged vertically?,yes
+demorgan_vert_005,DeMorgan,19,Vertical,A,Is the scene simple without additional objects?,yes
+demorgan_vert_005,DeMorgan,19,Vertical,B,Is the surface plain and white?,yes
+demorgan_vert_005,DeMorgan,19,Vertical,B,Is there a green cat in the scene?,yes
+demorgan_vert_005,DeMorgan,19,Vertical,B,Is there a red banana in the scene?,yes
+demorgan_vert_005,DeMorgan,19,Vertical,B,Are the objects arranged vertically?,yes
+demorgan_vert_005,DeMorgan,19,Vertical,B,Is the scene simple without additional objects?,yes
+demorgan_attr_001,DeMorgan,20,Attributes,A,Is there a wooden table in the image?,yes
+demorgan_attr_001,DeMorgan,20,Attributes,A,Is there a cat present on or near the table?,yes
+demorgan_attr_001,DeMorgan,20,Attributes,A,Is the cat not small in size?,yes
+demorgan_attr_001,DeMorgan,20,Attributes,A,Is the cat not blue in color?,yes
+demorgan_attr_001,DeMorgan,20,Attributes,A,Is the cat possibly large or red?,yes
+demorgan_attr_001,DeMorgan,20,Attributes,B,Is there a wooden table in the image?,yes
+demorgan_attr_001,DeMorgan,20,Attributes,B,Is there a cat present on or near the table?,yes
+demorgan_attr_001,DeMorgan,20,Attributes,B,Is the cat not small in size?,yes
+demorgan_attr_001,DeMorgan,20,Attributes,B,Is the cat not blue in color?,yes
+demorgan_attr_001,DeMorgan,20,Attributes,B,Is the cat possibly large or red?,yes
+demorgan_attr_002,DeMorgan,20,Attributes,A,Is there a banana on the floor?,yes
+demorgan_attr_002,DeMorgan,20,Attributes,A,Is the floor made of metal?,yes
+demorgan_attr_002,DeMorgan,20,Attributes,A,Is the floor dark in color?,yes
+demorgan_attr_002,DeMorgan,20,Attributes,A,Is the banana not small?,yes
+demorgan_attr_002,DeMorgan,20,Attributes,A,Is the banana not yellow?,yes
+demorgan_attr_002,DeMorgan,20,Attributes,B,Is there a banana on the floor?,yes
+demorgan_attr_002,DeMorgan,20,Attributes,B,Is the floor made of metal?,yes
+demorgan_attr_002,DeMorgan,20,Attributes,B,Is the floor dark in color?,yes
+demorgan_attr_002,DeMorgan,20,Attributes,B,Is the banana not small?,yes
+demorgan_attr_002,DeMorgan,20,Attributes,B,Is the banana not yellow?,yes
+demorgan_attr_003,DeMorgan,20,Attributes,A,Is there a wooden table in the image?,yes
+demorgan_attr_003,DeMorgan,20,Attributes,A,Is there a banana on the table?,yes
+demorgan_attr_003,DeMorgan,20,Attributes,A,Is the banana not large and blue at the same time?,yes
+demorgan_attr_003,DeMorgan,20,Attributes,A,Is the banana a color other than blue?,yes
+demorgan_attr_003,DeMorgan,20,Attributes,A,Is the banana size different from large?,yes
+demorgan_attr_003,DeMorgan,20,Attributes,B,Is there a wooden table in the image?,yes
+demorgan_attr_003,DeMorgan,20,Attributes,B,Is there a banana on the table?,yes
+demorgan_attr_003,DeMorgan,20,Attributes,B,Is the banana not large and blue at the same time?,yes
+demorgan_attr_003,DeMorgan,20,Attributes,B,Is the banana a color other than blue?,yes
+demorgan_attr_003,DeMorgan,20,Attributes,B,Is the banana size different from large?,yes
+demorgan_attr_004,DeMorgan,20,Attributes,A,Is there a wooden table in the image?,yes
+demorgan_attr_004,DeMorgan,20,Attributes,A,Is there a banana on the table?,yes
+demorgan_attr_004,DeMorgan,20,Attributes,A,Is the banana not small in size?,yes
+demorgan_attr_004,DeMorgan,20,Attributes,A,Is the banana not blue in color?,yes
+demorgan_attr_004,DeMorgan,20,Attributes,A,Is the scene focused on a table with fruit?,yes
+demorgan_attr_004,DeMorgan,20,Attributes,B,Is there a wooden table in the image?,yes
+demorgan_attr_004,DeMorgan,20,Attributes,B,Is there a banana on the table?,yes
+demorgan_attr_004,DeMorgan,20,Attributes,B,Is the banana not small in size?,yes
+demorgan_attr_004,DeMorgan,20,Attributes,B,Is the banana not blue in color?,yes
+demorgan_attr_004,DeMorgan,20,Attributes,B,Is the scene focused on a table with fruit?,yes
+demorgan_attr_005,DeMorgan,20,Attributes,A,Is there a wooden table in the image?,yes
+demorgan_attr_005,DeMorgan,20,Attributes,A,Is there a dog present on or near the table?,yes
+demorgan_attr_005,DeMorgan,20,Attributes,A,Is the dog not large and blue at the same time?,yes
+demorgan_attr_005,DeMorgan,20,Attributes,A,Does the dog have a color other than blue?,yes
+demorgan_attr_005,DeMorgan,20,Attributes,A,Is the dog smaller than large?,yes
+demorgan_attr_005,DeMorgan,20,Attributes,B,Is there a wooden table in the image?,yes
+demorgan_attr_005,DeMorgan,20,Attributes,B,Is there a dog present on or near the table?,yes
+demorgan_attr_005,DeMorgan,20,Attributes,B,Is the dog not large and blue at the same time?,yes
+demorgan_attr_005,DeMorgan,20,Attributes,B,Does the dog have a color other than blue?,yes
+demorgan_attr_005,DeMorgan,20,Attributes,B,Is the dog smaller than large?,yes
