@@ -42,11 +42,11 @@ We then:
 
 We generate templated prompts over simple objects (cat, dog, banana, etc.) with controlled relations, such as:
 
-- **Commutative–Horizontal:  **
+- Commutative–Horizontal:  
   - A: `a red cube to the left of a blue sphere on a wooden table`  
   - B: `a blue sphere to the right of a red cube on a wooden table`  
 
-- **DeMorgan–Conjunctive:  **
+- DeMorgan–Conjunctive:  
   - A: `a scene where it is not the case that both a red cube and a blue sphere are present`  
   - B: `a scene with either no red cube or no blue sphere present`  
 
@@ -139,6 +139,19 @@ The notebook also produces:
 * Bar plots of stability by category (20 bars)
 * Bar plots by logical law (5 bars)
 * Bar plots by semantic dimension (4 bars)
-* Heatmaps (logical law × semantic dimension) of mean stability and mean faithfulness 
+* Heatmaps (logical law × semantic dimension) of mean stability and mean faithfulness
+
+[category_faithfulness_bar.png](Plotted_Results/category_faithfulness_bar.png)
+
+[category_stability_bar.png](Plotted_Results/category_stability_bar.png)
+
+[logical_law_stability_bar.png](Plotted_Results/logical_law_stability_bar.png)
+
+[semantic_dim_faithfulness_bar.png](Plotted_Results/semantic_dim_faithfulness_bar.png)
+
+[heatmap_stability.png](Plotted_Results/heatmap_stability.png)
+
+[heatmap_faithfulness.png](Plotted_Results/heatmap_faithfulness.png)
 
 **Qualitative examples of the worst-performing categories** (A/B images + prompts)
+[Results Report PDF](Plotted_Results/MetaLogic_TIFA_Report.pdf)
